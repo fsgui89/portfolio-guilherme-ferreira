@@ -1,13 +1,495 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
+
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Portifólio - Refatorando</title>
+
+        <meta
+            name="description"
+            content="Portfólio de Guilherme Ferreira Soares, Product Engineer focado em SaaS, IA e Experiência do Usuário."
+        >
+
+        <title>Guilherme Ferreira Soares | Product Engineer</title>
+
         <link rel="icon" href="public/images/logo-refatorando.png" type="image/x-icon">
+
         <link rel="stylesheet" href="public/css/styles.css">
     </head>
-    <body>
 
+    <body>
+        <header class="site-header">
+            <div class="header-container">
+                <a href="#inicio" class="logo">
+                    Guilherme<span>FS</span>
+                </a>
+
+                <nav class="menu" aria-label="Navegação principal">
+                    <a href="#inicio">Home</a>
+                    <a href="#sobre">Sobre</a>
+                    <a href="#habilidades">Habilidades</a>
+                    <a href="#projetos">Projetos</a>
+                    <a href="#contato">Contato</a>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <section id="inicio" class="hero-section">
+                <div class="hero-container">
+                    <div class="hero-content">
+                        <span class="section-tag">Portfólio pessoal</span>
+
+                        <h1>
+                            Guilherme<br>
+                            Ferreira<br>
+                            Soares
+                        </h1>
+
+                        <h2>
+                            Product Engineer focado em SaaS, IA e Experiência do Usuário
+                        </h2>
+
+                        <p>
+                            Desenvolvo projetos digitais unindo tecnologia, visão de produto,
+                            automação de processos e experiência do usuário para transformar <br>
+                            ideias em soluções mais simples, funcionais e escaláveis.
+                        </p>
+
+                        <div class="hero-buttons">
+                            <a href="#projetos" class="primary-button">Ver projetos</a>
+                            <a href="#contato" class="secondary-button">Entrar em contato</a>
+                        </div>
+                    </div>
+
+                    <div class="hero-image-area">
+                        <div class="image-glow"></div>
+
+                        <img
+                            src="public/images/profile/guilherme-ferreira.png"
+                            alt="Foto profissional de Guilherme Ferreira Soares"
+                            class="profile-image"
+                        >
+                    </div>
+                </div>
+            </section>
+
+            <section id="sobre" class="about-section">
+                <div class="section-heading">
+                    <span class="section-tag">Sobre mim</span>
+                    <h2>Da educação à tecnologia, criando soluções com propósito.</h2>
+                </div>
+
+                <div class="about-grid">
+                    <div class="about-text">
+                        <p>
+                            Sou um profissional em transição para tecnologia, com forte experiência
+                            em educação, automação de processos, gestão operacional e desenvolvimento
+                            de soluções digitais.
+                        </p>
+
+                        <p>
+                            Minha trajetória une visão de produto, experiência do usuário e pensamento
+                            sistêmico. Ao longo da minha carreira, atuei criando processos, organizando
+                            operações, desenvolvendo controles e transformando problemas reais em soluções
+                            mais simples, eficientes e escaláveis.
+                        </p>
+
+                        <p>
+                            Hoje, direciono essa experiência para o desenvolvimento web, com foco em SaaS,
+                            inteligência artificial e construção de produtos digitais intuitivos. Busco criar
+                            soluções que não sejam apenas funcionais, mas também claras, úteis e centradas
+                            na experiência de quem usa.
+                        </p>
+                    </div>
+
+                    <div class="about-card">
+                        <h3>Minha visão</h3>
+
+                        <p>
+                            Acredito que tecnologia não é apenas sobre código. É sobre entender problemas,
+                            criar caminhos melhores e construir experiências que façam sentido para pessoas
+                            e negócios.
+                        </p>
+
+                        <div class="about-highlights">
+                            <span>SaaS</span>
+                            <span>IA</span>
+                            <span>UX</span>
+                            <span>Produto</span>
+                            <span>Automação</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="habilidades" class="skills-section">
+                <div class="section-heading">
+                    <span class="section-tag">Habilidades</span>
+                    <h2>Tecnologias, produto e visão operacional.</h2>
+                </div>
+
+                <div class="skills-grid">
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-html5.png" alt="Ícone HTML5">
+                            <div class="skill-info">
+                                <span>HTML5</span>
+                                <strong>85%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 85%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-css3.png" alt="Ícone CSS3">
+                            <div class="skill-info">
+                                <span>CSS3</span>
+                                <strong>82%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 82%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-javascript.png" alt="Ícone JavaScript">
+                            <div class="skill-info">
+                                <span>JavaScript</span>
+                                <strong>70%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 70%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-git.png" alt="Ícone Git">
+                            <div class="skill-info">
+                                <span>Git & GitHub</span>
+                                <strong>78%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 78%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-react.png" alt="Ícone React">
+                            <div class="skill-info">
+                                <span>React</span>
+                                <strong>55%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 55%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-node.png" alt="Ícone Node.js">
+                            <div class="skill-info">
+                                <span>Node.js</span>
+                                <strong>50%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 50%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-ux.png" alt="Ícone UX">
+                            <div class="skill-info">
+                                <span>UX / Experiência do Usuário</span>
+                                <strong>85%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 85%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-automation.png" alt="Ícone Automação">
+                            <div class="skill-info">
+                                <span>Automação de Processos</span>
+                                <strong>90%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 90%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-saas.png" alt="Ícone SaaS">
+                            <div class="skill-info">
+                                <span>SaaS</span>
+                                <strong>80%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 80%;"></div>
+                        </div>
+                    </div>
+
+                    <div class="skill-card">
+                        <div class="skill-header">
+                            <img src="public/images/icon-ai.png" alt="Ícone Inteligência Artificial">
+                            <div class="skill-info">
+                                <span>IA aplicada a produtos</span>
+                                <strong>75%</strong>
+                            </div>
+                        </div>
+                        <div class="skill-bar">
+                            <div style="width: 75%;"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="projetos" class="projects-section">
+                <div class="section-heading">
+                    <span class="section-tag">Projetos</span>
+                    <h2>Projetos desenvolvidos durante minha evolução em tecnologia.</h2>
+                </div>
+
+                <div class="projects-grid">
+                    <article class="project-card featured-project">
+                        <img
+                            src="public/images/projects/refatorando-copa-viagens.png"
+                            alt="Screenshot do projeto Refatorando Copa Viagens"
+                        >
+
+                        <div class="project-content">
+                            <span class="project-category">HTML • CSS • JavaScript • GitHub Pages</span>
+
+                            <h3>Refatorando Copa Viagens</h3>
+
+                            <p>
+                                <p>
+                                Projeto educacional do curso que evoluiu para uma experiência interativa
+                                e colaborativa. Desenvolvi um mapa-múndi com bandeiras clicáveis, páginas
+                                individuais de destinos e uma estrutura preparada para a participação de
+                                outros alunos, simulando a dinâmica de um projeto real em equipe. A proposta
+                                foi aprovada pela direção do curso e apresentada em aula ao vivo, reunindo
+                                HTML, CSS, JavaScript, GitHub Pages, UX e visão de produto.
+                                </p>
+                            </p>
+
+                            <a
+                                href="https://github.com/fsgui89/refatorando-copa-viagens.git"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Ver no GitHub
+                            </a>
+                        </div>
+                    </article>
+
+                    <article class="project-card">
+                        <img
+                            src="public/images/projects/lista-de-tarefas.png"
+                            alt="Screenshot do projeto Lista de Tarefas"
+                        >
+
+                        <div class="project-content">
+                            <span class="project-category">HTML • CSS • JavaScript • LocalStorage</span>
+
+                            <h3>Lista de Tarefas</h3>
+
+                            <p>
+                                Aplicação de lista de tarefas criada com HTML, CSS e JavaScript, permitindo
+                                ao usuário adicionar tarefas, marcar como concluídas, filtrar itens ativos
+                                ou finalizados, limpar tarefas concluídas e alternar entre tema claro e escuro.
+                            </p>
+
+                            <a
+                                href="https://github.com/fsgui89/Lista-de-Tarefas.git"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Ver no GitHub
+                            </a>
+                        </div>
+                    </article>
+
+                    <article class="project-card">
+                        <img
+                            src="public/images/projects/tela-de-login.png"
+                            alt="Screenshot do projeto Tela de Login"
+                        >
+
+                        <div class="project-content">
+                            <span class="project-category">HTML • CSS • Responsividade</span>
+
+                            <h3>Projeto Tela de Login</h3>
+
+                            <p>
+                                Tela de login desenvolvida com HTML e CSS durante meus estudos de
+                                desenvolvimento web, com foco em estrutura visual, responsividade,
+                                organização de formulário e experiência do usuário em uma interface moderna.
+                            </p>
+
+                            <a
+                                href="https://github.com/fsgui89/projeto-login-refatorando.git"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Ver no GitHub
+                            </a>
+                        </div>
+                    </article>
+
+                    <article class="project-card">
+                        <img
+                            src="public/images/projects/ecommerce-techshop.png"
+                            alt="Screenshot do projeto Loja E-commerce TechShop"
+                        >
+
+                        <div class="project-content">
+                            <span class="project-category">HTML5 • CSS3 • JavaScript</span>
+
+                            <h3>Projeto Loja E-commerce</h3>
+
+                            <p>
+                                Projeto de e-commerce moderno desenvolvido com HTML5, CSS3 e JavaScript.
+                                A aplicação demonstra práticas de front-end profissional sem uso de frameworks,
+                                com estrutura organizada, páginas de produtos e espaço para evolução por meio
+                                de tarefas práticas.
+                            </p>
+
+                            <a
+                                href="https://github.com/fsgui89/incubadora-nivel-1-estagiario.git"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Ver no GitHub
+                            </a>
+                        </div>
+                    </article>
+
+                    <article class="project-card portfolio-card">
+                            <img
+                            src="public/images/projects/portfolio-guilherme-ferreira.png"
+                            alt="Screenshot do portfólio Guilherme Ferreira Soares"
+                            >
+
+                        <div class="project-content">
+                            <span class="project-category">HTML • CSS • Identidade pessoal</span>
+
+                            <h3>Portfólio Guilherme Ferreira Soares</h3>
+
+                            <p>
+                                Portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades,
+                                projetos e posicionamento profissional como Product Engineer focado em SaaS,
+                                IA e Experiência do Usuário.
+                            </p>
+
+                            <a
+                                href="https://github.com/fsgui89/portfolio-guilherme-ferreira.git"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Ver no GitHub
+                            </a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <section id="contato" class="contact-section">
+                <div class="section-heading">
+                    <span class="section-tag">Contato</span>
+                    <h2>Vamos conversar sobre tecnologia, produto e soluções digitais?</h2>
+                </div>
+
+                <div class="contact-grid">
+                    <a
+                        href="mailto:fsgui89@gmail.com"
+                        class="contact-card"
+                    >
+                        <img src="public/images/icon-email.png" alt="Ícone E-mail">
+
+                        <div>
+                            <span>E-mail</span>
+                            <strong>fsgui89@gmail.com</strong>
+                        </div>
+                    </a>
+
+                    <a
+                        href="https://linkedin.com/in/guilhermefsdev"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="contact-card"
+                    >
+                        <img src="public/images/icon-linkedin.png" alt="Ícone LinkedIn">
+
+                        <div>
+                            <span>LinkedIn</span>
+                            <strong>linkedin.com/in/guilhermefsdev</strong>
+                        </div>
+                    </a>
+
+                    <a
+                        href="https://github.com/fsgui89"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="contact-card"
+                    >
+                        <img src="public/images/icon-github.png" alt="Ícone GitHub">
+
+                        <div>
+                            <span>GitHub</span>
+                            <strong>github.com/fsgui89</strong>
+                        </div>
+                    </a>
+
+                    <a
+                        href="https://wa.me/5511964501819"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="contact-card"
+                    >
+                        <img src="public/images/icon-whatsapp.png" alt="Ícone WhatsApp">
+
+                        <div>
+                            <span>WhatsApp</span>
+                            <strong>Enviar mensagem</strong>
+                        </div>
+                    </a>
+                </div>
+            </section>
+
+            <div class="back-to-top-wrapper">
+                <a href="#inicio" class="back-to-top" aria-label="Voltar ao topo">
+                    ↑
+                </a>
+            </div>
+        </main>
+
+        <footer class="site-footer">
+            <p>
+                Desenvolvido por <strong>Guilherme Ferreira Soares</strong>
+            </p>
+
+            <span>
+                Product Engineer focado em SaaS, IA e Experiência do Usuário
+            </span>
+        </footer>
     </body>
 </html>
