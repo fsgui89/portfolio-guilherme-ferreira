@@ -469,6 +469,48 @@ a {
     text-decoration: underline;
 }
 
+.project-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.project-link {
+    min-height: 44px;
+    padding: 0 18px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    font-weight: 800;
+    text-decoration: none;
+    transition: 0.25s ease;
+}
+
+.project-link-primary {
+    background: var(--accent);
+    color: #07111f !important;
+}
+
+.project-link-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 14px 28px rgba(248, 197, 44, 0.22);
+    text-decoration: none !important;
+}
+
+.project-link-secondary {
+    border: 1px solid rgba(248, 197, 44, 0.45);
+    color: var(--accent) !important;
+    background: rgba(255, 255, 255, 0.04);
+}
+
+.project-link-secondary:hover {
+    transform: translateY(-3px);
+    background: rgba(248, 197, 44, 0.09);
+    text-decoration: none !important;
+}
+
 .portfolio-placeholder {
     height: 260px;
     display: flex;
@@ -682,7 +724,59 @@ a {
         width: 100%;
     }
 
+    .project-links {
+        flex-direction: column;
+    }
+
+    .project-link {
+        width: 100%;
+    }
+
     .contact-card {
         align-items: flex-start;
+    }
+}
+
+/* LANGUAGE SWITCH */
+.header-container {
+    gap: 24px;
+}
+
+.language-switch {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.language-button {
+    border: 0;
+    border-radius: 999px;
+    padding: 8px 11px;
+    cursor: pointer;
+    background: transparent;
+    color: var(--text-secondary);
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 800;
+    transition: 0.25s ease;
+}
+
+.language-button:hover,
+.language-button.active {
+    background: var(--accent);
+    color: #07111f;
+}
+
+@media (max-width: 960px) {
+    .language-switch {
+        order: 3;
+    }
+
+    .hero-section {
+        padding-top: 205px;
     }
 }
