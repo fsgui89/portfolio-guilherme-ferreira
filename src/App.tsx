@@ -458,7 +458,7 @@ const translations = {
     navContact: "Contact",
     openMenu: "Open menu",
     closeMenu: "Close menu",
-    heroKicker: "Product Engineer • Full Stack Developer",
+    heroKicker: "Product Engineer • Full Stack Developer • Software Engineer",
     heroName: "Guilherme Ferreira Soares",
     heroTitle: "Building digital products with SaaS, AI and UX at the core.",
     heroDescription:
@@ -600,7 +600,7 @@ const translations = {
     navContact: "Contato",
     openMenu: "Abrir menu",
     closeMenu: "Fechar menu",
-    heroKicker: "Product Engineer • Desenvolvedor Full Stack",
+    heroKicker: "Product Engineer • Desenvolvedor Full Stack • Engenheiro de Software",
     heroName: "Guilherme Ferreira Soares",
     heroTitle: "Construindo produtos digitais com SaaS, IA e UX no centro.",
     heroDescription:
@@ -743,7 +743,7 @@ const translations = {
     navContact: "Contatti",
     openMenu: "Apri menu",
     closeMenu: "Chiudi menu",
-    heroKicker: "Product Engineer • Sviluppatore Full Stack",
+    heroKicker: "Product Engineer • Sviluppatore Full Stack • Ingegnere del Software",
     heroName: "Guilherme Ferreira Soares",
     heroTitle: "Creo prodotti digitali mettendo SaaS, IA e UX al centro.",
     heroDescription:
