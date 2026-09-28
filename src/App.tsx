@@ -482,7 +482,7 @@ const translations = {
     nexsoRole: "Product Engineer",
     nexsoDescription:
       "I build SaaS products from discovery to implementation, connecting product, UX and full-stack development. I turn business needs into digital solutions with React, TypeScript, Node.js, PostgreSQL, APIs, automation and AI, while contributing to architecture and engineering standards.",
-    eipgPeriod: "2021 - 2024",
+    eipgPeriod: "2017 - 2024",
     eipgRole: "Coordinator & Process Engineering",
     eipgDescription:
       "I built from scratch and led an after-school operation that grew to more than 200 students and a team of 25+ professionals. I integrated academic, administrative and financial processes and created Google Sheets automations to improve control, communication and decision-making.",
@@ -624,7 +624,7 @@ const translations = {
     nexsoRole: "Product Engineer",
     nexsoDescription:
       "Atuo na construção de produtos SaaS do discovery à implementação, conectando produto, UX e desenvolvimento full stack. Transformo necessidades de negócio em soluções digitais com React, TypeScript, Node.js, PostgreSQL, APIs, automações e IA, participando também de decisões de arquitetura e padronização técnica.",
-    eipgPeriod: "2021 - 2024",
+    eipgPeriod: "2017 - 2024",
     eipgRole: "Coordenador e Engenharia de Processos",
     eipgDescription:
       "Estruturei do zero e liderei uma operação de contraturno que alcançou mais de 200 alunos e uma equipe com mais de 25 profissionais. Integrei processos acadêmicos, administrativos e financeiros e desenvolvi automações em Google Sheets para melhorar controle, comunicação e tomada de decisão.",
@@ -772,7 +772,7 @@ const translations = {
     nexsoRole: "Product Engineer",
     nexsoDescription:
       "Costruisco prodotti SaaS dalla discovery all’implementazione, collegando prodotto, UX e sviluppo full stack. Trasformo esigenze di business in soluzioni digitali con React, TypeScript, Node.js, PostgreSQL, API, automazioni e IA, contribuendo anche alle decisioni architetturali e alla standardizzazione tecnica.",
-    eipgPeriod: "2021 - 2024",
+    eipgPeriod: "2017 - 2024",
     eipgRole: "Coordinatore e Ingegneria dei Processi",
     eipgDescription:
       "Ho strutturato da zero e guidato un programma extracurricolare che ha raggiunto oltre 200 studenti e un team di più di 25 professionisti. Ho integrato processi accademici, amministrativi e finanziari e creato automazioni in Google Sheets per migliorare controllo, comunicazione e processo decisionale.",
