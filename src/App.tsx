@@ -462,7 +462,7 @@ const translations = {
     heroName: "Guilherme Ferreira Soares",
     heroTitle: "Building digital products with SaaS, AI and UX at the core.",
     heroDescription:
-      "I combine software development, product thinking and more than 10 years of experience improving processes to turn ideas into simple, functional and scalable solutions.",
+      "I combine software development, product thinking and more than 12 years of experience improving processes to turn ideas into simple, functional and scalable solutions.",
     viewProjects: "View projects",
     contactMe: "Let's talk",
     aboutEyebrow: "About",
@@ -470,7 +470,7 @@ const translations = {
     aboutLead:
       "I am a Product Engineer and Full Stack Developer focused on SaaS, AI, process automation and user experience.",
     aboutText:
-      "At Nexso, I connect product discovery, UX and software development to build useful and scalable digital solutions. Before technology, I spent more than 10 years leading projects and improving operations. This journey gave me a practical understanding of people, processes and real business problems.",
+      "At nexso, I connect product discovery, UX and software development to build useful and scalable digital solutions. Before technology, I spent more than 12 years leading projects and improving operations. This journey gave me a practical understanding of people, processes and real business problems.",
     metricYears: "years leading projects and improving processes",
     metricStudents: "students in an academic operation structured and scaled",
     metricFranchises: "franchises assessed for national expansion",
@@ -479,17 +479,17 @@ const translations = {
     experienceIntro:
       "My trajectory connects technology, education and operations. Each stage strengthened the way I investigate problems, structure processes and turn complexity into practical solutions.",
     nexsoPeriod: "2025 - Present",
-    nexsoRole: "Product Engineer & Co-Founder",
+    nexsoRole: "Product Engineer",
     nexsoDescription:
-      "I help shape intelligent SaaS products from discovery to implementation, connecting requirements, UX, architecture and development. I work with product backlogs, multi-tenant decisions, APIs, integrations, automations and AI.",
-    eipgPeriod: "2017 - 2024",
+      "I build SaaS products from discovery to implementation, connecting product, UX and full-stack development. I turn business needs into digital solutions with React, TypeScript, Node.js, PostgreSQL, APIs, automation and AI, while contributing to architecture and engineering standards.",
+    eipgPeriod: "2021 - 2024",
     eipgRole: "Coordinator & Process Engineering",
     eipgDescription:
-      "I structured and led an academic operation that reached more than 200 active students, integrating academic, administrative, financial and communication processes and coordinating a multidisciplinary team.",
+      "I built from scratch and led an after-school operation that grew to more than 200 students and a team of 25+ professionals. I integrated academic, administrative and financial processes and created Google Sheets automations to improve control, communication and decision-making.",
     dekraPeriod: "2011 - 2013",
     dekraRole: "Business Process & Feasibility Analyst",
     dekraDescription:
-      "I analyzed the operational feasibility of a national expansion involving 102 franchises, combining financial, geographic, commercial and operational data with technical teams, operations and leadership.",
+      "I worked on the feasibility analysis for a nationwide expansion involving 102 franchises. I identified incomplete data, outdated information, calculation errors and usability issues; with Finance, I reviewed the data and calculations and redesigned the interface, making the model clearer and more reliable.",
     skillsEyebrow: "Skills",
     skillsTitle: ["Knowledge", "transformed into", "solutions."],
     skillsIntro:
@@ -551,7 +551,7 @@ const translations = {
             name: "Python",
             level: 3,
             levelLabel: "Practical",
-            evidence: "Automations and experiments applied at Nexso.",
+            evidence: "Automations and experiments applied at nexso.",
           },
         ],
       },
@@ -563,7 +563,7 @@ const translations = {
             level: 4,
             levelLabel: "Professional",
             evidence:
-              "Discovery, personas, requirements and experience decisions at Nexso.",
+              "Discovery, personas, requirements and experience decisions at nexso.",
           },
           {
             name: "SaaS + AI",
@@ -604,7 +604,7 @@ const translations = {
     heroName: "Guilherme Ferreira Soares",
     heroTitle: "Construindo produtos digitais com SaaS, IA e UX no centro.",
     heroDescription:
-      "Uno desenvolvimento de software, visão de produto e mais de 10 anos de experiência aprimorando processos para transformar ideias em soluções simples, funcionais e escaláveis.",
+      "Uno desenvolvimento de software, visão de produto e mais de 12 anos de experiência aprimorando processos para transformar ideias em soluções simples, funcionais e escaláveis.",
     viewProjects: "Ver projetos",
     contactMe: "Vamos conversar",
     aboutEyebrow: "Sobre",
@@ -612,7 +612,7 @@ const translations = {
     aboutLead:
       "Atuo como Product Engineer e Desenvolvedor Full Stack, com foco em SaaS, IA, automação de processos e experiência do usuário.",
     aboutText:
-      "Na Nexso, conecto discovery de produto, UX e desenvolvimento de software para construir soluções digitais úteis e escaláveis. Antes da tecnologia, acumulei mais de 10 anos liderando projetos e aprimorando operações. Essa trajetória me deu uma compreensão prática de pessoas, processos e problemas reais de negócio.",
+      "Na nexso, conecto discovery de produto, UX e desenvolvimento de software para construir soluções digitais úteis e escaláveis. Antes da tecnologia, acumulei mais de 12 anos liderando projetos e aprimorando operações. Essa trajetória me deu uma compreensão prática de pessoas, processos e problemas reais de negócio.",
     metricYears: "anos liderando projetos e aprimorando processos",
     metricStudents: "alunos em uma operação acadêmica estruturada e escalada",
     metricFranchises: "franquias analisadas para uma expansão nacional",
@@ -621,17 +621,17 @@ const translations = {
     experienceIntro:
       "Minha trajetória conecta tecnologia, educação e operações. Cada etapa fortaleceu minha forma de investigar problemas, estruturar processos e transformar complexidade em soluções práticas.",
     nexsoPeriod: "2025 - Atualmente",
-    nexsoRole: "Product Engineer & Co-Founder",
+    nexsoRole: "Product Engineer",
     nexsoDescription:
-      "Ajudo a construir produtos SaaS inteligentes do discovery à implementação, conectando requisitos, UX, arquitetura e desenvolvimento. Trabalho com backlogs de produto, decisões multi-tenant, APIs, integrações, automações e IA.",
-    eipgPeriod: "2017 - 2024",
+      "Atuo na construção de produtos SaaS do discovery à implementação, conectando produto, UX e desenvolvimento full stack. Transformo necessidades de negócio em soluções digitais com React, TypeScript, Node.js, PostgreSQL, APIs, automações e IA, participando também de decisões de arquitetura e padronização técnica.",
+    eipgPeriod: "2021 - 2024",
     eipgRole: "Coordenador e Engenharia de Processos",
     eipgDescription:
-      "Estruturei e liderei uma operação acadêmica que alcançou mais de 200 alunos ativos, integrando processos acadêmicos, administrativos, financeiros e de comunicação e coordenando uma equipe multidisciplinar.",
+      "Estruturei do zero e liderei uma operação de contraturno que alcançou mais de 200 alunos e uma equipe com mais de 25 profissionais. Integrei processos acadêmicos, administrativos e financeiros e desenvolvi automações em Google Sheets para melhorar controle, comunicação e tomada de decisão.",
     dekraPeriod: "2011 - 2013",
     dekraRole: "Analista de Processos de Negócio e Viabilidade",
     dekraDescription:
-      "Analisei a viabilidade operacional de uma expansão nacional envolvendo 102 franquias, combinando dados financeiros, geográficos, comerciais e operacionais com equipes técnicas, operações e liderança.",
+      "Atuei na análise de viabilidade de uma expansão nacional envolvendo 102 franquias. Identifiquei dados incompletos, informações desatualizadas, erros de cálculo e problemas de usabilidade; em parceria com o Financeiro, revisei dados e cálculos e redesenhei a interface, tornando o modelo mais claro e confiável.",
     skillsEyebrow: "Habilidades",
     skillsTitle: ["Conhecimento", "que se transforma", "em solução."],
     skillsIntro:
@@ -694,7 +694,7 @@ const translations = {
             name: "Python",
             level: 3,
             levelLabel: "Prática",
-            evidence: "Automações e experimentações aplicadas à Nexso.",
+            evidence: "Automações e experimentações aplicadas à nexso.",
           },
         ],
       },
@@ -706,7 +706,7 @@ const translations = {
             level: 4,
             levelLabel: "Profissional",
             evidence:
-              "Discovery, personas, requisitos e decisões de experiência na Nexso.",
+              "Discovery, personas, requisitos e decisões de experiência na nexso.",
           },
           {
             name: "SaaS + IA",
@@ -747,7 +747,7 @@ const translations = {
     heroName: "Guilherme Ferreira Soares",
     heroTitle: "Creo prodotti digitali mettendo SaaS, IA e UX al centro.",
     heroDescription:
-      "Unisco sviluppo software, visione di prodotto e oltre 10 anni di esperienza nel miglioramento dei processi per trasformare idee in soluzioni semplici, funzionali e scalabili.",
+      "Unisco sviluppo software, visione di prodotto e oltre 12 anni di esperienza nel miglioramento dei processi per trasformare idee in soluzioni semplici, funzionali e scalabili.",
     viewProjects: "Vedi progetti",
     contactMe: "Parliamo",
     aboutEyebrow: "Chi sono",
@@ -755,7 +755,7 @@ const translations = {
     aboutLead:
       "Lavoro come Product Engineer e Sviluppatore Full Stack, con focus su SaaS, IA, automazione dei processi ed esperienza utente.",
     aboutText:
-      "In Nexso collego product discovery, UX e sviluppo software per creare soluzioni digitali utili e scalabili. Prima della tecnologia, ho maturato oltre 10 anni di esperienza nella guida di progetti e nel miglioramento delle operazioni. Questo percorso mi ha dato una comprensione pratica di persone, processi e problemi aziendali reali.",
+      "In nexso collego product discovery, UX e sviluppo software per creare soluzioni digitali utili e scalabili. Prima della tecnologia, ho maturato oltre 12 anni di esperienza nella guida di progetti e nel miglioramento delle operazioni. Questo percorso mi ha dato una comprensione pratica di persone, processi e problemi aziendali reali.",
     metricYears: "anni alla guida di progetti e nel miglioramento dei processi",
     metricStudents:
       "studenti in una struttura accademica organizzata e ampliata",
@@ -769,17 +769,17 @@ const translations = {
     experienceIntro:
       "Il mio percorso collega tecnologia, educazione e operazioni. Ogni fase ha rafforzato il mio modo di analizzare i problemi, strutturare i processi e trasformare la complessità in soluzioni pratiche.",
     nexsoPeriod: "2025 - Presente",
-    nexsoRole: "Product Engineer & Co-Founder",
+    nexsoRole: "Product Engineer",
     nexsoDescription:
-      "Contribuisco alla creazione di prodotti SaaS intelligenti, dalla discovery all’implementazione, collegando requisiti, UX, architettura e sviluppo. Lavoro con backlog di prodotto, decisioni multi-tenant, API, integrazioni, automazioni e IA.",
-    eipgPeriod: "2017 - 2024",
+      "Costruisco prodotti SaaS dalla discovery all’implementazione, collegando prodotto, UX e sviluppo full stack. Trasformo esigenze di business in soluzioni digitali con React, TypeScript, Node.js, PostgreSQL, API, automazioni e IA, contribuendo anche alle decisioni architetturali e alla standardizzazione tecnica.",
+    eipgPeriod: "2021 - 2024",
     eipgRole: "Coordinatore e Ingegneria dei Processi",
     eipgDescription:
-      "Ho strutturato e guidato un’operazione accademica che ha raggiunto oltre 200 studenti attivi, integrando processi accademici, amministrativi, finanziari e di comunicazione e coordinando un team multidisciplinare.",
+      "Ho strutturato da zero e guidato un programma extracurricolare che ha raggiunto oltre 200 studenti e un team di più di 25 professionisti. Ho integrato processi accademici, amministrativi e finanziari e creato automazioni in Google Sheets per migliorare controllo, comunicazione e processo decisionale.",
     dekraPeriod: "2011 - 2013",
     dekraRole: "Analista dei Processi Aziendali e di Fattibilità",
     dekraDescription:
-      "Ho analizzato la fattibilità operativa di un’espansione nazionale che coinvolgeva 102 franchising, combinando dati finanziari, geografici, commerciali e operativi con team tecnici, operativi e dirigenziali.",
+      "Ho lavorato all’analisi di fattibilità di un’espansione nazionale che coinvolgeva 102 franchising. Ho individuato dati incompleti, informazioni obsolete, errori di calcolo e problemi di usabilità; insieme al team Finance ho revisionato dati e calcoli e ridisegnato l’interfaccia, rendendo il modello più chiaro e affidabile.",
     skillsEyebrow: "Competenze",
     skillsTitle: ["Conoscenze", "che si trasformano", "in soluzioni."],
     skillsIntro:
@@ -842,7 +842,7 @@ const translations = {
             name: "Python",
             level: 3,
             levelLabel: "Pratica",
-            evidence: "Automazioni e sperimentazioni applicate in Nexso.",
+            evidence: "Automazioni e sperimentazioni applicate in nexso.",
           },
         ],
       },
@@ -853,7 +853,7 @@ const translations = {
             name: "Product Discovery + UX",
             level: 4,
             levelLabel: "Professionale",
-            evidence: "Discovery, personas, requisiti e decisioni UX in Nexso.",
+            evidence: "Discovery, personas, requisiti e decisioni UX in nexso.",
           },
           {
             name: "SaaS + IA",
@@ -1162,7 +1162,7 @@ function App() {
 
             <div className="impact-grid">
               <article className="impact-card">
-                <strong>10+</strong>
+                <strong>12+</strong>
                 <span>{copy.metricYears}</span>
               </article>
 
@@ -1200,16 +1200,16 @@ function App() {
 
                 <div className="experience-meta">
                   <span className="experience-period">{copy.nexsoPeriod}</span>
-                  <h3>Nexso</h3>
+                  <h3>nexso</h3>
                   <p>{copy.nexsoRole}</p>
                 </div>
 
                 <div className="experience-details">
                   <p>{copy.nexsoDescription}</p>
                   <div className="experience-tags">
-                    <span>SaaS</span>
+                    <span>Product Engineering</span>
+                    <span>Full Stack</span>
                     <span>Product Discovery</span>
-                    <span>UX</span>
                     <span>AI & Automation</span>
                   </div>
                 </div>
@@ -1228,9 +1228,9 @@ function App() {
                   <p>{copy.eipgDescription}</p>
                   <div className="experience-tags">
                     <span>Process Engineering</span>
-                    <span>Leadership</span>
+                    <span>Operations</span>
                     <span>Automation</span>
-                    <span>Data</span>
+                    <span>Leadership</span>
                   </div>
                 </div>
               </article>
@@ -1247,10 +1247,10 @@ function App() {
                 <div className="experience-details">
                   <p>{copy.dekraDescription}</p>
                   <div className="experience-tags">
-                    <span>Feasibility</span>
                     <span>Business Processes</span>
-                    <span>Operations</span>
                     <span>Data Analysis</span>
+                    <span>Process Improvement</span>
+                    <span>UX</span>
                   </div>
                 </div>
               </article>
