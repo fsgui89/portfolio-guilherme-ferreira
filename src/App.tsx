@@ -243,13 +243,13 @@ const certificates = [
   },
   {
     id: "pedagogia-unicid",
-    image: "diploma-pedagogia-unicid.svg",
+    image: "diploma-pedagogia-unicid.jpg",
     category: "education",
     featured: false,
   },
   {
     id: "geografia-unicid",
-    image: "diploma-geografia-unicid.svg",
+    image: "diploma-geografia-unicid.jpg",
     category: "education",
     featured: false,
   },
@@ -493,7 +493,7 @@ const translations = {
     closeMenu: "Close menu",
     heroKicker: "Product Engineer • Full Stack Developer • Software Engineer",
     heroName: "Guilherme Ferreira Soares",
-    heroTitle: "Building digital products with SaaS, AI and UX.",
+    heroTitle: ["Building digital products with", "SaaS, AI and UX."],
     heroDescription:
       "I combine software development, product thinking and more than 12 years of experience improving processes to turn ideas into simple, functional and scalable solutions.",
     viewProjects: "View projects",
@@ -635,7 +635,7 @@ const translations = {
     closeMenu: "Fechar menu",
     heroKicker: "Product Engineer • Desenvolvedor Full Stack • Engenheiro de Software",
     heroName: "Guilherme Ferreira Soares",
-    heroTitle: "Construindo produtos digitais com SaaS, IA e UX.",
+    heroTitle: ["Construindo produtos digitais com", "SaaS, IA e UX."],
     heroDescription:
       "Uno desenvolvimento de software, visão de produto e mais de 12 anos de experiência aprimorando processos para transformar ideias em soluções simples, funcionais e escaláveis.",
     viewProjects: "Ver projetos",
@@ -778,7 +778,7 @@ const translations = {
     closeMenu: "Chiudi menu",
     heroKicker: "Product Engineer • Sviluppatore Full Stack • Ingegnere del Software",
     heroName: "Guilherme Ferreira Soares",
-    heroTitle: "Creo prodotti digitali con SaaS, IA e UX.",
+    heroTitle: ["Creo prodotti digitali con", "SaaS, IA e UX."],
     heroDescription:
       "Unisco sviluppo software, visione di prodotto e oltre 12 anni di esperienza nel miglioramento dei processi per trasformare idee in soluzioni semplici, funzionali e scalabili.",
     viewProjects: "Vedi progetti",
@@ -1002,7 +1002,7 @@ function App() {
   const selectedProjects = projects.filter((project) => !project.featured);
   const visibleCertificates = showAllCertificates
     ? certificates
-    : certificates.filter((certificate) => certificate.featured);
+    : certificates.slice(0, 6);
   const activeCertificate =
     activeCertificateIndex === null
       ? null
@@ -1137,7 +1137,11 @@ function App() {
 
               <h1>{copy.heroName}</h1>
 
-              <h2>{copy.heroTitle}</h2>
+              <h2 className="hero-title">
+                {copy.heroTitle.map((line) => (
+                  <span key={line}>{line}</span>
+                ))}
+              </h2>
 
               <p className="hero-description">{copy.heroDescription}</p>
 

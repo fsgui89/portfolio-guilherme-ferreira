@@ -259,6 +259,16 @@ button {
   letter-spacing: -0.035em;
 }
 
+.hero-title span {
+  display: block;
+}
+
+@media (min-width: 901px) {
+  .hero-title span {
+    white-space: nowrap;
+  }
+}
+
 .hero-description {
   max-width: 680px;
   margin-top: 24px;
@@ -2456,16 +2466,18 @@ button {
 
 .certificate-modal-body figure {
   display: grid;
+  width: min(790px, 100%);
   min-width: 0;
+  justify-self: center;
   justify-items: center;
 }
 
 .certificate-modal-body figure img {
   display: block;
-  width: auto;
+  width: 100%;
   max-width: 100%;
-  height: auto;
-  max-height: calc(100vh - 220px);
+  height: min(540px, calc(100vh - 260px));
+  max-height: none;
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 10px;
   background: #fff;
@@ -2576,7 +2588,8 @@ button {
   }
 
   .certificate-modal-body figure img {
-    max-height: calc(100vh - 180px);
+    height: min(420px, calc(100vh - 180px));
+    max-height: none;
   }
 }
 
