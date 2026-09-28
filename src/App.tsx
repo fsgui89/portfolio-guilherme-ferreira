@@ -493,7 +493,7 @@ const translations = {
     closeMenu: "Close menu",
     heroKicker: "Product Engineer • Full Stack Developer • Software Engineer",
     heroName: "Guilherme Ferreira Soares",
-    heroTitle: "Building digital products with SaaS, AI and UX at the core.",
+    heroTitle: "Building digital products with SaaS, AI and UX.",
     heroDescription:
       "I combine software development, product thinking and more than 12 years of experience improving processes to turn ideas into simple, functional and scalable solutions.",
     viewProjects: "View projects",
@@ -635,7 +635,7 @@ const translations = {
     closeMenu: "Fechar menu",
     heroKicker: "Product Engineer • Desenvolvedor Full Stack • Engenheiro de Software",
     heroName: "Guilherme Ferreira Soares",
-    heroTitle: "Construindo produtos digitais com SaaS, IA e UX no centro.",
+    heroTitle: "Construindo produtos digitais com SaaS, IA e UX.",
     heroDescription:
       "Uno desenvolvimento de software, visão de produto e mais de 12 anos de experiência aprimorando processos para transformar ideias em soluções simples, funcionais e escaláveis.",
     viewProjects: "Ver projetos",
@@ -778,7 +778,7 @@ const translations = {
     closeMenu: "Chiudi menu",
     heroKicker: "Product Engineer • Sviluppatore Full Stack • Ingegnere del Software",
     heroName: "Guilherme Ferreira Soares",
-    heroTitle: "Creo prodotti digitali mettendo SaaS, IA e UX al centro.",
+    heroTitle: "Creo prodotti digitali con SaaS, IA e UX.",
     heroDescription:
       "Unisco sviluppo software, visione di prodotto e oltre 12 anni di esperienza nel miglioramento dei processi per trasformare idee in soluzioni semplici, funzionali e scalabili.",
     viewProjects: "Vedi progetti",
