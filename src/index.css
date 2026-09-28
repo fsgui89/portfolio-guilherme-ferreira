@@ -224,6 +224,14 @@ button {
   text-transform: uppercase;
 }
 
+@media (min-width: 901px) {
+  .hero-kicker {
+    font-size: clamp(0.62rem, 0.66vw, 0.7rem);
+    letter-spacing: 0.09em;
+    white-space: nowrap;
+  }
+}
+
 .hero-kicker::before {
   width: 34px;
   height: 2px;
