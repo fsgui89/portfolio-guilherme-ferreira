@@ -1187,14 +1187,14 @@ button {
 
   .hero-portrait {
     bottom: -52px;
-    width: min(560px, 122%);
-    max-height: 590px;
+    width: min(585px, 128%);
+    max-height: 620px;
   }
 
   .hero-portrait:hover {
     filter: drop-shadow(0 42px 52px rgba(0, 0, 0, 0.5))
       drop-shadow(0 0 44px rgba(59, 130, 246, 0.28));
-    transform: translateX(-50%) scale(1.085);
+    transform: translateX(-50%) scale(1.095);
   }
 }
 
