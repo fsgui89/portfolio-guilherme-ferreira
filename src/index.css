@@ -1186,7 +1186,9 @@ button {
   }
 
   .hero-portrait {
-    bottom: 20px;
+    bottom: -52px;
+    width: min(560px, 122%);
+    max-height: 590px;
   }
 
   .hero-portrait:hover {
