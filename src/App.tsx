@@ -89,21 +89,21 @@ const projectTranslations = {
     imageAlt: "Project preview",
     descriptions: {
       "torcida-brasil":
-        "A football e-commerce experience with search, filters, favorites, product variations, a persistent cart and a simulated checkout flow.",
+        "A JavaScript e-commerce experience with search, filters, favorites, product variations, a persistent cart and a simulated checkout flow.",
       "taskflow-react":
-        "A productivity application with a customizable task list, filters, progress indicators, completed-task management and local persistence.",
+        "A React and TypeScript productivity application with a customizable task list, filters, progress indicators, completed-task management and local persistence.",
       petcare:
-        "A pet care scheduling system with a complete booking flow, confirmation, administrative agenda, metrics and status management.",
+        "A Next.js and TypeScript pet care scheduling system with a complete booking flow, confirmation, administrative agenda, metrics and status management.",
       stepzone:
-        "A sneaker e-commerce experience with search, category filters, product pages, a persistent cart, automatic discounts and checkout.",
+        "A Next.js and TypeScript sneaker e-commerce experience with search, category filters, product pages, a persistent cart, automatic discounts and checkout.",
       "agencia-aurora":
-        "A responsive landing page for a digital agency, built with reusable components and a clear, conversion-oriented visual hierarchy.",
+        "A responsive Next.js and TypeScript landing page for a digital agency, built with reusable components and a clear, conversion-oriented visual hierarchy.",
       "refatorando-copa-viagens":
-        "An interactive travel experience connecting destinations, national teams and World Cup stories through a visual world map.",
+        "An interactive JavaScript travel experience connecting destinations, national teams and World Cup stories through a visual world map.",
       "tela-de-login":
-        "A responsive authentication interface with validation, local persistence, interaction states and clear user feedback.",
+        "A responsive JavaScript authentication interface with validation, local persistence, interaction states and clear user feedback.",
       "portfolio-2.0":
-        "A multilingual portfolio developed to present professional experience, technical skills, evidence and projects with clarity, organization and identity.",
+        "A multilingual React and TypeScript portfolio developed to present professional experience, technical skills, evidence and projects with clarity, organization and identity.",
     },
   },
   pt: {
@@ -119,21 +119,21 @@ const projectTranslations = {
     imageAlt: "Prévia do projeto",
     descriptions: {
       "torcida-brasil":
-        "Experiência de e-commerce dedicada ao futebol brasileiro, com busca, filtros, favoritos, variações de produto, carrinho persistente e checkout simulado.",
+        "E-commerce em JavaScript dedicado ao futebol brasileiro, com busca, filtros, favoritos, variações de produto, carrinho persistente e checkout simulado.",
       "taskflow-react":
-        "Aplicação de produtividade com lista personalizável, filtros, indicadores de progresso, gerenciamento de tarefas concluídas e persistência local.",
+        "Aplicação de produtividade em React e TypeScript com lista personalizável, filtros, indicadores de progresso, gerenciamento de tarefas concluídas e persistência local.",
       petcare:
-        "Sistema de agendamento para cuidados pet com fluxo completo, confirmação, agenda administrativa, métricas e gerenciamento de status.",
+        "Sistema em Next.js e TypeScript de agendamento para cuidados pet com fluxo completo, confirmação, agenda administrativa, métricas e gerenciamento de status.",
       stepzone:
-        "E-commerce de sneakers com pesquisa, filtros por categoria, páginas de produto, carrinho persistente, desconto automático e checkout.",
+        "E-commerce de sneakers em Next.js e TypeScript com pesquisa, filtros por categoria, páginas de produto, carrinho persistente, desconto automático e checkout.",
       "agencia-aurora":
-        "Landing page responsiva para uma agência digital, construída com componentes reutilizáveis e hierarquia visual orientada à conversão.",
+        "Landing page responsiva em Next.js e TypeScript para uma agência digital, construída com componentes reutilizáveis e hierarquia visual orientada à conversão.",
       "refatorando-copa-viagens":
-        "Experiência interativa de viagens que conecta destinos, seleções e histórias da Copa por meio de um mapa-múndi visual.",
+        "Experiência interativa de viagens em JavaScript que conecta destinos, seleções e histórias da Copa por meio de um mapa-múndi visual.",
       "tela-de-login":
-        "Interface de autenticação responsiva com validações, persistência local, estados de interação e feedback claro para o usuário.",
+        "Interface de autenticação responsiva em JavaScript com validações, persistência local, estados de interação e feedback claro para o usuário.",
       "portfolio-2.0":
-        "Portfólio multilíngue desenvolvido para apresentar trajetória profissional, habilidades técnicas, evidências e projetos com clareza, organização e identidade.",
+        "Portfólio multilíngue em React e TypeScript desenvolvido para apresentar trajetória profissional, habilidades técnicas, evidências e projetos com clareza, organização e identidade.",
     },
   },
   it: {
@@ -149,21 +149,21 @@ const projectTranslations = {
     imageAlt: "Anteprima del progetto",
     descriptions: {
       "torcida-brasil":
-        "Un’esperienza e-commerce dedicata al calcio brasiliano, con ricerca, filtri, preferiti, varianti di prodotto, carrello persistente e checkout simulato.",
+        "Un’esperienza e-commerce in JavaScript dedicata al calcio brasiliano, con ricerca, filtri, preferiti, varianti di prodotto, carrello persistente e checkout simulato.",
       "taskflow-react":
-        "Un’applicazione per la produttività con lista personalizzabile, filtri, indicatori di avanzamento, gestione delle attività completate e persistenza locale.",
+        "Un’applicazione per la produttività in React e TypeScript con lista personalizzabile, filtri, indicatori di avanzamento, gestione delle attività completate e persistenza locale.",
       petcare:
-        "Un sistema di prenotazione per la cura degli animali con flusso completo, conferma, agenda amministrativa, metriche e gestione dello stato.",
+        "Un sistema in Next.js e TypeScript di prenotazione per la cura degli animali con flusso completo, conferma, agenda amministrativa, metriche e gestione dello stato.",
       stepzone:
-        "Un e-commerce di sneakers con ricerca, filtri per categoria, pagine prodotto, carrello persistente, sconti automatici e checkout.",
+        "Un e-commerce di sneakers in Next.js e TypeScript con ricerca, filtri per categoria, pagine prodotto, carrello persistente, sconti automatici e checkout.",
       "agencia-aurora":
-        "Una landing page responsive per un’agenzia digitale, costruita con componenti riutilizzabili e una gerarchia visiva orientata alla conversione.",
+        "Una landing page responsive in Next.js e TypeScript per un’agenzia digitale, costruita con componenti riutilizzabili e una gerarchia visiva orientata alla conversione.",
       "refatorando-copa-viagens":
-        "Un’esperienza di viaggio interattiva che collega destinazioni, nazionali e storie dei Mondiali attraverso una mappa visiva.",
+        "Un’esperienza di viaggio interattiva in JavaScript che collega destinazioni, nazionali e storie dei Mondiali attraverso una mappa visiva.",
       "tela-de-login":
-        "Un’interfaccia di autenticazione responsive con validazione, persistenza locale, stati di interazione e feedback chiaro per l’utente.",
+        "Un’interfaccia di autenticazione responsive in JavaScript con validazione, persistenza locale, stati di interazione e feedback chiaro per l’utente.",
       "portfolio-2.0":
-        "Un portfolio multilingue sviluppato per presentare esperienza professionale, competenze tecniche, evidenze e progetti con chiarezza, organizzazione e identità.",
+        "Un portfolio multilingue in React e TypeScript sviluppato per presentare esperienza professionale, competenze tecniche, evidenze e progetti con chiarezza, organizzazione e identità.",
     },
   },
 } as const;
@@ -398,7 +398,7 @@ const contactTranslations = {
     whatsappText: "Send a message",
     backToTop: "Back to top",
     developedBy: "Developed by",
-    role: "Product Engineer focused on SaaS, AI and User Experience",
+    role: "Full Stack Developer • React, Next.js, Node.js • AI & UX",
     rights: "All rights reserved.",
     labels: {
       email: "Email",
@@ -417,7 +417,7 @@ const contactTranslations = {
     whatsappText: "Enviar mensagem",
     backToTop: "Voltar ao topo",
     developedBy: "Desenvolvido por",
-    role: "Product Engineer focado em SaaS, IA e Experiência do Usuário",
+    role: "Desenvolvedor Full Stack • React, Next.js, Node.js • IA e UX",
     rights: "Todos os direitos reservados.",
     labels: {
       email: "E-mail",
@@ -436,7 +436,7 @@ const contactTranslations = {
     whatsappText: "Invia un messaggio",
     backToTop: "Torna all'inizio",
     developedBy: "Sviluppato da",
-    role: "Product Engineer focalizzato su SaaS, AI ed Esperienza Utente",
+    role: "Sviluppatore Full Stack • React, Next.js, Node.js • IA e UX",
     rights: "Tutti i diritti riservati.",
     labels: {
       email: "E-mail",
@@ -458,19 +458,19 @@ const translations = {
     navContact: "Contact",
     openMenu: "Open menu",
     closeMenu: "Close menu",
-    heroKicker: "Product Engineer • Full Stack Developer",
+    heroKicker: "Full Stack Developer",
     heroName: "Guilherme Ferreira Soares",
-    heroTitle: ["Building digital products with", "SaaS, AI and UX."],
+    heroTitle: ["React • Next.js • Node.js", "Building products with AI and UX."],
     heroDescription:
-      "I combine software development, product thinking and more than 12 years of experience improving processes to turn ideas into simple, functional and scalable solutions.",
+      "I develop digital products with TypeScript, JavaScript and Python, integrating AI into solutions and my development workflow. SaaS, UX and product thinking guide what I build.",
     viewProjects: "View projects",
     contactMe: "Let's talk",
     aboutEyebrow: "About",
-    aboutTitle: "Experience transformed into product vision.",
+    aboutTitle: "Full Stack development with product vision.",
     aboutLead:
-      "I am a Product Engineer and Full Stack Developer focused on SaaS, AI, process automation and user experience.",
+      "I am a Full Stack Developer focused on React, Next.js, Node.js and TypeScript. I use JavaScript and Python, integrate AI and use it in development, and work with APIs, databases and Azure DevOps to build SaaS products with attention to user experience.",
     aboutText:
-      "At nexso, I connect product discovery, UX and software development to build useful and scalable digital solutions. Before technology, I spent more than 12 years leading projects and improving operations. This journey gave me a practical understanding of people, processes and real business problems.",
+      "At nexso, I develop software, APIs and automations, connecting implementation with UX and product discovery. My earlier experience of more than 12 years in leadership, operations, education and process improvement helps me understand people and business needs and make practical development decisions.",
     metricYears: "years leading projects and improving processes",
     metricStudents: "students in an academic operation structured and scaled",
     metricFranchises: "franchises assessed for national expansion",
@@ -479,9 +479,9 @@ const translations = {
     experienceIntro:
       "My trajectory connects technology, education and operations. Each stage strengthened the way I investigate problems, structure processes and turn complexity into practical solutions.",
     nexsoPeriod: "2025 - Present",
-    nexsoRole: "Product Engineer",
+    nexsoRole: "Full Stack Developer",
     nexsoDescription:
-      "I build SaaS products from discovery to implementation, connecting product, UX and full-stack development. I turn business needs into digital solutions with React, TypeScript, Node.js, PostgreSQL, APIs, automation and AI, while contributing to architecture and engineering standards.",
+      "I develop SaaS solutions with React, TypeScript, JavaScript, Node.js, APIs and databases such as PostgreSQL and MongoDB. I use Python for automations and experiments, integrate AI and use it in development, and organize work in Azure DevOps. UX and product discovery inform implementation, architecture and technical standards.",
     eipgPeriod: "2017 - 2024",
     eipgRole: "Coordinator & Process Engineering",
     eipgDescription:
@@ -556,7 +556,7 @@ const translations = {
         ],
       },
       {
-        title: "Product & Tools",
+        title: "Development Tools & Product",
         skills: [
           {
             name: "Product Discovery + UX",
@@ -566,7 +566,7 @@ const translations = {
               "Discovery, personas, requirements and experience decisions at nexso.",
           },
           {
-            name: "SaaS + AI",
+            name: "SaaS + AI Integration",
             level: 3,
             levelLabel: "Practical",
             evidence:
@@ -600,19 +600,19 @@ const translations = {
     navContact: "Contato",
     openMenu: "Abrir menu",
     closeMenu: "Fechar menu",
-    heroKicker: "Product Engineer • Desenvolvedor Full Stack",
+    heroKicker: "Desenvolvedor Full Stack",
     heroName: "Guilherme Ferreira Soares",
-    heroTitle: ["Construindo produtos digitais com", "SaaS, IA e UX."],
+    heroTitle: ["React • Next.js • Node.js", "Construindo produtos com IA e UX."],
     heroDescription:
-      "Uno desenvolvimento de software, visão de produto e mais de 12 anos de experiência aprimorando processos para transformar ideias em soluções simples, funcionais e escaláveis.",
+      "Desenvolvo produtos digitais com TypeScript, JavaScript e Python, integrando IA às soluções e ao desenvolvimento. SaaS, UX e visão de produto orientam o que construo.",
     viewProjects: "Ver projetos",
     contactMe: "Vamos conversar",
     aboutEyebrow: "Sobre",
-    aboutTitle: "Experiência transformada em visão de produto.",
+    aboutTitle: "Desenvolvimento Full Stack com visão de produto.",
     aboutLead:
-      "Atuo como Product Engineer e Desenvolvedor Full Stack, com foco em SaaS, IA, automação de processos e experiência do usuário.",
+      "Sou Desenvolvedor Full Stack com foco em React, Next.js, Node.js e TypeScript. Utilizo JavaScript e Python, integro IA e a utilizo no desenvolvimento, e trabalho com APIs, bancos de dados e Azure DevOps para construir produtos SaaS com atenção à experiência do usuário.",
     aboutText:
-      "Na nexso, conecto discovery de produto, UX e desenvolvimento de software para construir soluções digitais úteis e escaláveis. Antes da tecnologia, acumulei mais de 12 anos liderando projetos e aprimorando operações. Essa trajetória me deu uma compreensão prática de pessoas, processos e problemas reais de negócio.",
+      "Na nexso, desenvolvo software, APIs e automações, conectando implementação, UX e discovery de produto. Minha experiência anterior de mais de 12 anos em liderança, operações, educação e melhoria de processos contribui para compreender pessoas e necessidades de negócio e tomar decisões práticas no desenvolvimento.",
     metricYears: "anos liderando projetos e aprimorando processos",
     metricStudents: "alunos em uma operação acadêmica estruturada e escalada",
     metricFranchises: "franquias analisadas para uma expansão nacional",
@@ -621,9 +621,9 @@ const translations = {
     experienceIntro:
       "Minha trajetória conecta tecnologia, educação e operações. Cada etapa fortaleceu minha forma de investigar problemas, estruturar processos e transformar complexidade em soluções práticas.",
     nexsoPeriod: "2025 - Atualmente",
-    nexsoRole: "Product Engineer",
+    nexsoRole: "Desenvolvedor Full Stack",
     nexsoDescription:
-      "Atuo na construção de produtos SaaS do discovery à implementação, conectando produto, UX e desenvolvimento full stack. Transformo necessidades de negócio em soluções digitais com React, TypeScript, Node.js, PostgreSQL, APIs, automações e IA, participando também de decisões de arquitetura e padronização técnica.",
+      "Desenvolvo soluções SaaS com React, TypeScript, JavaScript, Node.js, APIs e bancos de dados como PostgreSQL e MongoDB. Utilizo Python em automações e experimentações, integro IA e a utilizo no desenvolvimento, e organizo o trabalho no Azure DevOps. UX e discovery de produto orientam a implementação, a arquitetura e a padronização técnica.",
     eipgPeriod: "2017 - 2024",
     eipgRole: "Coordenador e Engenharia de Processos",
     eipgDescription:
@@ -699,7 +699,7 @@ const translations = {
         ],
       },
       {
-        title: "Produto & Ferramentas",
+        title: "Ferramentas de Desenvolvimento & Produto",
         skills: [
           {
             name: "Product Discovery + UX",
@@ -709,7 +709,7 @@ const translations = {
               "Discovery, personas, requisitos e decisões de experiência na nexso.",
           },
           {
-            name: "SaaS + IA",
+            name: "SaaS + Integração de IA",
             level: 3,
             levelLabel: "Prática",
             evidence:
@@ -743,19 +743,19 @@ const translations = {
     navContact: "Contatti",
     openMenu: "Apri menu",
     closeMenu: "Chiudi menu",
-    heroKicker: "Product Engineer • Sviluppatore Full Stack",
+    heroKicker: "Sviluppatore Full Stack",
     heroName: "Guilherme Ferreira Soares",
-    heroTitle: ["Creo prodotti digitali con", "SaaS, IA e UX."],
+    heroTitle: ["React • Next.js • Node.js", "Creo prodotti con IA e UX."],
     heroDescription:
-      "Unisco sviluppo software, visione di prodotto e oltre 12 anni di esperienza nel miglioramento dei processi per trasformare idee in soluzioni semplici, funzionali e scalabili.",
+      "Sviluppo prodotti digitali con TypeScript, JavaScript e Python, integrando IA nelle soluzioni e nel processo di sviluppo. SaaS, UX e visione di prodotto guidano ciò che costruisco.",
     viewProjects: "Vedi progetti",
     contactMe: "Parliamo",
     aboutEyebrow: "Chi sono",
-    aboutTitle: "Esperienza trasformata in visione di prodotto.",
+    aboutTitle: "Sviluppo Full Stack con visione di prodotto.",
     aboutLead:
-      "Lavoro come Product Engineer e Sviluppatore Full Stack, con focus su SaaS, IA, automazione dei processi ed esperienza utente.",
+      "Sono uno Sviluppatore Full Stack con focus su React, Next.js, Node.js e TypeScript. Utilizzo JavaScript e Python, integro IA e la uso nello sviluppo, e lavoro con API, database e Azure DevOps per creare prodotti SaaS curando l’esperienza utente.",
     aboutText:
-      "In nexso collego product discovery, UX e sviluppo software per creare soluzioni digitali utili e scalabili. Prima della tecnologia, ho maturato oltre 12 anni di esperienza nella guida di progetti e nel miglioramento delle operazioni. Questo percorso mi ha dato una comprensione pratica di persone, processi e problemi aziendali reali.",
+      "In nexso sviluppo software, API e automazioni, collegando implementazione, UX e product discovery. La mia precedente esperienza di oltre 12 anni in leadership, operazioni, educazione e miglioramento dei processi mi aiuta a comprendere persone ed esigenze aziendali e a prendere decisioni concrete nello sviluppo.",
     metricYears: "anni alla guida di progetti e nel miglioramento dei processi",
     metricStudents:
       "studenti in una struttura accademica organizzata e ampliata",
@@ -769,9 +769,9 @@ const translations = {
     experienceIntro:
       "Il mio percorso collega tecnologia, educazione e operazioni. Ogni fase ha rafforzato il mio modo di analizzare i problemi, strutturare i processi e trasformare la complessità in soluzioni pratiche.",
     nexsoPeriod: "2025 - Presente",
-    nexsoRole: "Product Engineer",
+    nexsoRole: "Sviluppatore Full Stack",
     nexsoDescription:
-      "Costruisco prodotti SaaS dalla discovery all’implementazione, collegando prodotto, UX e sviluppo full stack. Trasformo esigenze di business in soluzioni digitali con React, TypeScript, Node.js, PostgreSQL, API, automazioni e IA, contribuendo anche alle decisioni architetturali e alla standardizzazione tecnica.",
+      "Sviluppo soluzioni SaaS con React, TypeScript, JavaScript, Node.js, API e database come PostgreSQL e MongoDB. Utilizzo Python per automazioni e sperimentazioni, integro IA e la uso nello sviluppo, e organizzo il lavoro in Azure DevOps. UX e product discovery guidano implementazione, architettura e standard tecnici.",
     eipgPeriod: "2017 - 2024",
     eipgRole: "Coordinatore e Ingegneria dei Processi",
     eipgDescription:
@@ -847,7 +847,7 @@ const translations = {
         ],
       },
       {
-        title: "Prodotto e strumenti",
+        title: "Strumenti di sviluppo e prodotto",
         skills: [
           {
             name: "Product Discovery + UX",
@@ -856,7 +856,7 @@ const translations = {
             evidence: "Discovery, personas, requisiti e decisioni UX in nexso.",
           },
           {
-            name: "SaaS + IA",
+            name: "SaaS + Integrazione IA",
             level: 3,
             levelLabel: "Pratica",
             evidence:
@@ -1123,10 +1123,10 @@ function App() {
               </div>
 
               <div className="hero-tags" aria-label="Areas of expertise">
-                <span>SaaS</span>
-                <span>AI</span>
+                <span>TypeScript</span>
+                <span>Python</span>
+                <span>AI Integration</span>
                 <span>UX</span>
-                <span>Automation</span>
               </div>
             </div>
 
@@ -1211,10 +1211,10 @@ function App() {
                 <div className="experience-details">
                   <p>{copy.nexsoDescription}</p>
                   <div className="experience-tags">
-                    <span>Product Engineering</span>
-                    <span>Full Stack</span>
-                    <span>Product Discovery</span>
-                    <span>AI & Automation</span>
+                    <span>React + Node.js</span>
+                    <span>TypeScript</span>
+                    <span>APIs + SaaS</span>
+                    <span>AI + UX</span>
                   </div>
                 </div>
               </article>
