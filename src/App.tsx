@@ -459,7 +459,7 @@ const translations = {
     openMenu: "Open menu",
     closeMenu: "Close menu",
     heroKicker: "Full Stack Developer",
-    heroName: "Guilherme Ferreira Soares",
+    heroName: "Guilherme Ferreira",
     heroTitle: ["React • Next.js • Node.js", "Building products with AI and UX."],
     heroDescription:
       "I develop digital products with TypeScript, JavaScript and Python, integrating AI into solutions and my development workflow. SaaS, UX and product thinking guide what I build.",
@@ -512,7 +512,7 @@ const translations = {
             evidence: "Torcida Brasil, To-do List and browser interactions.",
           },
           {
-            name: "Next.js + Tailwind",
+            name: "Next.js",
             level: 2,
             levelLabel: "Projects",
             evidence: "Agência Aurora, StepZone and PetCare.",
@@ -532,7 +532,7 @@ const translations = {
             name: "Node.js + APIs",
             level: 2,
             levelLabel: "Projects",
-            evidence: "APIs, Express, integrations and real-time applications.",
+            evidence: "APIs, Express and integrations in web solutions.",
           },
           {
             name: "PostgreSQL + SQL",
@@ -556,21 +556,21 @@ const translations = {
         ],
       },
       {
-        title: "Development Tools & Product",
+        title: "Tools & Differentiators",
         skills: [
           {
-            name: "Product Discovery + UX",
+            name: "UX + Product Discovery",
             level: 4,
             levelLabel: "Professional",
             evidence:
               "Discovery, personas, requirements and experience decisions at nexso.",
           },
           {
-            name: "SaaS + AI Integration",
+            name: "AI Integration",
             level: 3,
             levelLabel: "Practical",
             evidence:
-              "Multi-tenant products, automations and intelligent agents.",
+              "AI integrated into development, automations and intelligent agents.",
           },
           {
             name: "Git + GitHub",
@@ -584,7 +584,7 @@ const translations = {
             level: 3,
             levelLabel: "Practical",
             evidence:
-              "Backlogs, epics, features, user stories and acceptance criteria.",
+              "Development workflow organization with backlogs, epics, features, user stories and acceptance criteria.",
           },
         ],
       },
@@ -601,7 +601,7 @@ const translations = {
     openMenu: "Abrir menu",
     closeMenu: "Fechar menu",
     heroKicker: "Desenvolvedor Full Stack",
-    heroName: "Guilherme Ferreira Soares",
+    heroName: "Guilherme Ferreira",
     heroTitle: ["React • Next.js • Node.js", "Construindo produtos com IA e UX."],
     heroDescription:
       "Desenvolvo produtos digitais com TypeScript, JavaScript e Python, integrando IA às soluções e ao desenvolvimento. SaaS, UX e visão de produto orientam o que construo.",
@@ -654,7 +654,7 @@ const translations = {
             evidence: "Torcida Brasil, To-do List e interações no navegador.",
           },
           {
-            name: "Next.js + Tailwind",
+            name: "Next.js",
             level: 2,
             levelLabel: "Projetos",
             evidence: "Agência Aurora, StepZone e PetCare.",
@@ -675,7 +675,7 @@ const translations = {
             name: "Node.js + APIs",
             level: 2,
             levelLabel: "Projetos",
-            evidence: "APIs, Express, integrações e aplicações em tempo real.",
+            evidence: "APIs, Express e integrações em soluções web.",
           },
           {
             name: "PostgreSQL + SQL",
@@ -699,21 +699,21 @@ const translations = {
         ],
       },
       {
-        title: "Ferramentas de Desenvolvimento & Produto",
+        title: "Ferramentas & Diferenciais",
         skills: [
           {
-            name: "Product Discovery + UX",
+            name: "UX + Product Discovery",
             level: 4,
             levelLabel: "Profissional",
             evidence:
               "Discovery, personas, requisitos e decisões de experiência na nexso.",
           },
           {
-            name: "SaaS + Integração de IA",
+            name: "Integração de IA",
             level: 3,
             levelLabel: "Prática",
             evidence:
-              "Produtos multi-tenant, automações e agentes inteligentes.",
+              "IA integrada ao desenvolvimento, automações e agentes inteligentes.",
           },
           {
             name: "Git + GitHub",
@@ -727,7 +727,7 @@ const translations = {
             level: 3,
             levelLabel: "Prática",
             evidence:
-              "Backlogs, épicos, features, histórias e critérios de aceitação.",
+              "Organização do ciclo de desenvolvimento com backlogs, épicos, features, histórias e critérios de aceitação.",
           },
         ],
       },
@@ -744,7 +744,7 @@ const translations = {
     openMenu: "Apri menu",
     closeMenu: "Chiudi menu",
     heroKicker: "Sviluppatore Full Stack",
-    heroName: "Guilherme Ferreira Soares",
+    heroName: "Guilherme Ferreira",
     heroTitle: ["React • Next.js • Node.js", "Creo prodotti con IA e UX."],
     heroDescription:
       "Sviluppo prodotti digitali con TypeScript, JavaScript e Python, integrando IA nelle soluzioni e nel processo di sviluppo. SaaS, UX e visione di prodotto guidano ciò che costruisco.",
@@ -802,7 +802,7 @@ const translations = {
             evidence: "Torcida Brasil, To-do List e interazioni nel browser.",
           },
           {
-            name: "Next.js + Tailwind",
+            name: "Next.js",
             level: 2,
             levelLabel: "Progetti",
             evidence: "Agência Aurora, StepZone e PetCare.",
@@ -823,7 +823,7 @@ const translations = {
             level: 2,
             levelLabel: "Progetti",
             evidence:
-              "API, Express, integrazioni e applicazioni in tempo reale.",
+              "API, Express e integrazioni in soluzioni web.",
           },
           {
             name: "PostgreSQL + SQL",
@@ -847,20 +847,20 @@ const translations = {
         ],
       },
       {
-        title: "Strumenti di sviluppo e prodotto",
+        title: "Strumenti e competenze distintive",
         skills: [
           {
-            name: "Product Discovery + UX",
+            name: "UX + Product Discovery",
             level: 4,
             levelLabel: "Professionale",
             evidence: "Discovery, personas, requisiti e decisioni UX in nexso.",
           },
           {
-            name: "SaaS + Integrazione IA",
+            name: "Integrazione IA",
             level: 3,
             levelLabel: "Pratica",
             evidence:
-              "Prodotti multi-tenant, automazioni e agenti intelligenti.",
+              "IA integrata nello sviluppo, nelle automazioni e negli agenti intelligenti.",
           },
           {
             name: "Git + GitHub",
@@ -874,7 +874,7 @@ const translations = {
             level: 3,
             levelLabel: "Pratica",
             evidence:
-              "Backlog, epic, feature, user story e criteri di accettazione.",
+              "Organizzazione del ciclo di sviluppo con backlog, epic, feature, user story e criteri di accettazione.",
           },
         ],
       },
@@ -1048,7 +1048,7 @@ function App() {
       <header className="site-header">
         <div className="header-container">
           <a className="brand" href="#home" aria-label="Guilherme Ferreira">
-            Guilherme<span>FS</span>
+            Guilherme<span> Ferreira</span>
           </a>
 
           <button
@@ -1136,7 +1136,7 @@ function App() {
               <img
                 className="hero-portrait"
                 src={`${import.meta.env.BASE_URL}images/guilherme-profile.png`}
-                alt="Guilherme Ferreira Soares"
+                alt="Guilherme Ferreira"
               />
             </div>
           </div>
@@ -1601,19 +1601,19 @@ function App() {
       <footer className="site-footer">
         <div className="footer-container">
           <a className="brand footer-brand" href="#home">
-            Guilherme<span>FS</span>
+            Guilherme<span> Ferreira</span>
           </a>
 
           <div className="footer-signature">
             <p>
               {contactCopy.developedBy}{" "}
-              <strong>Guilherme Ferreira Soares</strong>
+              <strong>Guilherme Ferreira</strong>
             </p>
             <span>{contactCopy.role}</span>
           </div>
 
           <p className="footer-copyright">
-            © {new Date().getFullYear()} Guilherme Ferreira Soares.
+            © {new Date().getFullYear()} Guilherme Ferreira.
             <span>{contactCopy.rights}</span>
           </p>
         </div>
