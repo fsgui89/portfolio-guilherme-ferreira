@@ -467,7 +467,7 @@ const translations = {
     aboutEyebrow: "About",
     aboutTitle: "React development with product vision.",
     aboutLead: "I am a React Developer focused on web applications built with React, Next.js and Node.js.",
-    aboutText: ["At nexso, I develop SaaS solutions, APIs, automations and AI integrations, also working with PostgreSQL, MongoDB and Azure DevOps.","UX and Product Discovery complement my technical work, helping turn real user needs into clear requirements and functional solutions.","My previous experience in leadership, operations and process improvement gives me a broader business perspective and shapes the way I build digital products."],
+    aboutText: ["At nexso, I develop SaaS solutions, APIs, automations and AI integrations, using Azure DevOps to organize development and technical deliveries.","UX and Product Discovery complement my technical work, helping turn real user needs into clear requirements and functional solutions.","My previous experience in leadership, operations and process improvement gives me a broader business perspective and shapes the way I build digital products."],
     metricYears: "years leading projects and improving processes",
     metricStudents: "students in an academic operation structured and scaled",
     metricFranchises: "franchises assessed for national expansion",
@@ -533,16 +533,16 @@ const translations = {
           },
           {
             name: "PostgreSQL + SQL",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Relational persistence, SQL queries and operations in SaaS solutions at nexso.",
+            level: 2,
+            levelLabel: "Projects",
+            evidence: "Course projects with relational modeling, SQL queries and CRUD operations.",
           },
           {
             name: "MongoDB",
-            level: 3,
-            levelLabel: "Practical",
+            level: 2,
+            levelLabel: "Projects",
             evidence:
-              "Data persistence and SaaS solution architecture at nexso.",
+              "Course projects with a document database and persistence operations using Mongoose.",
           },
           {
             name: "Python",
@@ -606,7 +606,7 @@ const translations = {
     aboutEyebrow: "Sobre",
     aboutTitle: "Desenvolvimento React com visão de produto.",
     aboutLead: "Sou Desenvolvedor React, com foco em aplicações web utilizando React, Next.js e Node.js.",
-    aboutText: ["Na nexso, desenvolvo soluções SaaS, APIs, automações e integrações de IA, trabalhando também com PostgreSQL, MongoDB e Azure DevOps.","UX e Product Discovery complementam minha atuação técnica, ajudando a transformar necessidades reais em requisitos claros e soluções funcionais.","Minha experiência anterior em liderança, operações e melhoria de processos amplia minha visão de negócio e a forma como desenvolvo produtos digitais."],
+    aboutText: ["Na nexso, desenvolvo soluções SaaS, APIs, automações e integrações de IA, utilizando Azure DevOps para organizar o desenvolvimento e as entregas técnicas.","UX e Product Discovery complementam minha atuação técnica, ajudando a transformar necessidades reais em requisitos claros e soluções funcionais.","Minha experiência anterior em liderança, operações e melhoria de processos amplia minha visão de negócio e a forma como desenvolvo produtos digitais."],
     metricYears: "anos liderando projetos e aprimorando processos",
     metricStudents: "alunos em uma operação acadêmica estruturada e escalada",
     metricFranchises: "franquias analisadas para uma expansão nacional",
@@ -673,16 +673,16 @@ const translations = {
           },
           {
             name: "PostgreSQL + SQL",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Persistência relacional, consultas SQL e operações em soluções SaaS na nexso.",
+            level: 2,
+            levelLabel: "Projetos",
+            evidence: "Projetos do curso com modelagem relacional, consultas SQL e operações CRUD.",
           },
           {
             name: "MongoDB",
-            level: 3,
-            levelLabel: "Prática",
+            level: 2,
+            levelLabel: "Projetos",
             evidence:
-              "Persistência de dados e arquitetura de soluções SaaS na nexso.",
+              "Projetos do curso com banco de dados documental e operações de persistência utilizando Mongoose.",
           },
           {
             name: "Python",
@@ -746,7 +746,7 @@ const translations = {
     aboutEyebrow: "Chi sono",
     aboutTitle: "Sviluppo React con visione di prodotto.",
     aboutLead: "Sono uno Sviluppatore React specializzato in applicazioni web realizzate con React, Next.js e Node.js.",
-    aboutText: ["In nexso sviluppo soluzioni SaaS, API, automazioni e integrazioni di IA, lavorando anche con PostgreSQL, MongoDB e Azure DevOps.","UX e Product Discovery completano il mio lavoro tecnico, aiutandomi a trasformare esigenze reali in requisiti chiari e soluzioni funzionali.","La mia precedente esperienza in leadership, operazioni e miglioramento dei processi amplia la mia visione aziendale e influenza il modo in cui sviluppo prodotti digitali."],
+    aboutText: ["In nexso sviluppo soluzioni SaaS, API, automazioni e integrazioni di IA, utilizzando Azure DevOps per organizzare lo sviluppo e le consegne tecniche.","UX e Product Discovery completano il mio lavoro tecnico, aiutandomi a trasformare esigenze reali in requisiti chiari e soluzioni funzionali.","La mia precedente esperienza in leadership, operazioni e miglioramento dei processi amplia la mia visione aziendale e influenza il modo in cui sviluppo prodotti digitali."],
     metricYears: "anni alla guida di progetti e nel miglioramento dei processi",
     metricStudents:
       "studenti in una struttura accademica organizzata e ampliata",
@@ -818,16 +818,16 @@ const translations = {
           },
           {
             name: "PostgreSQL + SQL",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Persistenza relazionale, query SQL e operazioni nelle soluzioni SaaS di nexso.",
+            level: 2,
+            levelLabel: "Progetti",
+            evidence: "Progetti del corso con modellazione relazionale, query SQL e operazioni CRUD.",
           },
           {
             name: "MongoDB",
-            level: 3,
-            levelLabel: "Pratica",
+            level: 2,
+            levelLabel: "Progetti",
             evidence:
-              "Persistenza dei dati e architettura di soluzioni SaaS in nexso.",
+              "Progetti del corso con database documentale e operazioni di persistenza tramite Mongoose.",
           },
           {
             name: "Python",
