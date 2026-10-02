@@ -500,13 +500,7 @@ const translations = {
             name: "React + TypeScript",
             level: 3,
             levelLabel: "Practical",
-            evidence: "Portfolio 2.0, Vite and component-based interfaces.",
-          },
-          {
-            name: "Next.js",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Agência Aurora, StepZone and PetCare.",
+            evidence: "Portfolio 2.0 and component-based interfaces.",
           },
           {
             name: "JavaScript",
@@ -515,10 +509,16 @@ const translations = {
             evidence: "Torcida Brasil, To-do List and browser interactions.",
           },
           {
+            name: "Next.js",
+            level: 3,
+            levelLabel: "Practical",
+            evidence: "Web applications at nexso, Agência Aurora, StepZone and PetCare.",
+          },
+          {
             name: "HTML + CSS",
             level: 3,
             levelLabel: "Practical",
-            evidence: "Responsive layouts, Tailwind CSS, accessibility and visual identity.",
+            evidence: "Responsive layouts, accessibility and visual identity.",
           },
         ],
       },
@@ -529,20 +529,20 @@ const translations = {
             name: "Node.js + APIs",
             level: 3,
             levelLabel: "Practical",
-            evidence: "APIs, Express and integrations in web solutions.",
+            evidence: "Backend, REST APIs, Express and integrations in nexso solutions.",
           },
           {
             name: "PostgreSQL + SQL",
             level: 3,
             levelLabel: "Practical",
-            evidence: "Queries, relational modeling and CRUD operations.",
+            evidence: "Relational persistence, SQL queries and operations in SaaS solutions at nexso.",
           },
           {
             name: "MongoDB",
             level: 3,
             levelLabel: "Practical",
             evidence:
-              "Persistence with Mongoose and SaaS product architecture.",
+              "Data persistence and SaaS solution architecture at nexso.",
           },
           {
             name: "Python",
@@ -563,7 +563,7 @@ const translations = {
               "Discovery, personas, requirements and experience decisions at nexso.",
           },
           {
-            name: "AI Integration + AI-Assisted Development",
+            name: "AI Integration",
             level: 3,
             levelLabel: "Practical",
             evidence:
@@ -639,13 +639,7 @@ const translations = {
             name: "React + TypeScript",
             level: 3,
             levelLabel: "Prática",
-            evidence: "Portfólio 2.0, Vite e interfaces componentizadas.",
-          },
-          {
-            name: "Next.js",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Agência Aurora, StepZone e PetCare.",
+            evidence: "Portfólio 2.0 e interfaces componentizadas.",
           },
           {
             name: "JavaScript",
@@ -654,11 +648,17 @@ const translations = {
             evidence: "Torcida Brasil, To-do List e interações no navegador.",
           },
           {
+            name: "Next.js",
+            level: 3,
+            levelLabel: "Prática",
+            evidence: "Aplicações web na nexso, Agência Aurora, StepZone e PetCare.",
+          },
+          {
             name: "HTML + CSS",
             level: 3,
             levelLabel: "Prática",
             evidence:
-              "Layouts responsivos, Tailwind CSS, acessibilidade e identidade visual.",
+              "Layouts responsivos, acessibilidade e identidade visual.",
           },
         ],
       },
@@ -669,20 +669,20 @@ const translations = {
             name: "Node.js + APIs",
             level: 3,
             levelLabel: "Prática",
-            evidence: "APIs, Express e integrações em soluções web.",
+            evidence: "Backend, APIs REST, Express e integrações em soluções da nexso.",
           },
           {
             name: "PostgreSQL + SQL",
             level: 3,
             levelLabel: "Prática",
-            evidence: "Consultas, modelagem relacional e operações CRUD.",
+            evidence: "Persistência relacional, consultas SQL e operações em soluções SaaS na nexso.",
           },
           {
             name: "MongoDB",
             level: 3,
             levelLabel: "Prática",
             evidence:
-              "Persistência com Mongoose e arquitetura de produtos SaaS.",
+              "Persistência de dados e arquitetura de soluções SaaS na nexso.",
           },
           {
             name: "Python",
@@ -703,7 +703,7 @@ const translations = {
               "Discovery, personas, requisitos e decisões de experiência na nexso.",
           },
           {
-            name: "Integração de IA + Desenvolvimento Assistido por IA",
+            name: "Integração de IA",
             level: 3,
             levelLabel: "Prática",
             evidence:
@@ -784,13 +784,7 @@ const translations = {
             name: "React + TypeScript",
             level: 3,
             levelLabel: "Pratica",
-            evidence: "Portfolio 2.0, Vite e interfacce basate su componenti.",
-          },
-          {
-            name: "Next.js",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Agência Aurora, StepZone e PetCare.",
+            evidence: "Portfolio 2.0 e interfacce basate su componenti.",
           },
           {
             name: "JavaScript",
@@ -799,10 +793,16 @@ const translations = {
             evidence: "Torcida Brasil, To-do List e interazioni nel browser.",
           },
           {
+            name: "Next.js",
+            level: 3,
+            levelLabel: "Pratica",
+            evidence: "Applicazioni web in nexso, Agência Aurora, StepZone e PetCare.",
+          },
+          {
             name: "HTML + CSS",
             level: 3,
             levelLabel: "Pratica",
-            evidence: "Layout responsive, Tailwind CSS, accessibilità e identità visiva.",
+            evidence: "Layout responsive, accessibilità e identità visiva.",
           },
         ],
       },
@@ -814,20 +814,20 @@ const translations = {
             level: 3,
             levelLabel: "Pratica",
             evidence:
-              "API, Express e integrazioni in soluzioni web.",
+              "Backend, API REST, Express e integrazioni nelle soluzioni di nexso.",
           },
           {
             name: "PostgreSQL + SQL",
             level: 3,
             levelLabel: "Pratica",
-            evidence: "Query, modellazione relazionale e operazioni CRUD.",
+            evidence: "Persistenza relazionale, query SQL e operazioni nelle soluzioni SaaS di nexso.",
           },
           {
             name: "MongoDB",
             level: 3,
             levelLabel: "Pratica",
             evidence:
-              "Persistenza con Mongoose e architettura di prodotti SaaS.",
+              "Persistenza dei dati e architettura di soluzioni SaaS in nexso.",
           },
           {
             name: "Python",
@@ -847,7 +847,7 @@ const translations = {
             evidence: "Discovery, personas, requisiti e decisioni UX in nexso.",
           },
           {
-            name: "Integrazione AI + Sviluppo Assistito da IA",
+            name: "Integrazione IA",
             level: 3,
             levelLabel: "Pratica",
             evidence:
@@ -1281,9 +1281,10 @@ function App() {
             </div>
 
             <div className="skills-grid">
-              {copy.skillGroups.map((group) => (
+              {copy.skillGroups.map((group, groupIndex) => (
                 <article className="skill-group" key={group.title}>
                   <div className="skill-group-heading">
+                    <span>{String(groupIndex + 1).padStart(2, "0")}</span>
                     <h3>{group.title}</h3>
                   </div>
 
@@ -1309,6 +1310,10 @@ function App() {
                           ))}
                         </div>
 
+                        <p className="skill-evidence">
+                          <span>{copy.skillsEvidence}</span>
+                          {skill.evidence}
+                        </p>
                       </div>
                     ))}
                   </div>
