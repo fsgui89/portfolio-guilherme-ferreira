@@ -461,7 +461,7 @@ const translations = {
     heroKicker: "React Developer",
     heroName: "Guilherme Ferreira",
     heroTitle: ["React • Node.js • Next.js • AI Integration • UX", "Building digital products with SaaS, AI and UX."],
-    heroDescription: "I build web applications with React, Node.js and Next.js, integrating AI into both solutions and the development process. SaaS, UX and product thinking guide what I build.",
+    heroDescription: ["I build web applications with React, Node.js and Next.js,","integrating AI into both solutions and the development process.","SaaS, UX and product thinking guide what I build."],
     viewProjects: "View projects",
     contactMe: "Let's talk",
     aboutEyebrow: "About",
@@ -600,7 +600,7 @@ const translations = {
     heroKicker: "Desenvolvedor React",
     heroName: "Guilherme Ferreira",
     heroTitle: ["React • Node.js • Next.js • Integração de IA • UX", "Construindo produtos digitais com SaaS, IA e UX."],
-    heroDescription: "Desenvolvo aplicações web com React, Node.js e Next.js, integrando IA às soluções e ao desenvolvimento. SaaS, UX e visão de produto orientam o que construo.",
+    heroDescription: ["Desenvolvo aplicações web com React, Node.js e Next.js,","integrando IA às soluções e ao desenvolvimento.","SaaS, UX e visão de produto orientam o que construo."],
     viewProjects: "Ver projetos",
     contactMe: "Vamos conversar",
     aboutEyebrow: "Sobre",
@@ -740,7 +740,7 @@ const translations = {
     heroKicker: "Sviluppatore React",
     heroName: "Guilherme Ferreira",
     heroTitle: ["React • Node.js • Next.js • Integrazione AI • UX", "Creo prodotti digitali con SaaS, IA e UX."],
-    heroDescription: "Sviluppo applicazioni web con React, Node.js e Next.js, integrando l’IA nelle soluzioni e nel processo di sviluppo. SaaS, UX e visione di prodotto guidano ciò che costruisco.",
+    heroDescription: ["Sviluppo applicazioni web con React, Node.js e Next.js,","integrando l’IA nelle soluzioni e nel processo di sviluppo.","SaaS, UX e visione di prodotto guidano ciò che costruisco."],
     viewProjects: "Vedi progetti",
     contactMe: "Parliamo",
     aboutEyebrow: "Chi sono",
@@ -1110,7 +1110,11 @@ function App() {
                 ))}
               </h2>
 
-              <p className="hero-description">{copy.heroDescription}</p>
+              <p className="hero-description">
+                {copy.heroDescription.map((line) => (
+                  <span key={line}>{line}{" "}</span>
+                ))}
+              </p>
 
               <div className="hero-actions">
                 <a className="button button-primary" href="#projects">
