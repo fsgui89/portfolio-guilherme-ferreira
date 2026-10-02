@@ -971,7 +971,7 @@ function App() {
     localStorage.setItem("portfolio-language", language);
     document.documentElement.lang = language;
     const title = `${copy.heroName} | ${copy.heroKicker}`;
-    const description = `${copy.heroKicker} | ${copy.heroTitle[0]} — TypeScript, JavaScript, Python, APIs, PostgreSQL, MongoDB, Azure DevOps, SaaS.`;
+    const description = `${copy.heroKicker} | ${copy.heroTitle[0]} — TypeScript, JavaScript, Python, APIs, Azure DevOps, SaaS.`;
     document.title = title;
     for (const selector of ['meta[name="title"]', 'meta[property="og:title"]', 'meta[name="twitter:title"]']) {
       document.querySelector(selector)?.setAttribute("content", title);
