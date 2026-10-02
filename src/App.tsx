@@ -460,17 +460,14 @@ const translations = {
     closeMenu: "Close menu",
     heroKicker: "React Developer",
     heroName: "Guilherme Ferreira",
-    heroTitle: ["Node.js • Next.js • AI Integration • UX", "Building digital products with SaaS, AI and UX."],
-    heroDescription:
-      "I develop digital products with TypeScript, JavaScript and Python, integrating AI into solutions and my development workflow. SaaS, UX and product thinking guide what I build.",
+    heroTitle: ["React • Node.js • Next.js • AI Integration • UX", "Building digital products with SaaS, AI and UX."],
+    heroDescription: "I build web applications with React, Node.js and Next.js, integrating AI into both solutions and the development process. SaaS, UX and product thinking guide what I build.",
     viewProjects: "View projects",
     contactMe: "Let's talk",
     aboutEyebrow: "About",
     aboutTitle: "React development with product vision.",
-    aboutLead:
-      "I am a React Developer building web applications with React, Next.js, Node.js and TypeScript, also using JavaScript, Python, APIs, PostgreSQL and MongoDB. I build SaaS solutions and organize requirements and technical deliveries in Azure DevOps. AI-assisted development helps me accelerate implementation and automate tasks, with technical decisions and validation under human responsibility.",
-    aboutText:
-      "At nexso, I develop software, APIs and automations, using UX and Product Discovery to understand user needs, clarify requirements and support implementation decisions. My earlier experience of more than 12 years in leadership, operations, education and process improvement helps me understand people and business needs and make practical development decisions.",
+    aboutLead: "I am a React Developer focused on web applications built with React, Next.js and Node.js.",
+    aboutText: ["At nexso, I develop SaaS solutions, APIs, automations and AI integrations, also working with PostgreSQL, MongoDB and Azure DevOps.","UX and Product Discovery complement my technical work, helping turn real user needs into clear requirements and functional solutions.","My previous experience in leadership, operations and process improvement gives me a broader business perspective and shapes the way I build digital products."],
     metricYears: "years leading projects and improving processes",
     metricStudents: "students in an academic operation structured and scaled",
     metricFranchises: "franchises assessed for national expansion",
@@ -496,99 +493,123 @@ const translations = {
       "Each skill is connected to real projects, products or challenges. The levels show how I currently use each one, not an abstract percentage.",
     skillsEvidence: "Evidence",
     skillGroups: [
-      {
-        title: "Frontend",
-        skills: [
-          {
-            name: "React + TypeScript",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Portfolio 2.0, Vite and component-based interfaces.",
-          },
-          {
-            name: "Next.js",
-            level: 2,
-            levelLabel: "Projects",
-            evidence: "Agência Aurora, StepZone and PetCare.",
-          },
-          {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Torcida Brasil, To-do List and browser interactions.",
-          },
-          {
-            name: "HTML + CSS",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Responsive layouts, Tailwind CSS, accessibility and visual identity.",
-          },
-        ],
-      },
-      {
-        title: "Backend & Data",
-        skills: [
-          {
-            name: "Node.js + APIs",
-            level: 2,
-            levelLabel: "Projects",
-            evidence: "APIs, Express and integrations in web solutions.",
-          },
-          {
-            name: "PostgreSQL + SQL",
-            level: 1,
-            levelLabel: "Foundation",
-            evidence: "Queries, relational modeling and CRUD operations.",
-          },
-          {
-            name: "MongoDB",
-            level: 2,
-            levelLabel: "Projects",
-            evidence:
-              "Persistence with Mongoose and SaaS product architecture.",
-          },
-          {
-            name: "Python",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Automations and experiments applied at nexso.",
-          },
-        ],
-      },
-      {
-        title: "Tools & Differentiators",
-        skills: [
-          {
-            name: "UX + Product Discovery",
-            level: 4,
-            levelLabel: "Professional",
-            evidence:
-              "Discovery, personas, requirements and experience decisions at nexso.",
-          },
-          {
-            name: "AI Integration + AI-Assisted Development",
-            level: 3,
-            levelLabel: "Practical",
-            evidence:
-              "AI integrated into development, automations and intelligent agents.",
-          },
-          {
-            name: "Git + GitHub",
-            level: 3,
-            levelLabel: "Practical",
-            evidence:
-              "Version control, branches and continuous project publishing.",
-          },
-          {
-            name: "Azure DevOps",
-            level: 3,
-            levelLabel: "Practical",
-            evidence:
-              "Development workflow organization with backlogs, epics, features, user stories and acceptance criteria.",
-          },
-        ],
-      },
-    ],
+    {
+        "title": "Frontend",
+        "skills": [
+            {
+                "name": "React",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Component-based interfaces at nexso and in the public Portfolio 2.0."
+            },
+            {
+                "name": "Next.js",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Web applications at nexso; Agência Aurora, StepZone and PetCare are available publicly."
+            },
+            {
+                "name": "TypeScript + JavaScript",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Typed interfaces and application logic at nexso and in public projects."
+            },
+            {
+                "name": "HTML5 + CSS3 + Tailwind CSS + Vite",
+                "level": 3,
+                "levelLabel": "Public projects",
+                "evidence": "Responsive interfaces in public projects, including Portfolio 2.0 with Vite."
+            }
+        ]
+    },
+    {
+        "title": "Backend & Data",
+        "skills": [
+            {
+                "name": "Node.js + REST APIs + Express",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Backend development, REST APIs and integrations at nexso."
+            },
+            {
+                "name": "PostgreSQL + SQL",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Relational persistence, SQL queries and SaaS solutions at nexso."
+            },
+            {
+                "name": "MongoDB",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Data persistence and SaaS product architecture at nexso."
+            },
+            {
+                "name": "Integrations",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "API and service integrations in solutions and automations at nexso."
+            }
+        ]
+    },
+    {
+        "title": "AI & Tools",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Automations and technical experiments at nexso."
+            },
+            {
+                "name": "AI Integration",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "AI integrations in SaaS solutions and automations at nexso."
+            },
+            {
+                "name": "AI-Assisted Development",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "AI-assisted implementation and automation, with human technical decisions and validation."
+            },
+            {
+                "name": "Azure DevOps + Git + GitHub",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Development workflows and technical deliveries at nexso; version control and project publishing."
+            }
+        ]
+    },
+    {
+        "title": "Product & Experience",
+        "skills": [
+            {
+                "name": "UX + Product Discovery",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "User needs, discovery and implementation decisions at nexso."
+            },
+            {
+                "name": "SaaS",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Development of SaaS solutions at nexso."
+            },
+            {
+                "name": "Requirements + Business Rules",
+                "level": 3,
+                "levelLabel": "Professional practice",
+                "evidence": "Clear requirements, business rules and technical delivery planning at nexso."
+            },
+            {
+                "name": "Scrum",
+                "level": 2,
+                "levelLabel": "Certified",
+                "evidence": "Scrum training and certification."
+            }
+        ]
+    }
+],
   },
   pt: {
     navHome: "Início",
@@ -602,17 +623,14 @@ const translations = {
     closeMenu: "Fechar menu",
     heroKicker: "Desenvolvedor React",
     heroName: "Guilherme Ferreira",
-    heroTitle: ["Node.js • Next.js • Integração de IA • UX", "Construindo produtos digitais com SaaS, IA e UX."],
-    heroDescription:
-      "Desenvolvo produtos digitais com TypeScript, JavaScript e Python, integrando IA às soluções e ao desenvolvimento. SaaS, UX e visão de produto orientam o que construo.",
+    heroTitle: ["React • Node.js • Next.js • Integração de IA • UX", "Construindo produtos digitais com SaaS, IA e UX."],
+    heroDescription: "Desenvolvo aplicações web com React, Node.js e Next.js, integrando IA às soluções e ao desenvolvimento. SaaS, UX e visão de produto orientam o que construo.",
     viewProjects: "Ver projetos",
     contactMe: "Vamos conversar",
     aboutEyebrow: "Sobre",
     aboutTitle: "Desenvolvimento React com visão de produto.",
-    aboutLead:
-      "Sou Desenvolvedor React e construo aplicações web com React, Next.js, Node.js e TypeScript, utilizando também JavaScript, Python, APIs, PostgreSQL e MongoDB. Desenvolvo soluções SaaS e organizo requisitos e entregas técnicas no Azure DevOps. O desenvolvimento assistido por IA ajuda a acelerar implementações e automatizar tarefas, com decisões técnicas e validações sob responsabilidade humana.",
-    aboutText:
-      "Na nexso, desenvolvo software, APIs e automações, utilizando UX e Product Discovery para compreender necessidades dos usuários, esclarecer requisitos e apoiar decisões de implementação. Minha experiência anterior de mais de 12 anos em liderança, operações, educação e melhoria de processos contribui para compreender pessoas e necessidades de negócio e tomar decisões práticas no desenvolvimento.",
+    aboutLead: "Sou Desenvolvedor React, com foco em aplicações web utilizando React, Next.js e Node.js.",
+    aboutText: ["Na nexso, desenvolvo soluções SaaS, APIs, automações e integrações de IA, trabalhando também com PostgreSQL, MongoDB e Azure DevOps.","UX e Product Discovery complementam minha atuação técnica, ajudando a transformar necessidades reais em requisitos claros e soluções funcionais.","Minha experiência anterior em liderança, operações e melhoria de processos amplia minha visão de negócio e a forma como desenvolvo produtos digitais."],
     metricYears: "anos liderando projetos e aprimorando processos",
     metricStudents: "alunos em uma operação acadêmica estruturada e escalada",
     metricFranchises: "franquias analisadas para uma expansão nacional",
@@ -638,100 +656,123 @@ const translations = {
       "Cada habilidade está ligada a projetos, produtos ou desafios reais. Os níveis mostram como utilizo cada uma hoje, não uma porcentagem abstrata.",
     skillsEvidence: "Evidência",
     skillGroups: [
-      {
-        title: "Frontend",
-        skills: [
-          {
-            name: "React + TypeScript",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Portfólio 2.0, Vite e interfaces componentizadas.",
-          },
-          {
-            name: "Next.js",
-            level: 2,
-            levelLabel: "Projetos",
-            evidence: "Agência Aurora, StepZone e PetCare.",
-          },
-          {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Torcida Brasil, To-do List e interações no navegador.",
-          },
-          {
-            name: "HTML + CSS",
-            level: 3,
-            levelLabel: "Prática",
-            evidence:
-              "Layouts responsivos, Tailwind CSS, acessibilidade e identidade visual.",
-          },
-        ],
-      },
-      {
-        title: "Backend & Dados",
-        skills: [
-          {
-            name: "Node.js + APIs",
-            level: 2,
-            levelLabel: "Projetos",
-            evidence: "APIs, Express e integrações em soluções web.",
-          },
-          {
-            name: "PostgreSQL + SQL",
-            level: 1,
-            levelLabel: "Fundamentos",
-            evidence: "Consultas, modelagem relacional e operações CRUD.",
-          },
-          {
-            name: "MongoDB",
-            level: 2,
-            levelLabel: "Projetos",
-            evidence:
-              "Persistência com Mongoose e arquitetura de produtos SaaS.",
-          },
-          {
-            name: "Python",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Automações e experimentações aplicadas à nexso.",
-          },
-        ],
-      },
-      {
-        title: "Ferramentas & Diferenciais",
-        skills: [
-          {
-            name: "UX + Product Discovery",
-            level: 4,
-            levelLabel: "Profissional",
-            evidence:
-              "Discovery, personas, requisitos e decisões de experiência na nexso.",
-          },
-          {
-            name: "Integração de IA + Desenvolvimento Assistido por IA",
-            level: 3,
-            levelLabel: "Prática",
-            evidence:
-              "IA integrada ao desenvolvimento, automações e agentes inteligentes.",
-          },
-          {
-            name: "Git + GitHub",
-            level: 3,
-            levelLabel: "Prática",
-            evidence:
-              "Versionamento, branches e publicação contínua dos projetos.",
-          },
-          {
-            name: "Azure DevOps",
-            level: 3,
-            levelLabel: "Prática",
-            evidence:
-              "Organização do ciclo de desenvolvimento com backlogs, épicos, features, histórias e critérios de aceitação.",
-          },
-        ],
-      },
-    ],
+    {
+        "title": "Frontend",
+        "skills": [
+            {
+                "name": "React",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Interfaces componentizadas na nexso e no Portfólio 2.0 público."
+            },
+            {
+                "name": "Next.js",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Aplicações web na nexso; Agência Aurora, StepZone e PetCare disponíveis publicamente."
+            },
+            {
+                "name": "TypeScript + JavaScript",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Interfaces tipadas e lógica de aplicações na nexso e em projetos públicos."
+            },
+            {
+                "name": "HTML5 + CSS3 + Tailwind CSS + Vite",
+                "level": 3,
+                "levelLabel": "Projetos públicos",
+                "evidence": "Interfaces responsivas em projetos públicos, incluindo Portfólio 2.0 com Vite."
+            }
+        ]
+    },
+    {
+        "title": "Backend & Dados",
+        "skills": [
+            {
+                "name": "Node.js + REST APIs + Express",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Desenvolvimento backend, APIs REST e integrações na nexso."
+            },
+            {
+                "name": "PostgreSQL + SQL",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Persistência relacional, consultas SQL e soluções SaaS na nexso."
+            },
+            {
+                "name": "MongoDB",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Persistência de dados e arquitetura de produtos SaaS na nexso."
+            },
+            {
+                "name": "Integrações",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Integrações de APIs e serviços em soluções e automações na nexso."
+            }
+        ]
+    },
+    {
+        "title": "IA & Ferramentas",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Automações e experimentações técnicas na nexso."
+            },
+            {
+                "name": "Integração de IA",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Integrações de IA em soluções SaaS e automações na nexso."
+            },
+            {
+                "name": "Desenvolvimento Assistido por IA",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Implementações e automações assistidas por IA, com decisões técnicas e validação humana."
+            },
+            {
+                "name": "Azure DevOps + Git + GitHub",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Fluxos de desenvolvimento e entregas técnicas na nexso; versionamento e publicação de projetos."
+            }
+        ]
+    },
+    {
+        "title": "Produto & Experiência",
+        "skills": [
+            {
+                "name": "UX + Product Discovery",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Necessidades dos usuários, discovery e decisões de implementação na nexso."
+            },
+            {
+                "name": "SaaS",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Desenvolvimento de soluções SaaS na nexso."
+            },
+            {
+                "name": "Requisitos + Regras de Negócio",
+                "level": 3,
+                "levelLabel": "Prática profissional",
+                "evidence": "Requisitos claros, regras de negócio e planejamento de entregas técnicas na nexso."
+            },
+            {
+                "name": "Scrum",
+                "level": 2,
+                "levelLabel": "Certificado",
+                "evidence": "Formação e certificação em Scrum."
+            }
+        ]
+    }
+],
   },
   it: {
     navHome: "Home",
@@ -745,17 +786,14 @@ const translations = {
     closeMenu: "Chiudi menu",
     heroKicker: "Sviluppatore React",
     heroName: "Guilherme Ferreira",
-    heroTitle: ["Node.js • Next.js • Integrazione AI • UX", "Creo prodotti digitali con SaaS, IA e UX."],
-    heroDescription:
-      "Sviluppo prodotti digitali con TypeScript, JavaScript e Python, integrando IA nelle soluzioni e nel processo di sviluppo. SaaS, UX e visione di prodotto guidano ciò che costruisco.",
+    heroTitle: ["React • Node.js • Next.js • Integrazione AI • UX", "Creo prodotti digitali con SaaS, IA e UX."],
+    heroDescription: "Sviluppo applicazioni web con React, Node.js e Next.js, integrando l’IA nelle soluzioni e nel processo di sviluppo. SaaS, UX e visione di prodotto guidano ciò che costruisco.",
     viewProjects: "Vedi progetti",
     contactMe: "Parliamo",
     aboutEyebrow: "Chi sono",
     aboutTitle: "Sviluppo React con visione di prodotto.",
-    aboutLead:
-      "Sono uno Sviluppatore React e creo applicazioni web con React, Next.js, Node.js e TypeScript, utilizzando anche JavaScript, Python, API, PostgreSQL e MongoDB. Sviluppo soluzioni SaaS e organizzo requisiti e consegne tecniche in Azure DevOps. Lo sviluppo assistito da IA aiuta ad accelerare implementazioni e automatizzare attività, con decisioni tecniche e validazioni sotto responsabilità umana.",
-    aboutText:
-      "In nexso sviluppo software, API e automazioni, utilizzando UX e Product Discovery per comprendere le esigenze degli utenti, chiarire i requisiti e supportare le decisioni di implementazione. La mia precedente esperienza di oltre 12 anni in leadership, operazioni, educazione e miglioramento dei processi mi aiuta a comprendere persone ed esigenze aziendali e a prendere decisioni concrete nello sviluppo.",
+    aboutLead: "Sono uno Sviluppatore React specializzato in applicazioni web realizzate con React, Next.js e Node.js.",
+    aboutText: ["In nexso sviluppo soluzioni SaaS, API, automazioni e integrazioni di IA, lavorando anche con PostgreSQL, MongoDB e Azure DevOps.","UX e Product Discovery completano il mio lavoro tecnico, aiutandomi a trasformare esigenze reali in requisiti chiari e soluzioni funzionali.","La mia precedente esperienza in leadership, operazioni e miglioramento dei processi amplia la mia visione aziendale e influenza il modo in cui sviluppo prodotti digitali."],
     metricYears: "anni alla guida di progetti e nel miglioramento dei processi",
     metricStudents:
       "studenti in una struttura accademica organizzata e ampliata",
@@ -786,99 +824,123 @@ const translations = {
       "Ogni competenza è collegata a progetti, prodotti o sfide reali. I livelli mostrano come la utilizzo oggi, non una percentuale astratta.",
     skillsEvidence: "Evidenza",
     skillGroups: [
-      {
-        title: "Frontend",
-        skills: [
-          {
-            name: "React + TypeScript",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Portfolio 2.0, Vite e interfacce basate su componenti.",
-          },
-          {
-            name: "Next.js",
-            level: 2,
-            levelLabel: "Progetti",
-            evidence: "Agência Aurora, StepZone e PetCare.",
-          },
-          {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Torcida Brasil, To-do List e interazioni nel browser.",
-          },
-          {
-            name: "HTML + CSS",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Layout responsive, Tailwind CSS, accessibilità e identità visiva.",
-          },
-        ],
-      },
-      {
-        title: "Backend e dati",
-        skills: [
-          {
-            name: "Node.js + API",
-            level: 2,
-            levelLabel: "Progetti",
-            evidence:
-              "API, Express e integrazioni in soluzioni web.",
-          },
-          {
-            name: "PostgreSQL + SQL",
-            level: 1,
-            levelLabel: "Fondamenti",
-            evidence: "Query, modellazione relazionale e operazioni CRUD.",
-          },
-          {
-            name: "MongoDB",
-            level: 2,
-            levelLabel: "Progetti",
-            evidence:
-              "Persistenza con Mongoose e architettura di prodotti SaaS.",
-          },
-          {
-            name: "Python",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Automazioni e sperimentazioni applicate in nexso.",
-          },
-        ],
-      },
-      {
-        title: "Strumenti e competenze distintive",
-        skills: [
-          {
-            name: "UX + Product Discovery",
-            level: 4,
-            levelLabel: "Professionale",
-            evidence: "Discovery, personas, requisiti e decisioni UX in nexso.",
-          },
-          {
-            name: "Integrazione AI + Sviluppo Assistito da IA",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence:
-              "IA integrata nello sviluppo, nelle automazioni e negli agenti intelligenti.",
-          },
-          {
-            name: "Git + GitHub",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence:
-              "Controllo di versione, branch e pubblicazione continua dei progetti.",
-          },
-          {
-            name: "Azure DevOps",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence:
-              "Organizzazione del ciclo di sviluppo con backlog, epic, feature, user story e criteri di accettazione.",
-          },
-        ],
-      },
-    ],
+    {
+        "title": "Frontend",
+        "skills": [
+            {
+                "name": "React",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Interfacce a componenti in nexso e nel Portfolio 2.0 pubblico."
+            },
+            {
+                "name": "Next.js",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Applicazioni web in nexso; Agência Aurora, StepZone e PetCare disponibili pubblicamente."
+            },
+            {
+                "name": "TypeScript + JavaScript",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Interfacce tipizzate e logica applicativa in nexso e nei progetti pubblici."
+            },
+            {
+                "name": "HTML5 + CSS3 + Tailwind CSS + Vite",
+                "level": 3,
+                "levelLabel": "Progetti pubblici",
+                "evidence": "Interfacce responsive nei progetti pubblici, incluso Portfolio 2.0 con Vite."
+            }
+        ]
+    },
+    {
+        "title": "Backend & Dati",
+        "skills": [
+            {
+                "name": "Node.js + REST APIs + Express",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Sviluppo backend, API REST e integrazioni in nexso."
+            },
+            {
+                "name": "PostgreSQL + SQL",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Persistenza relazionale, query SQL e soluzioni SaaS in nexso."
+            },
+            {
+                "name": "MongoDB",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Persistenza dei dati e architettura di prodotti SaaS in nexso."
+            },
+            {
+                "name": "Integrazioni",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Integrazioni di API e servizi nelle soluzioni e automazioni in nexso."
+            }
+        ]
+    },
+    {
+        "title": "IA & Strumenti",
+        "skills": [
+            {
+                "name": "Python",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Automazioni e sperimentazioni tecniche in nexso."
+            },
+            {
+                "name": "Integrazione AI",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Integrazioni di IA in soluzioni SaaS e automazioni in nexso."
+            },
+            {
+                "name": "Sviluppo Assistito da IA",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Implementazioni e automazioni assistite da IA, con decisioni tecniche e validazione umana."
+            },
+            {
+                "name": "Azure DevOps + Git + GitHub",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Flussi di sviluppo e consegne tecniche in nexso; controllo di versione e pubblicazione dei progetti."
+            }
+        ]
+    },
+    {
+        "title": "Prodotto & Esperienza",
+        "skills": [
+            {
+                "name": "UX + Product Discovery",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Esigenze degli utenti, discovery e decisioni di implementazione in nexso."
+            },
+            {
+                "name": "SaaS",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Sviluppo di soluzioni SaaS in nexso."
+            },
+            {
+                "name": "Requisiti + Regole di Business",
+                "level": 3,
+                "levelLabel": "Pratica professionale",
+                "evidence": "Requisiti chiari, regole di business e pianificazione delle consegne tecniche in nexso."
+            },
+            {
+                "name": "Scrum",
+                "level": 2,
+                "levelLabel": "Certificato",
+                "evidence": "Formazione e certificazione Scrum."
+            }
+        ]
+    }
+],
   },
 } as const;
 
@@ -1132,9 +1194,10 @@ function App() {
               </div>
 
               <div className="hero-tags" aria-label="Areas of expertise">
-                <span>TypeScript</span>
-                <span>Python</span>
-                <span>{copy.heroTitle[0].split(" • ")[2]}</span>
+                <span>React</span>
+                <span>Node.js</span>
+                <span>Next.js</span>
+                <span>{copy.heroTitle[0].split(" • ")[3]}</span>
                 <span>UX</span>
               </div>
             </div>
@@ -1169,7 +1232,9 @@ function App() {
 
               <div className="about-copy">
                 <p className="about-lead">{copy.aboutLead}</p>
-                <p>{copy.aboutText}</p>
+                {copy.aboutText.map((paragraph) => (
+                  <p key={paragraph}>{paragraph}</p>
+                ))}
               </div>
             </div>
 
