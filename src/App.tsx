@@ -478,7 +478,7 @@ const translations = {
     nexsoPeriod: "2025 - Present",
     nexsoRole: "Full Stack Developer",
     nexsoDescription:
-      "I develop SaaS solutions with React, TypeScript, JavaScript, Node.js, APIs and databases such as PostgreSQL and MongoDB. I use Python for automations and experiments, integrate AI and use it in development, and organize work in Azure DevOps. UX and product discovery inform implementation, architecture and technical standards.",
+      "I develop SaaS solutions with React, TypeScript, JavaScript, Node.js and APIs. I use Python for automations and experiments, integrate AI and use it in development, and organize work in Azure DevOps. UX and product discovery inform implementation, architecture and technical standards.",
     eipgPeriod: "2017 - 2024",
     eipgRole: "Coordinator & Process Engineering",
     eipgDescription:
@@ -617,7 +617,7 @@ const translations = {
     nexsoPeriod: "2025 - Atualmente",
     nexsoRole: "Desenvolvedor Full Stack",
     nexsoDescription:
-      "Desenvolvo soluções SaaS com React, TypeScript, JavaScript, Node.js, APIs e bancos de dados como PostgreSQL e MongoDB. Utilizo Python em automações e experimentações, integro IA e a utilizo no desenvolvimento, e organizo o trabalho no Azure DevOps. UX e discovery de produto orientam a implementação, a arquitetura e a padronização técnica.",
+      "Desenvolvo soluções SaaS com React, TypeScript, JavaScript, Node.js e APIs. Utilizo Python em automações e experimentações, integro IA e a utilizo no desenvolvimento, e organizo o trabalho no Azure DevOps. UX e discovery de produto orientam a implementação, a arquitetura e a padronização técnica.",
     eipgPeriod: "2017 - 2024",
     eipgRole: "Coordenador e Engenharia de Processos",
     eipgDescription:
@@ -762,7 +762,7 @@ const translations = {
     nexsoPeriod: "2025 - Presente",
     nexsoRole: "Sviluppatore Full Stack",
     nexsoDescription:
-      "Sviluppo soluzioni SaaS con React, TypeScript, JavaScript, Node.js, API e database come PostgreSQL e MongoDB. Utilizzo Python per automazioni e sperimentazioni, integro IA e la uso nello sviluppo, e organizzo il lavoro in Azure DevOps. UX e product discovery guidano implementazione, architettura e standard tecnici.",
+      "Sviluppo soluzioni SaaS con React, TypeScript, JavaScript, Node.js e API. Utilizzo Python per automazioni e sperimentazioni, integro IA e la uso nello sviluppo, e organizzo il lavoro in Azure DevOps. UX e product discovery guidano implementazione, architettura e standard tecnici.",
     eipgPeriod: "2017 - 2024",
     eipgRole: "Coordinatore e Ingegneria dei Processi",
     eipgDescription:
