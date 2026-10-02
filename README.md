@@ -12,7 +12,7 @@ A multilingual developer portfolio presenting Guilherme Ferreira's work, technic
 
 ### Overview
 
-Built to help visitors explore projects, inspect source code and find relevant professional information in English, Portuguese or Italian. The application presents Guilherme Ferreira as a Full Stack Developer, with product thinking and UX supporting the way the work is organized.
+Built to help visitors explore projects, inspect source code and find relevant professional information in English, Portuguese or Italian. The application presents Guilherme Ferreira as a React Developer, with product thinking and UX supporting the way the work is organized.
 
 ### Tech Stack
 
@@ -76,7 +76,7 @@ Existing project preview maintained in the portfolio repository.
 ### Author
 
 **Guilherme Ferreira**  
-Full Stack Developer
+React Developer
 
 [GitHub](https://github.com/fsgui89) · [LinkedIn](https://linkedin.com/in/guilhermefsdev) · [Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/)
 
@@ -90,7 +90,7 @@ Portfólio multilíngue que apresenta os projetos, as habilidades técnicas e a 
 
 ### Visão geral
 
-Desenvolvido para facilitar a exploração dos projetos, o acesso ao código e a consulta de informações profissionais em inglês, português ou italiano. A aplicação apresenta Guilherme Ferreira como Full Stack Developer, com visão de produto e UX orientando a organização do conteúdo.
+Desenvolvido para facilitar a exploração dos projetos, o acesso ao código e a consulta de informações profissionais em inglês, português ou italiano. A aplicação apresenta Guilherme Ferreira como React Developer, com visão de produto e UX orientando a organização do conteúdo.
 
 ### Tecnologias
 
@@ -152,7 +152,7 @@ A imagem existente na seção Preview acima é mantida no repositório do portf�
 ### Autor
 
 **Guilherme Ferreira**  
-Full Stack Developer
+React Developer
 
 [GitHub](https://github.com/fsgui89) · [LinkedIn](https://linkedin.com/in/guilhermefsdev) · [Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/)
 

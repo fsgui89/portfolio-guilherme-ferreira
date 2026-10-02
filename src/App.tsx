@@ -398,7 +398,7 @@ const contactTranslations = {
     whatsappText: "Send a message",
     backToTop: "Back to top",
     developedBy: "Developed by",
-    role: "Full Stack Developer • React, Next.js, Node.js • AI & UX",
+    role: "React Developer • Node.js • Next.js • AI Integration • UX",
     rights: "All rights reserved.",
     labels: {
       email: "Email",
@@ -417,7 +417,7 @@ const contactTranslations = {
     whatsappText: "Enviar mensagem",
     backToTop: "Voltar ao topo",
     developedBy: "Desenvolvido por",
-    role: "Desenvolvedor Full Stack • React, Next.js, Node.js • IA e UX",
+    role: "Desenvolvedor React • Node.js • Next.js • Integração de IA • UX",
     rights: "Todos os direitos reservados.",
     labels: {
       email: "E-mail",
@@ -436,7 +436,7 @@ const contactTranslations = {
     whatsappText: "Invia un messaggio",
     backToTop: "Torna all'inizio",
     developedBy: "Sviluppato da",
-    role: "Sviluppatore Full Stack • React, Next.js, Node.js • IA e UX",
+    role: "Sviluppatore React • Node.js • Next.js • Integrazione AI • UX",
     rights: "Tutti i diritti riservati.",
     labels: {
       email: "E-mail",
@@ -458,19 +458,19 @@ const translations = {
     navContact: "Contact",
     openMenu: "Open menu",
     closeMenu: "Close menu",
-    heroKicker: "Full Stack Developer",
+    heroKicker: "React Developer",
     heroName: "Guilherme Ferreira",
-    heroTitle: ["React • Next.js • Node.js", "Building products with AI and UX."],
+    heroTitle: ["Node.js • Next.js • AI Integration • UX", "Building digital products with SaaS, AI and UX."],
     heroDescription:
       "I develop digital products with TypeScript, JavaScript and Python, integrating AI into solutions and my development workflow. SaaS, UX and product thinking guide what I build.",
     viewProjects: "View projects",
     contactMe: "Let's talk",
     aboutEyebrow: "About",
-    aboutTitle: "Full Stack development with product vision.",
+    aboutTitle: "React development with product vision.",
     aboutLead:
-      "I am a Full Stack Developer focused on React, Next.js, Node.js and TypeScript. I use JavaScript and Python, integrate AI and use it in development, and work with APIs, databases and Azure DevOps to build SaaS products with attention to user experience.",
+      "I am a React Developer building web applications with React, Next.js, Node.js and TypeScript, also using JavaScript, Python, APIs, PostgreSQL and MongoDB. I build SaaS solutions and organize requirements and technical deliveries in Azure DevOps. AI-assisted development helps me accelerate implementation and automate tasks, with technical decisions and validation under human responsibility.",
     aboutText:
-      "At nexso, I develop software, APIs and automations, connecting implementation with UX and product discovery. My earlier experience of more than 12 years in leadership, operations, education and process improvement helps me understand people and business needs and make practical development decisions.",
+      "At nexso, I develop software, APIs and automations, using UX and Product Discovery to understand user needs, clarify requirements and support implementation decisions. My earlier experience of more than 12 years in leadership, operations, education and process improvement helps me understand people and business needs and make practical development decisions.",
     metricYears: "years leading projects and improving processes",
     metricStudents: "students in an academic operation structured and scaled",
     metricFranchises: "franchises assessed for national expansion",
@@ -503,13 +503,7 @@ const translations = {
             name: "React + TypeScript",
             level: 3,
             levelLabel: "Practical",
-            evidence: "Portfolio 2.0 and component-based interfaces.",
-          },
-          {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Torcida Brasil, To-do List and browser interactions.",
+            evidence: "Portfolio 2.0, Vite and component-based interfaces.",
           },
           {
             name: "Next.js",
@@ -518,10 +512,16 @@ const translations = {
             evidence: "Agência Aurora, StepZone and PetCare.",
           },
           {
+            name: "JavaScript",
+            level: 3,
+            levelLabel: "Practical",
+            evidence: "Torcida Brasil, To-do List and browser interactions.",
+          },
+          {
             name: "HTML + CSS",
             level: 3,
             levelLabel: "Practical",
-            evidence: "Responsive layouts, accessibility and visual identity.",
+            evidence: "Responsive layouts, Tailwind CSS, accessibility and visual identity.",
           },
         ],
       },
@@ -566,7 +566,7 @@ const translations = {
               "Discovery, personas, requirements and experience decisions at nexso.",
           },
           {
-            name: "AI Integration",
+            name: "AI Integration + AI-Assisted Development",
             level: 3,
             levelLabel: "Practical",
             evidence:
@@ -600,19 +600,19 @@ const translations = {
     navContact: "Contato",
     openMenu: "Abrir menu",
     closeMenu: "Fechar menu",
-    heroKicker: "Desenvolvedor Full Stack",
+    heroKicker: "Desenvolvedor React",
     heroName: "Guilherme Ferreira",
-    heroTitle: ["React • Next.js • Node.js", "Construindo produtos com IA e UX."],
+    heroTitle: ["Node.js • Next.js • Integração de IA • UX", "Construindo produtos digitais com SaaS, IA e UX."],
     heroDescription:
       "Desenvolvo produtos digitais com TypeScript, JavaScript e Python, integrando IA às soluções e ao desenvolvimento. SaaS, UX e visão de produto orientam o que construo.",
     viewProjects: "Ver projetos",
     contactMe: "Vamos conversar",
     aboutEyebrow: "Sobre",
-    aboutTitle: "Desenvolvimento Full Stack com visão de produto.",
+    aboutTitle: "Desenvolvimento React com visão de produto.",
     aboutLead:
-      "Sou Desenvolvedor Full Stack com foco em React, Next.js, Node.js e TypeScript. Utilizo JavaScript e Python, integro IA e a utilizo no desenvolvimento, e trabalho com APIs, bancos de dados e Azure DevOps para construir produtos SaaS com atenção à experiência do usuário.",
+      "Sou Desenvolvedor React e construo aplicações web com React, Next.js, Node.js e TypeScript, utilizando também JavaScript, Python, APIs, PostgreSQL e MongoDB. Desenvolvo soluções SaaS e organizo requisitos e entregas técnicas no Azure DevOps. O desenvolvimento assistido por IA ajuda a acelerar implementações e automatizar tarefas, com decisões técnicas e validações sob responsabilidade humana.",
     aboutText:
-      "Na nexso, desenvolvo software, APIs e automações, conectando implementação, UX e discovery de produto. Minha experiência anterior de mais de 12 anos em liderança, operações, educação e melhoria de processos contribui para compreender pessoas e necessidades de negócio e tomar decisões práticas no desenvolvimento.",
+      "Na nexso, desenvolvo software, APIs e automações, utilizando UX e Product Discovery para compreender necessidades dos usuários, esclarecer requisitos e apoiar decisões de implementação. Minha experiência anterior de mais de 12 anos em liderança, operações, educação e melhoria de processos contribui para compreender pessoas e necessidades de negócio e tomar decisões práticas no desenvolvimento.",
     metricYears: "anos liderando projetos e aprimorando processos",
     metricStudents: "alunos em uma operação acadêmica estruturada e escalada",
     metricFranchises: "franquias analisadas para uma expansão nacional",
@@ -645,13 +645,7 @@ const translations = {
             name: "React + TypeScript",
             level: 3,
             levelLabel: "Prática",
-            evidence: "Portfólio 2.0 e interfaces componentizadas.",
-          },
-          {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Torcida Brasil, To-do List e interações no navegador.",
+            evidence: "Portfólio 2.0, Vite e interfaces componentizadas.",
           },
           {
             name: "Next.js",
@@ -660,11 +654,17 @@ const translations = {
             evidence: "Agência Aurora, StepZone e PetCare.",
           },
           {
+            name: "JavaScript",
+            level: 3,
+            levelLabel: "Prática",
+            evidence: "Torcida Brasil, To-do List e interações no navegador.",
+          },
+          {
             name: "HTML + CSS",
             level: 3,
             levelLabel: "Prática",
             evidence:
-              "Layouts responsivos, acessibilidade e identidade visual.",
+              "Layouts responsivos, Tailwind CSS, acessibilidade e identidade visual.",
           },
         ],
       },
@@ -709,7 +709,7 @@ const translations = {
               "Discovery, personas, requisitos e decisões de experiência na nexso.",
           },
           {
-            name: "Integração de IA",
+            name: "Integração de IA + Desenvolvimento Assistido por IA",
             level: 3,
             levelLabel: "Prática",
             evidence:
@@ -743,19 +743,19 @@ const translations = {
     navContact: "Contatti",
     openMenu: "Apri menu",
     closeMenu: "Chiudi menu",
-    heroKicker: "Sviluppatore Full Stack",
+    heroKicker: "Sviluppatore React",
     heroName: "Guilherme Ferreira",
-    heroTitle: ["React • Next.js • Node.js", "Creo prodotti con IA e UX."],
+    heroTitle: ["Node.js • Next.js • Integrazione AI • UX", "Creo prodotti digitali con SaaS, IA e UX."],
     heroDescription:
       "Sviluppo prodotti digitali con TypeScript, JavaScript e Python, integrando IA nelle soluzioni e nel processo di sviluppo. SaaS, UX e visione di prodotto guidano ciò che costruisco.",
     viewProjects: "Vedi progetti",
     contactMe: "Parliamo",
     aboutEyebrow: "Chi sono",
-    aboutTitle: "Sviluppo Full Stack con visione di prodotto.",
+    aboutTitle: "Sviluppo React con visione di prodotto.",
     aboutLead:
-      "Sono uno Sviluppatore Full Stack con focus su React, Next.js, Node.js e TypeScript. Utilizzo JavaScript e Python, integro IA e la uso nello sviluppo, e lavoro con API, database e Azure DevOps per creare prodotti SaaS curando l’esperienza utente.",
+      "Sono uno Sviluppatore React e creo applicazioni web con React, Next.js, Node.js e TypeScript, utilizzando anche JavaScript, Python, API, PostgreSQL e MongoDB. Sviluppo soluzioni SaaS e organizzo requisiti e consegne tecniche in Azure DevOps. Lo sviluppo assistito da IA aiuta ad accelerare implementazioni e automatizzare attività, con decisioni tecniche e validazioni sotto responsabilità umana.",
     aboutText:
-      "In nexso sviluppo software, API e automazioni, collegando implementazione, UX e product discovery. La mia precedente esperienza di oltre 12 anni in leadership, operazioni, educazione e miglioramento dei processi mi aiuta a comprendere persone ed esigenze aziendali e a prendere decisioni concrete nello sviluppo.",
+      "In nexso sviluppo software, API e automazioni, utilizzando UX e Product Discovery per comprendere le esigenze degli utenti, chiarire i requisiti e supportare le decisioni di implementazione. La mia precedente esperienza di oltre 12 anni in leadership, operazioni, educazione e miglioramento dei processi mi aiuta a comprendere persone ed esigenze aziendali e a prendere decisioni concrete nello sviluppo.",
     metricYears: "anni alla guida di progetti e nel miglioramento dei processi",
     metricStudents:
       "studenti in una struttura accademica organizzata e ampliata",
@@ -793,13 +793,7 @@ const translations = {
             name: "React + TypeScript",
             level: 3,
             levelLabel: "Pratica",
-            evidence: "Portfolio 2.0 e interfacce basate su componenti.",
-          },
-          {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Torcida Brasil, To-do List e interazioni nel browser.",
+            evidence: "Portfolio 2.0, Vite e interfacce basate su componenti.",
           },
           {
             name: "Next.js",
@@ -808,10 +802,16 @@ const translations = {
             evidence: "Agência Aurora, StepZone e PetCare.",
           },
           {
+            name: "JavaScript",
+            level: 3,
+            levelLabel: "Pratica",
+            evidence: "Torcida Brasil, To-do List e interazioni nel browser.",
+          },
+          {
             name: "HTML + CSS",
             level: 3,
             levelLabel: "Pratica",
-            evidence: "Layout responsive, accessibilità e identità visiva.",
+            evidence: "Layout responsive, Tailwind CSS, accessibilità e identità visiva.",
           },
         ],
       },
@@ -856,7 +856,7 @@ const translations = {
             evidence: "Discovery, personas, requisiti e decisioni UX in nexso.",
           },
           {
-            name: "Integrazione IA",
+            name: "Integrazione AI + Sviluppo Assistito da IA",
             level: 3,
             levelLabel: "Pratica",
             evidence:
@@ -979,7 +979,16 @@ function App() {
   useEffect(() => {
     localStorage.setItem("portfolio-language", language);
     document.documentElement.lang = language;
-  }, [language]);
+    const title = `${copy.heroName} | ${copy.heroKicker}`;
+    const description = `${copy.heroKicker} | ${copy.heroTitle[0]} — TypeScript, JavaScript, Python, APIs, PostgreSQL, MongoDB, Azure DevOps, SaaS.`;
+    document.title = title;
+    for (const selector of ['meta[name="title"]', 'meta[property="og:title"]', 'meta[name="twitter:title"]']) {
+      document.querySelector(selector)?.setAttribute("content", title);
+    }
+    for (const selector of ['meta[name="description"]', 'meta[property="og:description"]', 'meta[name="twitter:description"]']) {
+      document.querySelector(selector)?.setAttribute("content", description);
+    }
+  }, [language, copy]);
 
   useEffect(() => {
     if (!isCertificateModalOpen) {
@@ -1125,7 +1134,7 @@ function App() {
               <div className="hero-tags" aria-label="Areas of expertise">
                 <span>TypeScript</span>
                 <span>Python</span>
-                <span>AI Integration</span>
+                <span>{copy.heroTitle[0].split(" • ")[2]}</span>
                 <span>UX</span>
               </div>
             </div>
