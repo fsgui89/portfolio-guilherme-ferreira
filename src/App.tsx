@@ -449,6 +449,10 @@ const contactTranslations = {
 
 const translations = {
   en: {
+    nexsoTags: ["React + JavaScript", "TypeScript + APIs", "Azure DevOps + SaaS", "AI + UX"],
+    eipgTags: ["Google Sheets", "Operations", "Automation", "Leadership"],
+    dekraTags: ["Microsoft Excel", "Data Analysis", "Feasibility Analysis", "Usability"],
+
     navHome: "Home",
     navAbout: "About",
     navExperience: "Experience",
@@ -466,27 +470,27 @@ const translations = {
     contactMe: "Let's talk",
     aboutEyebrow: "About",
     aboutTitle: "React development with product vision.",
-    aboutLead: "I am a React Developer focused on web applications built with React, Next.js and Node.js.",
-    aboutText: ["At nexso, I develop SaaS solutions, APIs, automations and AI integrations, using Azure DevOps to organize development and technical deliveries.","UX and Product Discovery complement my technical work, helping turn real user needs into clear requirements and functional solutions.","My previous experience in leadership, operations and process improvement gives me a broader business perspective and shapes the way I build digital products."],
+    aboutLead: "I am a React Developer focused on modern web applications with React, Next.js, TypeScript and JavaScript.",
+    aboutText: ["At nexso, I build frontend interfaces for SaaS solutions, with complementary work involving Node.js, REST APIs, Python and Azure DevOps.", "I integrate AI into solutions and use AI-assisted development to explore approaches and accelerate implementation.", "UX and Product Discovery help me understand users, define clear requirements and make better implementation decisions."],
     metricYears: "years leading projects and improving processes",
     metricStudents: "students in an academic operation structured and scaled",
-    metricFranchises: "franchises assessed for national expansion",
+    metricFranchises: "franchises covered by the requested feasibility reassessment",
     experienceEyebrow: "Experience",
     experienceTitle: ["Products", "are built with", "code and context."],
     experienceIntro:
       "My trajectory connects technology, education and operations. Each stage strengthened the way I investigate problems, structure processes and turn complexity into practical solutions.",
     nexsoPeriod: "2025 - Present",
-    nexsoRole: "Full Stack Developer",
+    nexsoRole: "React Developer",
     nexsoDescription:
-      "I develop SaaS solutions with React, TypeScript, JavaScript, Node.js and APIs. I use Python for automations and experiments, integrate AI and use it in development, and organize work in Azure DevOps. UX and product discovery inform implementation, architecture and technical standards.",
-    eipgPeriod: "2017 - 2024",
-    eipgRole: "Coordinator & Process Engineering",
+      "Customer conversations spread across WhatsApp, email and social media make it difficult for teams to follow up. At nexso, I help build an omnichannel SaaS platform that brings these channels into one interface for customer service, communication and relationship teams. My focus is implementing and improving frontend interfaces, features, components and API integrations with React and JavaScript. I contribute to engineering and architecture discussions and define and track features, user stories, requirements and technical deliveries in Azure DevOps. We are developing AI agents integrated into the platform to support service in the same environment. I also contribute to discovery and engineering for a new system, turning business needs into implementation decisions. So far, my contribution has helped centralize communication and reduce fragmentation while supporting new systems and AI integration.",
+    eipgPeriod: "Jan 2021 – Dec 2024",
+    eipgRole: "Academic Coordinator | Technology & Process Automation",
     eipgDescription:
-      "I built from scratch and led an after-school operation that grew to more than 200 students and a team of 25+ professionals. I integrated academic, administrative and financial processes and created Google Sheets automations to improve control, communication and decision-making.",
+      "The after-school program had to be built from scratch, with no existing structure for students, teachers, academic information or administrative workflows. I planned the operation, defined processes and responsibilities, and developed and maintained a Google Sheets management system that centralized information, automated controls and connected data used by teachers, coordination, school leadership and Finance. I helped recruit teachers, organize teams and improve routines through recurring meetings with leadership, Finance, teachers and students. The program grew to more than 200 active students and over 25 professionals under my leadership, serving staff, students and families. I also managed technology for the English Program delivered with International School, including platforms, digital resources, teacher training and meetings in English. Processes and automation supported growth, reduced manual work and improved access to information and communication between teams.",
     dekraPeriod: "2011 - 2013",
     dekraRole: "Business Process & Feasibility Analyst",
     dekraDescription:
-      "I worked on the feasibility analysis for a nationwide expansion involving 102 franchises. I identified incomplete data, outdated information, calculation errors and usability issues; with Finance, I reviewed the data and calculations and redesigned the interface, making the model clearer and more reliable.",
+      "I identified outdated fleet and municipal data, calculation inconsistencies and structural issues in DEKRA’s franchise feasibility model. I independently studied its interconnected spreadsheets, formulas and databases, then worked with Finance to validate assumptions and calculations. I corrected data and formulas, reorganized the spreadsheets and redesigned the information presentation to make the model clearer and easier to use. I first used the revised model for three new franchise feasibility studies and updated earlier studies with current, validated data. After the improvements were presented, management requested its use to reassess feasibility studies across the entire network of 102 franchises. The revised model gave the Franchising team, Finance and expansion decision-makers a more organized, up-to-date and reliable basis for analysis.",
     skillsEyebrow: "Skills",
     skillsTitle: ["Knowledge", "transformed into", "solutions."],
     skillsIntro:
@@ -503,16 +507,16 @@ const translations = {
             evidence: "Portfolio 2.0 and component-based interfaces.",
           },
           {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Torcida Brasil, To-do List and browser interactions.",
-          },
-          {
             name: "Next.js",
             level: 3,
             levelLabel: "Practical",
             evidence: "Web applications at nexso, Agência Aurora, StepZone and PetCare.",
+          },
+          {
+            name: "JavaScript",
+            level: 3,
+            levelLabel: "Practical",
+            evidence: "Torcida Brasil, To-do List and browser interactions.",
           },
           {
             name: "HTML + CSS",
@@ -556,18 +560,18 @@ const translations = {
         title: "Tools & Differentiators",
         skills: [
           {
-            name: "UX + Product Discovery",
-            level: 4,
-            levelLabel: "Professional",
-            evidence:
-              "Discovery, personas, requirements and experience decisions at nexso.",
-          },
-          {
             name: "AI Integration",
             level: 3,
             levelLabel: "Practical",
             evidence:
               "AI integrated into development, automations and intelligent agents.",
+          },
+          {
+            name: "Azure DevOps",
+            level: 3,
+            levelLabel: "Practical",
+            evidence:
+              "Development workflow organization with backlogs, epics, features, user stories and acceptance criteria.",
           },
           {
             name: "Git + GitHub",
@@ -577,17 +581,21 @@ const translations = {
               "Version control, branches and continuous project publishing.",
           },
           {
-            name: "Azure DevOps",
-            level: 3,
-            levelLabel: "Practical",
+            name: "UX + Product Discovery",
+            level: 4,
+            levelLabel: "Professional",
             evidence:
-              "Development workflow organization with backlogs, epics, features, user stories and acceptance criteria.",
+              "Discovery, personas, requirements and experience decisions at nexso.",
           },
         ],
       },
     ],
   },
   pt: {
+    nexsoTags: ["React + JavaScript", "TypeScript + APIs", "Azure DevOps + SaaS", "IA + UX"],
+    eipgTags: ["Google Sheets", "Operações", "Automação", "Liderança"],
+    dekraTags: ["Microsoft Excel", "Análise de dados", "Análise de viabilidade", "Usabilidade"],
+
     navHome: "Início",
     navAbout: "Sobre",
     navExperience: "Experiência",
@@ -605,27 +613,27 @@ const translations = {
     contactMe: "Vamos conversar",
     aboutEyebrow: "Sobre",
     aboutTitle: "Desenvolvimento React com visão de produto.",
-    aboutLead: "Sou Desenvolvedor React, com foco em aplicações web utilizando React, Next.js e Node.js.",
-    aboutText: ["Na nexso, desenvolvo soluções SaaS, APIs, automações e integrações de IA, utilizando Azure DevOps para organizar o desenvolvimento e as entregas técnicas.","UX e Product Discovery complementam minha atuação técnica, ajudando a transformar necessidades reais em requisitos claros e soluções funcionais.","Minha experiência anterior em liderança, operações e melhoria de processos amplia minha visão de negócio e a forma como desenvolvo produtos digitais."],
+    aboutLead: "Sou Desenvolvedor React, com foco em aplicações web modernas com React, Next.js, TypeScript e JavaScript.",
+    aboutText: ["Na nexso, construo interfaces frontend para soluções SaaS, com atuação complementar em Node.js, APIs REST, Python e Azure DevOps.", "Integro IA às soluções e utilizo desenvolvimento assistido por IA para explorar alternativas e acelerar implementações.", "UX e Product Discovery me ajudam a compreender usuários, definir requisitos claros e tomar melhores decisões de implementação."],
     metricYears: "anos liderando projetos e aprimorando processos",
     metricStudents: "alunos em uma operação acadêmica estruturada e escalada",
-    metricFranchises: "franquias analisadas para uma expansão nacional",
+    metricFranchises: "franquias abrangidas pela reavaliação de viabilidade solicitada",
     experienceEyebrow: "Experiência",
     experienceTitle: ["Produtos são", "construídos com", "código e contexto."],
     experienceIntro:
       "Minha trajetória conecta tecnologia, educação e operações. Cada etapa fortaleceu minha forma de investigar problemas, estruturar processos e transformar complexidade em soluções práticas.",
     nexsoPeriod: "2025 - Atualmente",
-    nexsoRole: "Desenvolvedor Full Stack",
+    nexsoRole: "Desenvolvedor React",
     nexsoDescription:
-      "Desenvolvo soluções SaaS com React, TypeScript, JavaScript, Node.js e APIs. Utilizo Python em automações e experimentações, integro IA e a utilizo no desenvolvimento, e organizo o trabalho no Azure DevOps. UX e discovery de produto orientam a implementação, a arquitetura e a padronização técnica.",
-    eipgPeriod: "2017 - 2024",
-    eipgRole: "Coordenador e Engenharia de Processos",
+      "Conversas distribuídas entre WhatsApp, e-mail e redes sociais dificultam o acompanhamento do atendimento. Na nexso, contribuo para uma plataforma SaaS omnichannel que reúne esses canais em uma única interface para equipes de atendimento, comunicação e relacionamento com clientes. Meu foco é implementar e evoluir interfaces frontend, funcionalidades, componentes e integrações com APIs usando React e JavaScript. Contribuo em reuniões de engenharia e arquitetura e crio, detalho e acompanho features, histórias de usuário, requisitos e entregas técnicas no Azure DevOps. Atualmente desenvolvemos agentes de IA integrados à plataforma para apoiar o atendimento no mesmo ambiente. Também contribuo para a descoberta e estruturação de um novo sistema, transformando necessidades de negócio em decisões de implementação. Até aqui, minha contribuição ajudou a centralizar a comunicação e reduzir a fragmentação do atendimento, enquanto participo da evolução de novos sistemas e da integração de IA.",
+    eipgPeriod: "jan. 2021 – dez. 2024",
+    eipgRole: "Coordenador Acadêmico | Tecnologia e Automação de Processos",
     eipgDescription:
-      "Estruturei do zero e liderei uma operação de contraturno que alcançou mais de 200 alunos e uma equipe com mais de 25 profissionais. Integrei processos acadêmicos, administrativos e financeiros e desenvolvi automações em Google Sheets para melhorar controle, comunicação e tomada de decisão.",
+      "O contraturno precisava ser criado do zero, sem estrutura pronta para alunos, professores, informações acadêmicas e rotinas administrativas. Planejei a operação, defini processos e responsabilidades e desenvolvi e mantive um sistema de gestão em Google Sheets para centralizar informações, automatizar controles e conectar dados de professores, coordenação, direção e financeiro. Contribuí para a contratação de professores, organização das equipes e melhoria das rotinas, com reuniões recorrentes com direção, financeiro, professores e alunos. A operação cresceu para mais de 200 alunos ativos e mais de 25 profissionais sob minha liderança, atendendo equipes, alunos e famílias. Também gerenciei a tecnologia do Programa de Inglês em parceria com a International School, incluindo plataformas, recursos digitais, treinamento de professores e reuniões em inglês. Os processos e automações sustentaram o crescimento, reduziram trabalho manual e melhoraram o acesso às informações e a comunicação entre as áreas.",
     dekraPeriod: "2011 - 2013",
-    dekraRole: "Analista de Processos de Negócio e Viabilidade",
+    dekraRole: "Analista de Processos e Viabilidade de Negócios",
     dekraDescription:
-      "Atuei na análise de viabilidade de uma expansão nacional envolvendo 102 franquias. Identifiquei dados incompletos, informações desatualizadas, erros de cálculo e problemas de usabilidade; em parceria com o Financeiro, revisei dados e cálculos e redesenhei a interface, tornando o modelo mais claro e confiável.",
+      "Identifiquei dados de frota e municípios desatualizados, inconsistências nos cálculos e problemas estruturais no modelo de viabilidade de franquias da DEKRA. Estudei de forma independente a lógica das planilhas interligadas, fórmulas e bases de dados e trabalhei com o Financeiro para validar premissas e cálculos. Corrigi dados e fórmulas, reorganizei as planilhas e redesenhei a apresentação das informações para tornar o modelo mais claro e funcional. Apliquei inicialmente o modelo revisado em estudos de viabilidade de três novas franquias e refiz estudos anteriores com dados atuais e validados. Após a apresentação das melhorias, a gestão solicitou seu uso para reavaliar os estudos de toda a rede de 102 franquias. O modelo passou a oferecer uma base mais organizada, atualizada e confiável para Franquias, Financeiro e gestores envolvidos nas decisões de expansão.",
     skillsEyebrow: "Habilidades",
     skillsTitle: ["Conhecimento", "que se transforma", "em solução."],
     skillsIntro:
@@ -642,16 +650,16 @@ const translations = {
             evidence: "Portfólio 2.0 e interfaces componentizadas.",
           },
           {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Torcida Brasil, To-do List e interações no navegador.",
-          },
-          {
             name: "Next.js",
             level: 3,
             levelLabel: "Prática",
             evidence: "Aplicações web na nexso, Agência Aurora, StepZone e PetCare.",
+          },
+          {
+            name: "JavaScript",
+            level: 3,
+            levelLabel: "Prática",
+            evidence: "Torcida Brasil, To-do List e interações no navegador.",
           },
           {
             name: "HTML + CSS",
@@ -696,18 +704,18 @@ const translations = {
         title: "Ferramentas & Diferenciais",
         skills: [
           {
-            name: "UX + Product Discovery",
-            level: 4,
-            levelLabel: "Profissional",
-            evidence:
-              "Discovery, personas, requisitos e decisões de experiência na nexso.",
-          },
-          {
             name: "Integração de IA",
             level: 3,
             levelLabel: "Prática",
             evidence:
               "IA integrada ao desenvolvimento, automações e agentes inteligentes.",
+          },
+          {
+            name: "Azure DevOps",
+            level: 3,
+            levelLabel: "Prática",
+            evidence:
+              "Organização do ciclo de desenvolvimento com backlogs, épicos, features, histórias e critérios de aceitação.",
           },
           {
             name: "Git + GitHub",
@@ -717,17 +725,21 @@ const translations = {
               "Versionamento, branches e publicação contínua dos projetos.",
           },
           {
-            name: "Azure DevOps",
-            level: 3,
-            levelLabel: "Prática",
+            name: "UX + Product Discovery",
+            level: 4,
+            levelLabel: "Profissional",
             evidence:
-              "Organização do ciclo de desenvolvimento com backlogs, épicos, features, histórias e critérios de aceitação.",
+              "Discovery, personas, requisitos e decisões de experiência na nexso.",
           },
         ],
       },
     ],
   },
   it: {
+    nexsoTags: ["React + JavaScript", "TypeScript + API", "Azure DevOps + SaaS", "IA + UX"],
+    eipgTags: ["Google Sheets", "Operazioni", "Automazione", "Leadership"],
+    dekraTags: ["Microsoft Excel", "Analisi dei dati", "Analisi di fattibilità", "Usabilità"],
+
     navHome: "Home",
     navAbout: "Chi sono",
     navExperience: "Esperienza",
@@ -745,12 +757,12 @@ const translations = {
     contactMe: "Parliamo",
     aboutEyebrow: "Chi sono",
     aboutTitle: "Sviluppo React con visione di prodotto.",
-    aboutLead: "Sono uno Sviluppatore React specializzato in applicazioni web realizzate con React, Next.js e Node.js.",
-    aboutText: ["In nexso sviluppo soluzioni SaaS, API, automazioni e integrazioni di IA, utilizzando Azure DevOps per organizzare lo sviluppo e le consegne tecniche.","UX e Product Discovery completano il mio lavoro tecnico, aiutandomi a trasformare esigenze reali in requisiti chiari e soluzioni funzionali.","La mia precedente esperienza in leadership, operazioni e miglioramento dei processi amplia la mia visione aziendale e influenza il modo in cui sviluppo prodotti digitali."],
+    aboutLead: "Sono uno sviluppatore React e realizzo applicazioni web moderne con React, Next.js, TypeScript e JavaScript.",
+    aboutText: ["In nexso realizzo interfacce frontend per soluzioni SaaS, con competenze complementari in Node.js, API REST, Python e Azure DevOps.", "Integro l’IA nelle soluzioni e utilizzo strumenti di sviluppo assistito dall’IA per esplorare alternative e accelerare l’implementazione.", "UX e Product Discovery mi aiutano a comprendere gli utenti, definire requisiti chiari e prendere decisioni di implementazione più consapevoli."],
     metricYears: "anni alla guida di progetti e nel miglioramento dei processi",
     metricStudents:
       "studenti in una struttura accademica organizzata e ampliata",
-    metricFranchises: "franchising analizzati per un’espansione nazionale",
+    metricFranchises: "sedi in franchising incluse nel riesame di fattibilità richiesto",
     experienceEyebrow: "Esperienza",
     experienceTitle: [
       "I prodotti",
@@ -760,17 +772,17 @@ const translations = {
     experienceIntro:
       "Il mio percorso collega tecnologia, educazione e operazioni. Ogni fase ha rafforzato il mio modo di analizzare i problemi, strutturare i processi e trasformare la complessità in soluzioni pratiche.",
     nexsoPeriod: "2025 - Presente",
-    nexsoRole: "Sviluppatore Full Stack",
+    nexsoRole: "Sviluppatore React",
     nexsoDescription:
-      "Sviluppo soluzioni SaaS con React, TypeScript, JavaScript, Node.js e API. Utilizzo Python per automazioni e sperimentazioni, integro IA e la uso nello sviluppo, e organizzo il lavoro in Azure DevOps. UX e product discovery guidano implementazione, architettura e standard tecnici.",
-    eipgPeriod: "2017 - 2024",
-    eipgRole: "Coordinatore e Ingegneria dei Processi",
+      "Le conversazioni distribuite tra WhatsApp, email e social network rendono difficile seguire le richieste dei clienti. In nexso contribuisco a una piattaforma SaaS omnicanale che riunisce questi canali in un’unica interfaccia per i team di assistenza, comunicazione e relazione con i clienti. Mi concentro sullo sviluppo e sull’evoluzione di interfacce frontend, funzionalità, componenti e integrazioni con API usando React e JavaScript. Contribuisco alle riunioni di ingegneria e architettura e definisco e seguo funzionalità, user story, requisiti e consegne tecniche in Azure DevOps. Stiamo sviluppando agenti di IA integrati nella piattaforma per supportare l’assistenza nello stesso ambiente. Contribuisco inoltre all’analisi delle esigenze e alla progettazione di un nuovo sistema, traducendo le necessità aziendali in decisioni di implementazione. Finora il mio contributo ha aiutato a centralizzare la comunicazione e ridurre la frammentazione dell’assistenza, affiancando lo sviluppo di nuovi sistemi e l’integrazione dell’IA.",
+    eipgPeriod: "gen. 2021 – dic. 2024",
+    eipgRole: "Coordinatore Accademico | Tecnologia e Automazione dei Processi",
     eipgDescription:
-      "Ho strutturato da zero e guidato un programma extracurricolare che ha raggiunto oltre 200 studenti e un team di più di 25 professionisti. Ho integrato processi accademici, amministrativi e finanziari e creato automazioni in Google Sheets per migliorare controllo, comunicazione e processo decisionale.",
+      "Il programma di attività extrascolastiche doveva essere creato da zero, senza una struttura per studenti, docenti, informazioni didattiche e procedure amministrative. Ho pianificato l’operazione, definito processi e responsabilità e sviluppato e mantenuto un sistema gestionale in Google Sheets per centralizzare le informazioni, automatizzare i controlli e collegare i dati utilizzati da docenti, coordinamento, direzione e amministrazione finanziaria. Ho contribuito alla selezione dei docenti, all’organizzazione dei team e al miglioramento delle procedure attraverso incontri regolari con direzione, amministrazione finanziaria, docenti e studenti. Il programma è cresciuto fino a oltre 200 studenti attivi e più di 25 professionisti sotto la mia guida, servendo personale, studenti e famiglie. Ho inoltre gestito la tecnologia del Programma di Inglese in collaborazione con International School, comprese piattaforme, risorse digitali, formazione dei docenti e riunioni in inglese. Processi e automazioni hanno sostenuto la crescita, ridotto il lavoro manuale e migliorato l’accesso alle informazioni e la comunicazione tra le aree.",
     dekraPeriod: "2011 - 2013",
-    dekraRole: "Analista dei Processi Aziendali e di Fattibilità",
+    dekraRole: "Analista dei Processi Aziendali e della Fattibilità Economica",
     dekraDescription:
-      "Ho lavorato all’analisi di fattibilità di un’espansione nazionale che coinvolgeva 102 franchising. Ho individuato dati incompleti, informazioni obsolete, errori di calcolo e problemi di usabilità; insieme al team Finance ho revisionato dati e calcoli e ridisegnato l’interfaccia, rendendo il modello più chiaro e affidabile.",
+      "Ho individuato dati obsoleti sul parco veicoli e sui comuni, incongruenze nei calcoli e problemi strutturali nel modello DEKRA per gli studi di fattibilità delle nuove sedi in franchising. Ho studiato autonomamente la logica dei fogli di calcolo collegati, delle formule e delle basi dati, lavorando con il team finanziario per validare ipotesi e calcoli. Ho corretto dati e formule, riorganizzato i fogli e riprogettato la presentazione delle informazioni per rendere il modello più chiaro e funzionale. Ho utilizzato inizialmente il modello rivisto per gli studi di fattibilità di tre nuove sedi e aggiornato gli studi precedenti con dati attuali e validati. Dopo la presentazione delle migliorie, la direzione ne ha richiesto l’utilizzo per riesaminare gli studi dell’intera rete di 102 sedi in franchising. Il modello ha fornito al team Franchising, al team finanziario e ai responsabili dell’espansione una base più organizzata, aggiornata e affidabile.",
     skillsEyebrow: "Competenze",
     skillsTitle: ["Conoscenze", "che si trasformano", "in soluzioni."],
     skillsIntro:
@@ -787,16 +799,16 @@ const translations = {
             evidence: "Portfolio 2.0 e interfacce basate su componenti.",
           },
           {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Torcida Brasil, To-do List e interazioni nel browser.",
-          },
-          {
             name: "Next.js",
             level: 3,
             levelLabel: "Pratica",
             evidence: "Applicazioni web in nexso, Agência Aurora, StepZone e PetCare.",
+          },
+          {
+            name: "JavaScript",
+            level: 3,
+            levelLabel: "Pratica",
+            evidence: "Torcida Brasil, To-do List e interazioni nel browser.",
           },
           {
             name: "HTML + CSS",
@@ -841,17 +853,18 @@ const translations = {
         title: "Strumenti e competenze distintive",
         skills: [
           {
-            name: "UX + Product Discovery",
-            level: 4,
-            levelLabel: "Professionale",
-            evidence: "Discovery, personas, requisiti e decisioni UX in nexso.",
-          },
-          {
             name: "Integrazione IA",
             level: 3,
             levelLabel: "Pratica",
             evidence:
               "IA integrata nello sviluppo, nelle automazioni e negli agenti intelligenti.",
+          },
+          {
+            name: "Azure DevOps",
+            level: 3,
+            levelLabel: "Pratica",
+            evidence:
+              "Organizzazione del ciclo di sviluppo con backlog, epic, feature, user story e criteri di accettazione.",
           },
           {
             name: "Git + GitHub",
@@ -861,11 +874,10 @@ const translations = {
               "Controllo di versione, branch e pubblicazione continua dei progetti.",
           },
           {
-            name: "Azure DevOps",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence:
-              "Organizzazione del ciclo di sviluppo con backlog, epic, feature, user story e criteri di accettazione.",
+            name: "UX + Product Discovery",
+            level: 4,
+            levelLabel: "Professionale",
+            evidence: "Discovery, personas, requisiti e decisioni UX in nexso.",
           },
         ],
       },
@@ -1218,10 +1230,7 @@ function App() {
                 <div className="experience-details">
                   <p>{copy.nexsoDescription}</p>
                   <div className="experience-tags">
-                    <span>React + Node.js</span>
-                    <span>TypeScript</span>
-                    <span>APIs + SaaS</span>
-                    <span>AI + UX</span>
+                    {copy.nexsoTags.map((tag) => <span key={tag}>{tag}</span>)}
                   </div>
                 </div>
               </article>
@@ -1238,10 +1247,7 @@ function App() {
                 <div className="experience-details">
                   <p>{copy.eipgDescription}</p>
                   <div className="experience-tags">
-                    <span>Process Engineering</span>
-                    <span>Operations</span>
-                    <span>Automation</span>
-                    <span>Leadership</span>
+                    {copy.eipgTags.map((tag) => <span key={tag}>{tag}</span>)}
                   </div>
                 </div>
               </article>
@@ -1258,10 +1264,7 @@ function App() {
                 <div className="experience-details">
                   <p>{copy.dekraDescription}</p>
                   <div className="experience-tags">
-                    <span>Business Processes</span>
-                    <span>Data Analysis</span>
-                    <span>Process Improvement</span>
-                    <span>UX</span>
+                    {copy.dekraTags.map((tag) => <span key={tag}>{tag}</span>)}
                   </div>
                 </div>
               </article>
