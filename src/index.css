@@ -269,10 +269,6 @@ button {
 }
 
 @media (min-width: 901px) {
-  .hero-description span {
-    display: block;
-  }
-
   .hero-title span {
     white-space: nowrap;
   }
@@ -1619,6 +1615,8 @@ button {
 
 .skill-group {
   position: relative;
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
   padding: 28px;
   border: 1px solid var(--border);
@@ -1690,6 +1688,8 @@ button {
 
 .skill-list {
   position: relative;
+  flex: 1;
+  grid-template-rows: repeat(4, 1fr);
   z-index: 1;
   display: grid;
   margin-top: 26px;
@@ -1749,7 +1749,7 @@ button {
 .skill-evidence {
   margin-top: 11px;
   color: var(--muted);
-  font-size: 0.67rem;
+  font-size: 0.75rem;
   line-height: 1.55;
 }
 
@@ -1761,6 +1761,12 @@ button {
 
 .skill-evidence > span::after {
   content: ":";
+}
+
+@media (min-width: 1101px) {
+  .skill-group-heading {
+    min-height: 4.3125rem;
+  }
 }
 
 @media (max-width: 1100px) {

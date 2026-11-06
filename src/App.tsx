@@ -487,18 +487,24 @@ const translations = {
         "skills": [
           {
             "name": "React + TypeScript",
-            "level": 3,
-            "levelLabel": "Practical",
-            "evidence": "Portfolio 2.0 and TaskFlow: reusable components and typed interfaces."
+            "level": 4,
+            "levelLabel": "Specialty",
+            "evidence": "Portfolio 2.0 and TaskFlow: typed interfaces, reusable components and feature organization."
+          },
+          {
+            "name": "Next.js",
+            "level": 4,
+            "levelLabel": "Specialty",
+            "evidence": "Agência Aurora, StepZone and PetCare study projects."
           },
           {
             "name": "JavaScript",
-            "level": 3,
-            "levelLabel": "Practical",
-            "evidence": "Torcida Brasil, task lists and browser interactions."
+            "level": 4,
+            "levelLabel": "Specialty",
+            "evidence": "Torcida Brasil and interactive features in web projects."
           },
           {
-            "name": "HTML + CSS",
+            "name": "HTML5 + CSS3",
             "level": 3,
             "levelLabel": "Practical",
             "evidence": "Responsive layouts, semantic markup and interaction states."
@@ -509,15 +515,9 @@ const translations = {
         "title": "Related tools",
         "skills": [
           {
-            "name": "Next.js",
-            "level": 3,
-            "levelLabel": "Practical",
-            "evidence": "Agência Aurora, StepZone and PetCare study projects."
-          },
-          {
             "name": "Tailwind CSS",
-            "level": 3,
-            "levelLabel": "Practical",
+            "level": 4,
+            "levelLabel": "Specialty",
             "evidence": "StepZone: responsive styles with utility classes."
           },
           {
@@ -531,29 +531,29 @@ const translations = {
             "level": 3,
             "levelLabel": "Practical",
             "evidence": "Version control, branches and project publishing."
-          }
-        ]
-      },
-      {
-        "title": "Complementary knowledge",
-        "skills": [
+          },
           {
             "name": "Node.js + SQL",
             "level": 2,
             "levelLabel": "Complementary",
             "evidence": "Complementary knowledge for service integration; SQL, PostgreSQL and MongoDB studies."
+          }
+        ]
+      },
+      {
+        "title": "Product, AI & professional practice",
+        "skills": [
+          {
+            "name": "UX + Product Discovery",
+            "level": 4,
+            "levelLabel": "Specialty",
+            "evidence": "Requirements, usability and product decisions at Nexso, supported by process analysis and improvement."
           },
           {
             "name": "AI Integration",
             "level": 3,
             "levelLabel": "Practical",
             "evidence": "AI-powered customer service at Nexso, still in development; AI-assisted coding."
-          },
-          {
-            "name": "UX + Product Discovery",
-            "level": 3,
-            "levelLabel": "Practical",
-            "evidence": "Requirements, usability and product decisions at Nexso."
           },
           {
             "name": "Azure DevOps",
@@ -655,18 +655,24 @@ const translations = {
         "skills": [
           {
             "name": "React + TypeScript",
-            "level": 3,
-            "levelLabel": "Prática",
-            "evidence": "Portfólio 2.0 e TaskFlow: componentes reutilizáveis e interfaces tipadas."
+            "level": 4,
+            "levelLabel": "Especialidade",
+            "evidence": "Portfólio 2.0 e TaskFlow: interfaces tipadas, componentes reutilizáveis e organização de funcionalidades."
+          },
+          {
+            "name": "Next.js",
+            "level": 4,
+            "levelLabel": "Especialidade",
+            "evidence": "Projetos de estudo Agência Aurora, StepZone e PetCare."
           },
           {
             "name": "JavaScript",
-            "level": 3,
-            "levelLabel": "Prática",
-            "evidence": "Torcida Brasil, listas de tarefas e interações no navegador."
+            "level": 4,
+            "levelLabel": "Especialidade",
+            "evidence": "Torcida Brasil e funcionalidades interativas em projetos web."
           },
           {
-            "name": "HTML + CSS",
+            "name": "HTML5 + CSS3",
             "level": 3,
             "levelLabel": "Prática",
             "evidence": "Layouts responsivos, marcação semântica e estados de interação."
@@ -677,15 +683,9 @@ const translations = {
         "title": "Ferramentas relacionadas",
         "skills": [
           {
-            "name": "Next.js",
-            "level": 3,
-            "levelLabel": "Prática",
-            "evidence": "Projetos de estudo Agência Aurora, StepZone e PetCare."
-          },
-          {
             "name": "Tailwind CSS",
-            "level": 3,
-            "levelLabel": "Prática",
+            "level": 4,
+            "levelLabel": "Especialidade",
             "evidence": "StepZone: estilos responsivos com classes utilitárias."
           },
           {
@@ -699,29 +699,29 @@ const translations = {
             "level": 3,
             "levelLabel": "Prática",
             "evidence": "Controle de versão, branches e publicação dos projetos."
-          }
-        ]
-      },
-      {
-        "title": "Conhecimentos complementares",
-        "skills": [
+          },
           {
             "name": "Node.js + SQL",
             "level": 2,
             "levelLabel": "Complementar",
             "evidence": "Conhecimentos complementares para integração com serviços; estudos de SQL, PostgreSQL e MongoDB."
+          }
+        ]
+      },
+      {
+        "title": "Produto, IA e atuação profissional",
+        "skills": [
+          {
+            "name": "UX + Descoberta de Produto",
+            "level": 4,
+            "levelLabel": "Especialidade",
+            "evidence": "Requisitos, usabilidade e decisões de produto na Nexso, com experiência em análise e melhoria de processos."
           },
           {
             "name": "Integração de IA",
             "level": 3,
             "levelLabel": "Prática",
             "evidence": "Atendimento por IA na Nexso ainda em desenvolvimento; programação assistida por IA."
-          },
-          {
-            "name": "UX + Descoberta de produto",
-            "level": 3,
-            "levelLabel": "Prática",
-            "evidence": "Requisitos, usabilidade e decisões de produto na Nexso."
           },
           {
             "name": "Azure DevOps",
@@ -828,18 +828,24 @@ const translations = {
         "skills": [
           {
             "name": "React + TypeScript",
-            "level": 3,
-            "levelLabel": "Pratica",
-            "evidence": "Portfolio 2.0 e TaskFlow: componenti riutilizzabili e interfacce tipizzate."
+            "level": 4,
+            "levelLabel": "Specializzazione",
+            "evidence": "Portfolio 2.0 e TaskFlow: interfacce tipizzate, componenti riutilizzabili e organizzazione delle funzionalità."
+          },
+          {
+            "name": "Next.js",
+            "level": 4,
+            "levelLabel": "Specializzazione",
+            "evidence": "Progetti di studio Agência Aurora, StepZone e PetCare."
           },
           {
             "name": "JavaScript",
-            "level": 3,
-            "levelLabel": "Pratica",
-            "evidence": "Torcida Brasil, liste di attività e interazioni nel browser."
+            "level": 4,
+            "levelLabel": "Specializzazione",
+            "evidence": "Torcida Brasil e funzionalità interattive nei progetti web."
           },
           {
-            "name": "HTML + CSS",
+            "name": "HTML5 + CSS3",
             "level": 3,
             "levelLabel": "Pratica",
             "evidence": "Layout responsive, markup semantico e stati di interazione."
@@ -850,15 +856,9 @@ const translations = {
         "title": "Strumenti correlati",
         "skills": [
           {
-            "name": "Next.js",
-            "level": 3,
-            "levelLabel": "Pratica",
-            "evidence": "Progetti di studio Agência Aurora, StepZone e PetCare."
-          },
-          {
             "name": "Tailwind CSS",
-            "level": 3,
-            "levelLabel": "Pratica",
+            "level": 4,
+            "levelLabel": "Specializzazione",
             "evidence": "StepZone: stili responsive con classi di utilità."
           },
           {
@@ -872,29 +872,29 @@ const translations = {
             "level": 3,
             "levelLabel": "Pratica",
             "evidence": "Controllo di versione, branch e pubblicazione dei progetti."
-          }
-        ]
-      },
-      {
-        "title": "Conoscenze complementari",
-        "skills": [
+          },
           {
             "name": "Node.js + SQL",
             "level": 2,
             "levelLabel": "Complementare",
             "evidence": "Conoscenze complementari per integrare servizi; studio di SQL, PostgreSQL e MongoDB."
+          }
+        ]
+      },
+      {
+        "title": "Prodotto, IA e attività professionale",
+        "skills": [
+          {
+            "name": "UX + Scoperta del prodotto",
+            "level": 4,
+            "levelLabel": "Specializzazione",
+            "evidence": "Requisiti, usabilità e decisioni di prodotto in Nexso, con esperienza nell’analisi e nel miglioramento dei processi."
           },
           {
             "name": "Integrazione IA",
             "level": 3,
             "levelLabel": "Pratica",
             "evidence": "Assistenza basata sull’IA in Nexso ancora in sviluppo; programmazione assistita dall’IA."
-          },
-          {
-            "name": "UX + Analisi di prodotto",
-            "level": 3,
-            "levelLabel": "Pratica",
-            "evidence": "Requisiti, usabilità e decisioni di prodotto in Nexso."
           },
           {
             "name": "Azure DevOps",
@@ -1170,9 +1170,7 @@ function App() {
               </h2>
 
               <p className="hero-description">
-                {copy.heroDescription.map((line) => (
-                  <span key={line}>{line}{" "}</span>
-                ))}
+                {copy.heroDescription.join(" ")}
               </p>
 
               <div className="hero-actions">
