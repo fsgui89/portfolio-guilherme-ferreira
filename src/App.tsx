@@ -79,8 +79,7 @@ const projectTranslations = {
   en: {
     eyebrow: "Projects",
     title: ["Projects that", "turn ideas", "into experiences."],
-    intro:
-      "A selection of digital products where code, product thinking and UX come together to solve real problems with clarity and purpose.",
+    intro: "Study projects and frontend interfaces demonstrating components, state, responsive layouts and user flows. Explore the demos and source code.",
     featured: "Featured project",
     moreProjects: "More selected projects",
     liveDemo: "View project",
@@ -88,29 +87,20 @@ const projectTranslations = {
     technologies: "Technologies used",
     imageAlt: "Project preview",
     descriptions: {
-      "torcida-brasil":
-        "A JavaScript e-commerce experience with search, filters, favorites, product variations, a persistent cart and a simulated checkout flow.",
-      "taskflow-react":
-        "A React and TypeScript productivity application with a customizable task list, filters, progress indicators, completed-task management and local persistence.",
-      petcare:
-        "A Next.js and TypeScript pet care scheduling system with a complete booking flow, confirmation, administrative agenda, metrics and status management.",
-      stepzone:
-        "A Next.js and TypeScript sneaker e-commerce experience with search, category filters, product pages, a persistent cart, automatic discounts and checkout.",
-      "agencia-aurora":
-        "A responsive Next.js and TypeScript landing page for a digital agency, built with reusable components and a clear, conversion-oriented visual hierarchy.",
-      "refatorando-copa-viagens":
-        "An interactive JavaScript travel experience connecting destinations, national teams and World Cup stories through a visual world map.",
-      "tela-de-login":
-        "A responsive JavaScript authentication interface with validation, local persistence, interaction states and clear user feedback.",
-      "portfolio-2.0":
-        "A multilingual React and TypeScript portfolio developed to present professional experience, technical skills, evidence and projects with clarity, organization and identity.",
+      "torcida-brasil": "Study e-commerce built with JavaScript, HTML and CSS to explore product browsing: search, filters, favorites, a persistent cart and simulated checkout.",
+      "taskflow-react": "Task management study app in React and TypeScript. Reusable interfaces, filters, progress indicators and local persistence support the daily task flow.",
+      "petcare": "Pet appointment scheduling study project with Next.js and TypeScript: booking, confirmation, an administrative agenda and status management with local persistence.",
+      "stepzone": "Sneaker e-commerce study project with Next.js, TypeScript and Tailwind CSS. Product search, filters and a persistent cart lead into a demonstration checkout.",
+      "agencia-aurora": "Study landing page for a digital agency in Next.js and TypeScript. Reusable components, CSS Modules and responsive layouts organize services and calls to action.",
+      "refatorando-copa-viagens": "Interactive travel study project using JavaScript, HTML and CSS. A visual world map connects destinations, national teams and World Cup stories.",
+      "tela-de-login": "JavaScript, HTML and CSS login interface study with form validation, interaction states and local persistence, demonstrating user feedback in a responsive layout.",
+      "portfolio-2.0": "React, TypeScript and Vite portfolio presenting experience and projects in three languages, with saved language preference, responsive navigation and a keyboard-controlled certificate viewer."
     },
   },
   pt: {
     eyebrow: "Projetos",
     title: ["Projetos que", "transformam ideias", "em experiências."],
-    intro:
-      "Uma seleção de produtos digitais em que código, visão de produto e UX se encontram para resolver problemas reais com clareza e propósito.",
+    intro: "Projetos de estudo e interfaces frontend que demonstram componentes, estados, responsividade e fluxos de uso. Explore as demonstrações e o código-fonte.",
     featured: "Projeto em destaque",
     moreProjects: "Outros projetos selecionados",
     liveDemo: "Ver projeto",
@@ -118,29 +108,20 @@ const projectTranslations = {
     technologies: "Tecnologias utilizadas",
     imageAlt: "Prévia do projeto",
     descriptions: {
-      "torcida-brasil":
-        "E-commerce em JavaScript dedicado ao futebol brasileiro, com busca, filtros, favoritos, variações de produto, carrinho persistente e checkout simulado.",
-      "taskflow-react":
-        "Aplicação de produtividade em React e TypeScript com lista personalizável, filtros, indicadores de progresso, gerenciamento de tarefas concluídas e persistência local.",
-      petcare:
-        "Sistema em Next.js e TypeScript de agendamento para cuidados pet com fluxo completo, confirmação, agenda administrativa, métricas e gerenciamento de status.",
-      stepzone:
-        "E-commerce de sneakers em Next.js e TypeScript com pesquisa, filtros por categoria, páginas de produto, carrinho persistente, desconto automático e checkout.",
-      "agencia-aurora":
-        "Landing page responsiva em Next.js e TypeScript para uma agência digital, construída com componentes reutilizáveis e hierarquia visual orientada à conversão.",
-      "refatorando-copa-viagens":
-        "Experiência interativa de viagens em JavaScript que conecta destinos, seleções e histórias da Copa por meio de um mapa-múndi visual.",
-      "tela-de-login":
-        "Interface de autenticação responsiva em JavaScript com validações, persistência local, estados de interação e feedback claro para o usuário.",
-      "portfolio-2.0":
-        "Portfólio multilíngue em React e TypeScript desenvolvido para apresentar trajetória profissional, habilidades técnicas, evidências e projetos com clareza, organização e identidade.",
+      "torcida-brasil": "E-commerce de estudo em JavaScript, HTML e CSS para explorar a navegação de produtos: busca, filtros, favoritos, carrinho persistente e checkout simulado.",
+      "taskflow-react": "Aplicação de estudo de gestão de tarefas em React e TypeScript. Interfaces reutilizáveis, filtros, indicadores de progresso e persistência local apoiam o fluxo diário de tarefas.",
+      "petcare": "Projeto de estudo de agendamento pet com Next.js e TypeScript: reserva, confirmação, agenda administrativa e gerenciamento de status com persistência local.",
+      "stepzone": "E-commerce de estudo de sneakers com Next.js, TypeScript e Tailwind CSS. Busca, filtros e carrinho persistente conduzem a um checkout demonstrativo.",
+      "agencia-aurora": "Landing page de estudo para uma agência digital em Next.js e TypeScript. Componentes reutilizáveis, CSS Modules e layouts responsivos organizam serviços e chamadas para ação.",
+      "refatorando-copa-viagens": "Projeto de estudo de viagens em JavaScript, HTML e CSS. Um mapa-múndi visual conecta destinos, seleções e histórias da Copa.",
+      "tela-de-login": "Estudo de interface de login em JavaScript, HTML e CSS, com validação de formulário, estados de interação e persistência local, demonstrando feedback em um layout responsivo.",
+      "portfolio-2.0": "Portfólio em React, TypeScript e Vite que apresenta experiências e projetos em três idiomas, com preferência de idioma salva, navegação responsiva e visualizador de certificados operado por teclado."
     },
   },
   it: {
     eyebrow: "Progetti",
     title: ["Progetti che", "trasformano idee", "in esperienze."],
-    intro:
-      "Una selezione di prodotti digitali in cui codice, visione di prodotto e UX si uniscono per risolvere problemi reali con chiarezza e intenzione.",
+    intro: "Progetti di studio e interfacce frontend che mostrano componenti, stati, layout responsive e percorsi utente. Esplora le demo e il codice sorgente.",
     featured: "Progetto in evidenza",
     moreProjects: "Altri progetti selezionati",
     liveDemo: "Vedi progetto",
@@ -148,22 +129,14 @@ const projectTranslations = {
     technologies: "Tecnologie utilizzate",
     imageAlt: "Anteprima del progetto",
     descriptions: {
-      "torcida-brasil":
-        "Un’esperienza e-commerce in JavaScript dedicata al calcio brasiliano, con ricerca, filtri, preferiti, varianti di prodotto, carrello persistente e checkout simulato.",
-      "taskflow-react":
-        "Un’applicazione per la produttività in React e TypeScript con lista personalizzabile, filtri, indicatori di avanzamento, gestione delle attività completate e persistenza locale.",
-      petcare:
-        "Un sistema in Next.js e TypeScript di prenotazione per la cura degli animali con flusso completo, conferma, agenda amministrativa, metriche e gestione dello stato.",
-      stepzone:
-        "Un e-commerce di sneakers in Next.js e TypeScript con ricerca, filtri per categoria, pagine prodotto, carrello persistente, sconti automatici e checkout.",
-      "agencia-aurora":
-        "Una landing page responsive in Next.js e TypeScript per un’agenzia digitale, costruita con componenti riutilizzabili e una gerarchia visiva orientata alla conversione.",
-      "refatorando-copa-viagens":
-        "Un’esperienza di viaggio interattiva in JavaScript che collega destinazioni, nazionali e storie dei Mondiali attraverso una mappa visiva.",
-      "tela-de-login":
-        "Un’interfaccia di autenticazione responsive in JavaScript con validazione, persistenza locale, stati di interazione e feedback chiaro per l’utente.",
-      "portfolio-2.0":
-        "Un portfolio multilingue in React e TypeScript sviluppato per presentare esperienza professionale, competenze tecniche, evidenze e progetti con chiarezza, organizzazione e identità.",
+      "torcida-brasil": "E-commerce di studio in JavaScript, HTML e CSS per esplorare la navigazione dei prodotti: ricerca, filtri, preferiti, carrello persistente e checkout simulato.",
+      "taskflow-react": "Applicazione di studio per gestire attività in React e TypeScript. Interfacce riutilizzabili, filtri, indicatori di avanzamento e persistenza locale supportano il flusso quotidiano.",
+      "petcare": "Progetto di studio per prenotare servizi per animali con Next.js e TypeScript: prenotazione, conferma, agenda amministrativa e gestione dello stato con persistenza locale.",
+      "stepzone": "E-commerce di studio di sneakers con Next.js, TypeScript e Tailwind CSS. Ricerca, filtri e carrello persistente conducono a un checkout dimostrativo.",
+      "agencia-aurora": "Landing page di studio per un’agenzia digitale in Next.js e TypeScript. Componenti riutilizzabili, CSS Modules e layout responsive organizzano servizi e inviti all’azione.",
+      "refatorando-copa-viagens": "Progetto di studio sui viaggi in JavaScript, HTML e CSS. Una mappa visiva collega destinazioni, nazionali e storie dei Mondiali.",
+      "tela-de-login": "Studio di un’interfaccia di accesso in JavaScript, HTML e CSS, con validazione del modulo, stati di interazione e persistenza locale, per mostrare il feedback in un layout responsive.",
+      "portfolio-2.0": "Portfolio in React, TypeScript e Vite che presenta esperienze e progetti in tre lingue, con preferenza linguistica salvata, navigazione responsive e visualizzatore di certificati utilizzabile da tastiera."
     },
   },
 } as const;
@@ -393,12 +366,12 @@ const contactTranslations = {
     title: "Let's talk about technology, product and digital solutions?",
     intro:
       "If you would like to discuss an opportunity, a project or a good idea, choose the channel that works best for you.",
-    availability: "Available for new projects and professional connections",
+    availability: "Available for 100% remote Frontend and React opportunities",
     openContact: "Open contact",
     whatsappText: "Send a message",
     backToTop: "Back to top",
     developedBy: "Developed by",
-    role: "React Developer • Node.js • Next.js • AI Integration • UX",
+    role: "Frontend Developer | React | Next.js | Node.js | AI Integration | UX",
     rights: "All rights reserved.",
     labels: {
       email: "Email",
@@ -412,12 +385,12 @@ const contactTranslations = {
     title: "Vamos conversar sobre tecnologia, produto e soluções digitais?",
     intro:
       "Se quiser conversar sobre uma oportunidade, um projeto ou uma boa ideia, escolha o canal que funciona melhor para você.",
-    availability: "Disponível para novos projetos e conexões profissionais",
+    availability: "Disponível para oportunidades Frontend e React 100% remotas",
     openContact: "Abrir contato",
     whatsappText: "Enviar mensagem",
     backToTop: "Voltar ao topo",
     developedBy: "Desenvolvido por",
-    role: "Desenvolvedor React • Node.js • Next.js • Integração de IA • UX",
+    role: "Frontend Developer | React | Next.js | Node.js | Integração de IA | UX",
     rights: "Todos os direitos reservados.",
     labels: {
       email: "E-mail",
@@ -431,12 +404,12 @@ const contactTranslations = {
     title: "Parliamo di tecnologia, prodotto e soluzioni digitali?",
     intro:
       "Se vuoi parlare di un'opportunità, di un progetto o di una buona idea, scegli il canale che preferisci.",
-    availability: "Disponibile per nuovi progetti e connessioni professionali",
+    availability: "Disponibile per opportunità Frontend e React interamente da remoto",
     openContact: "Apri contatto",
     whatsappText: "Invia un messaggio",
     backToTop: "Torna all'inizio",
     developedBy: "Sviluppato da",
-    role: "Sviluppatore React • Node.js • Next.js • Integrazione AI • UX",
+    role: "Frontend Developer | React | Next.js | Node.js | Integrazione IA | UX",
     rights: "Tutti i diritti riservati.",
     labels: {
       email: "E-mail",
@@ -449,7 +422,12 @@ const contactTranslations = {
 
 const translations = {
   en: {
-    nexsoTags: ["React + JavaScript", "TypeScript + APIs", "Azure DevOps + SaaS", "AI + UX"],
+    nexsoTags: [
+      "React + JavaScript",
+      "REST APIs",
+      "Azure DevOps + SaaS",
+      "UX + Product Discovery"
+    ],
     eipgTags: ["Google Sheets", "Operations", "Automation", "Leadership"],
     dekraTags: ["Microsoft Excel", "Data Analysis", "Feasibility Analysis", "Usability"],
 
@@ -462,17 +440,28 @@ const translations = {
     navContact: "Contact",
     openMenu: "Open menu",
     closeMenu: "Close menu",
-    heroKicker: "React Developer",
+    heroKicker: "Frontend Developer",
     heroName: "Guilherme Ferreira",
-    heroTitle: ["React • Node.js • Next.js • AI Integration • UX", "Building digital products with SaaS, AI and UX."],
-    heroDescription: ["I build web applications with React, Node.js and Next.js,","integrating AI into both solutions and the development process.","SaaS, UX and product thinking guide what I build."],
+    heroTitle: [
+      "React • Next.js • Node.js • AI Integration • UX",
+      "Interfaces built around real needs."
+    ],
+    heroDescription: [
+      "I build responsive interfaces with React and Next.js,",
+      "connecting APIs, reusable components and clear interactions.",
+      "Code quality, UX and product thinking guide my work."
+    ],
     viewProjects: "View projects",
     contactMe: "Let's talk",
     aboutEyebrow: "About",
-    aboutTitle: "React development with product vision.",
-    aboutLead: "I am a React Developer focused on modern web applications with React, Next.js, TypeScript and JavaScript.",
-    aboutText: ["At nexso, I build frontend interfaces for SaaS solutions, with complementary work involving Node.js, REST APIs, Python and Azure DevOps.", "I integrate AI into solutions and use AI-assisted development to explore approaches and accelerate implementation.", "UX and Product Discovery help me understand users, define clear requirements and make better implementation decisions."],
-    metricYears: "years leading projects and improving processes",
+    aboutTitle: "Frontend development with product vision.",
+    aboutLead: "I am a Frontend Developer specializing in React, building web interfaces with Next.js, JavaScript and TypeScript.",
+    aboutText: [
+      "I connect requirements with responsive interfaces, reusable components and API integrations. UX and Product Discovery guide implementation decisions; complementary knowledge of Node.js and SQL supports collaboration with backend teams.",
+      "At Nexso, I contributed to the completed omnichannel module and am now working on AI-powered customer service, still in development.",
+      "My background in academic leadership, Google Sheets automation and feasibility analysis strengthens my ability to organize processes, understand needs and solve problems."
+    ],
+    metricYears: "years across process analysis, academic leadership and technology",
     metricStudents: "students in an academic operation structured and scaled",
     metricFranchises: "franchises covered by the requested feasibility reassessment",
     experienceEyebrow: "Experience",
@@ -480,119 +469,133 @@ const translations = {
     experienceIntro:
       "My trajectory connects technology, education and operations. Each stage strengthened the way I investigate problems, structure processes and turn complexity into practical solutions.",
     nexsoPeriod: "2025 - Present",
-    nexsoRole: "React Developer",
-    nexsoDescription:
-      "Customer conversations spread across WhatsApp, email and social media make it difficult for teams to follow up. At nexso, I help build an omnichannel SaaS platform that brings these channels into one interface for customer service, communication and relationship teams. My focus is implementing and improving frontend interfaces, features, components and API integrations with React and JavaScript. I contribute to engineering and architecture discussions and define and track features, user stories, requirements and technical deliveries in Azure DevOps. We are developing AI agents integrated into the platform to support service in the same environment. I also contribute to discovery and engineering for a new system, turning business needs into implementation decisions. So far, my contribution has helped centralize communication and reduce fragmentation while supporting new systems and AI integration.",
+    nexsoRole: "Frontend Developer",
+    nexsoDescription: "I contribute to SaaS development, translating business requirements into React interfaces and API integrations.",
     eipgPeriod: "Jan 2017 – Dec 2024",
     eipgRole: "Academic Coordinator | Technology & Process Automation",
-    eipgDescription:
-      "The after-school program had to be built from scratch, with no existing structure for students, teachers, academic information or administrative workflows. I planned the operation, defined processes and responsibilities, and developed and maintained a Google Sheets management system that centralized information, automated controls and connected data used by teachers, coordination, school leadership and Finance. I helped recruit teachers, organize teams and improve routines through recurring meetings with leadership, Finance, teachers and students. The program grew to more than 200 active students and over 25 professionals under my leadership, serving staff, students and families. I also managed technology for the English Program delivered with International School, including platforms, digital resources, teacher training and meetings in English. Processes and automation supported growth, reduced manual work and improved access to information and communication between teams.",
+    eipgDescription: "I built the after-school program from the ground up, coordinating academic operations, educational technology and processes.",
     dekraPeriod: "2011 - 2013",
     dekraRole: "Business Process & Feasibility Analyst",
-    dekraDescription:
-      "I identified outdated fleet and municipal data, calculation inconsistencies and structural issues in DEKRA’s franchise feasibility model. I independently studied its interconnected spreadsheets, formulas and databases, then worked with Finance to validate assumptions and calculations. I corrected data and formulas, reorganized the spreadsheets and redesigned the information presentation to make the model clearer and easier to use. I first used the revised model for three new franchise feasibility studies and updated earlier studies with current, validated data. After the improvements were presented, management requested its use to reassess feasibility studies across the entire network of 102 franchises. The revised model gave the Franchising team, Finance and expansion decision-makers a more organized, up-to-date and reliable basis for analysis.",
+    dekraDescription: "I reviewed the economic and financial feasibility model used for franchise expansion, identifying outdated data and calculation inconsistencies.",
     skillsEyebrow: "Skills",
     skillsTitle: ["Knowledge", "transformed into", "solutions."],
-    skillsIntro:
-      "Each skill is connected to real projects, products or challenges. The levels show how I currently use each one, not an abstract percentage.",
+    skillsIntro: "Frontend is my main focus. Related tools and complementary knowledge support API integration, product decisions and collaboration.",
     skillsEvidence: "Evidence",
     skillGroups: [
       {
-        title: "Frontend",
-        skills: [
+        "title": "Frontend",
+        "skills": [
           {
-            name: "React + TypeScript",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Portfolio 2.0 and component-based interfaces.",
+            "name": "React + TypeScript",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "Portfolio 2.0 and TaskFlow: reusable components and typed interfaces."
           },
           {
-            name: "Next.js",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Web applications at nexso, Agência Aurora, StepZone and PetCare.",
+            "name": "JavaScript",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "Torcida Brasil, task lists and browser interactions."
           },
           {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Torcida Brasil, To-do List and browser interactions.",
-          },
-          {
-            name: "HTML + CSS",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Responsive layouts, accessibility and visual identity.",
-          },
-        ],
+            "name": "HTML + CSS",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "Responsive layouts, semantic markup and interaction states."
+          }
+        ]
       },
       {
-        title: "Backend & Data",
-        skills: [
+        "title": "Related tools",
+        "skills": [
           {
-            name: "Node.js + APIs",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Backend, REST APIs, Express and integrations in nexso solutions.",
+            "name": "Next.js",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "Agência Aurora, StepZone and PetCare study projects."
           },
           {
-            name: "PostgreSQL + SQL",
-            level: 2,
-            levelLabel: "Projects",
-            evidence: "Course projects with relational modeling, SQL queries and CRUD operations.",
+            "name": "Tailwind CSS",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "StepZone: responsive styles with utility classes."
           },
           {
-            name: "MongoDB",
-            level: 2,
-            levelLabel: "Projects",
-            evidence:
-              "Course projects with a document database and persistence operations using Mongoose.",
+            "name": "REST APIs",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "React interfaces connected to services at Nexso."
           },
           {
-            name: "Python",
-            level: 3,
-            levelLabel: "Practical",
-            evidence: "Automations and experiments applied at nexso.",
-          },
-        ],
+            "name": "Git + GitHub",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "Version control, branches and project publishing."
+          }
+        ]
       },
       {
-        title: "Tools & Differentiators",
-        skills: [
+        "title": "Complementary knowledge",
+        "skills": [
           {
-            name: "AI Integration",
-            level: 3,
-            levelLabel: "Practical",
-            evidence:
-              "AI integrated into development, automations and intelligent agents.",
+            "name": "Node.js + SQL",
+            "level": 2,
+            "levelLabel": "Complementary",
+            "evidence": "Complementary knowledge for service integration; SQL, PostgreSQL and MongoDB studies."
           },
           {
-            name: "Azure DevOps",
-            level: 3,
-            levelLabel: "Practical",
-            evidence:
-              "Development workflow organization with backlogs, epics, features, user stories and acceptance criteria.",
+            "name": "AI Integration",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "AI-powered customer service at Nexso, still in development; AI-assisted coding."
           },
           {
-            name: "Git + GitHub",
-            level: 3,
-            levelLabel: "Practical",
-            evidence:
-              "Version control, branches and continuous project publishing.",
+            "name": "UX + Product Discovery",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "Requirements, usability and product decisions at Nexso."
           },
           {
-            name: "UX + Product Discovery",
-            level: 4,
-            levelLabel: "Professional",
-            evidence:
-              "Discovery, personas, requirements and experience decisions at nexso.",
+            "name": "Azure DevOps",
+            "level": 3,
+            "levelLabel": "Practical",
+            "evidence": "Feature planning, user stories and delivery tracking."
           },
-        ],
-      },
+          {
+            "name": "Python",
+            "level": 2,
+            "levelLabel": "Complementary",
+            "evidence": "Existing automation and experimentation work; complementary to frontend."
+          }
+        ]
+      }
     ],
+    nexsoHighlights: [
+      "Contributed to the completed omnichannel module, bringing communication channels into a unified customer service interface.",
+      "Build reusable components with React, JavaScript and REST APIs; contribute to frontend architecture, UX and Product Discovery decisions.",
+      "Organize features and user stories in Azure DevOps and contribute to AI-powered customer service, still in development."
+    ],
+    eipgHighlights: [
+      "Defined workflows and built a Google Sheets management system, centralizing information and automating controls across teaching, leadership and Finance.",
+      "Structured the program to serve more than 200 active students and led more than 25 professionals, supporting teacher hiring and team coordination.",
+      "Improved communication and reduced manual work; managed digital resources and teacher training for the English Program with International School."
+    ],
+    dekraHighlights: [
+      "Mapped interconnected spreadsheets and worked with Finance to validate assumptions, correct formulas and reorganize the analytical model.",
+      "Applied the revised model to three planned franchise studies and updated previous studies with reviewed data.",
+      "After the improvements were presented, management requested its use to reassess studies across the network of 102 franchises, supporting decisions with more consistent information."
+    ],
+    navigationLabel: "Main navigation",
+    languageLabel: "Language selector",
+    expertiseLabel: "Areas of expertise",
   },
   pt: {
-    nexsoTags: ["React + JavaScript", "TypeScript + APIs", "Azure DevOps + SaaS", "IA + UX"],
+    nexsoTags: [
+      "React + JavaScript",
+      "APIs REST",
+      "Azure DevOps + SaaS",
+      "UX + Descoberta de produto"
+    ],
     eipgTags: ["Google Sheets", "Operações", "Automação", "Liderança"],
     dekraTags: ["Microsoft Excel", "Análise de dados", "Análise de viabilidade", "Usabilidade"],
 
@@ -605,17 +608,28 @@ const translations = {
     navContact: "Contato",
     openMenu: "Abrir menu",
     closeMenu: "Fechar menu",
-    heroKicker: "Desenvolvedor React",
+    heroKicker: "Frontend Developer",
     heroName: "Guilherme Ferreira",
-    heroTitle: ["React • Node.js • Next.js • Integração de IA • UX", "Construindo produtos digitais com SaaS, IA e UX."],
-    heroDescription: ["Desenvolvo aplicações web com React, Node.js e Next.js,","integrando IA às soluções e ao desenvolvimento.","SaaS, UX e visão de produto orientam o que construo."],
+    heroTitle: [
+      "React • Next.js • Node.js • Integração de IA • UX",
+      "Interfaces construídas para necessidades reais."
+    ],
+    heroDescription: [
+      "Desenvolvo interfaces responsivas com React e Next.js,",
+      "conectando APIs, componentes reutilizáveis e interações claras.",
+      "Qualidade do código, UX e visão de produto orientam meu trabalho."
+    ],
     viewProjects: "Ver projetos",
     contactMe: "Vamos conversar",
     aboutEyebrow: "Sobre",
-    aboutTitle: "Desenvolvimento React com visão de produto.",
-    aboutLead: "Sou Desenvolvedor React, com foco em aplicações web modernas com React, Next.js, TypeScript e JavaScript.",
-    aboutText: ["Na nexso, construo interfaces frontend para soluções SaaS, com atuação complementar em Node.js, APIs REST, Python e Azure DevOps.", "Integro IA às soluções e utilizo desenvolvimento assistido por IA para explorar alternativas e acelerar implementações.", "UX e Product Discovery me ajudam a compreender usuários, definir requisitos claros e tomar melhores decisões de implementação."],
-    metricYears: "anos liderando projetos e aprimorando processos",
+    aboutTitle: "Desenvolvimento frontend com visão de produto.",
+    aboutLead: "Sou Frontend Developer especializado em React e desenvolvo interfaces web com Next.js, JavaScript e TypeScript.",
+    aboutText: [
+      "Conecto requisitos a interfaces responsivas, componentes reutilizáveis e integrações com APIs. UX e descoberta de produto orientam minhas decisões; conhecimentos complementares de Node.js e SQL apoiam a colaboração com backend.",
+      "Na Nexso, contribuí para o módulo omnichannel concluído e participo do atendimento por IA, ainda em desenvolvimento.",
+      "Minha trajetória em liderança acadêmica, automações em Google Sheets e análise de viabilidade fortalece minha capacidade de organizar processos, entender necessidades e resolver problemas."
+    ],
+    metricYears: "anos em análise de processos, liderança acadêmica e tecnologia",
     metricStudents: "alunos em uma operação acadêmica estruturada e escalada",
     metricFranchises: "franquias abrangidas pela reavaliação de viabilidade solicitada",
     experienceEyebrow: "Experiência",
@@ -623,120 +637,133 @@ const translations = {
     experienceIntro:
       "Minha trajetória conecta tecnologia, educação e operações. Cada etapa fortaleceu minha forma de investigar problemas, estruturar processos e transformar complexidade em soluções práticas.",
     nexsoPeriod: "2025 - Atualmente",
-    nexsoRole: "Desenvolvedor React",
-    nexsoDescription:
-      "Conversas distribuídas entre WhatsApp, e-mail e redes sociais dificultam o acompanhamento do atendimento. Na nexso, contribuo para uma plataforma SaaS omnichannel que reúne esses canais em uma única interface para equipes de atendimento, comunicação e relacionamento com clientes. Meu foco é implementar e evoluir interfaces frontend, funcionalidades, componentes e integrações com APIs usando React e JavaScript. Contribuo em reuniões de engenharia e arquitetura e crio, detalho e acompanho features, histórias de usuário, requisitos e entregas técnicas no Azure DevOps. Atualmente desenvolvemos agentes de IA integrados à plataforma para apoiar o atendimento no mesmo ambiente. Também contribuo para a descoberta e estruturação de um novo sistema, transformando necessidades de negócio em decisões de implementação. Até aqui, minha contribuição ajudou a centralizar a comunicação e reduzir a fragmentação do atendimento, enquanto participo da evolução de novos sistemas e da integração de IA.",
+    nexsoRole: "Frontend Developer",
+    nexsoDescription: "Atuo no desenvolvimento de soluções SaaS, traduzindo requisitos de negócio em interfaces React e integrações com APIs.",
     eipgPeriod: "jan. 2017 – dez. 2024",
     eipgRole: "Coordenador Acadêmico | Tecnologia e Automação de Processos",
-    eipgDescription:
-      "O contraturno precisava ser criado do zero, sem estrutura pronta para alunos, professores, informações acadêmicas e rotinas administrativas. Planejei a operação, defini processos e responsabilidades e desenvolvi e mantive um sistema de gestão em Google Sheets para centralizar informações, automatizar controles e conectar dados de professores, coordenação, direção e financeiro. Contribuí para a contratação de professores, organização das equipes e melhoria das rotinas, com reuniões recorrentes com direção, financeiro, professores e alunos. A operação cresceu para mais de 200 alunos ativos e mais de 25 profissionais sob minha liderança, atendendo equipes, alunos e famílias. Também gerenciei a tecnologia do Programa de Inglês em parceria com a International School, incluindo plataformas, recursos digitais, treinamento de professores e reuniões em inglês. Os processos e automações sustentaram o crescimento, reduziram trabalho manual e melhoraram o acesso às informações e a comunicação entre as áreas.",
+    eipgDescription: "Estruturei o programa de Contraturno desde o início, coordenando operações acadêmicas, tecnologia educacional e processos.",
     dekraPeriod: "2011 - 2013",
     dekraRole: "Analista de Processos e Viabilidade de Negócios",
-    dekraDescription:
-      "Identifiquei dados de frota e municípios desatualizados, inconsistências nos cálculos e problemas estruturais no modelo de viabilidade de franquias da DEKRA. Estudei de forma independente a lógica das planilhas interligadas, fórmulas e bases de dados e trabalhei com o Financeiro para validar premissas e cálculos. Corrigi dados e fórmulas, reorganizei as planilhas e redesenhei a apresentação das informações para tornar o modelo mais claro e funcional. Apliquei inicialmente o modelo revisado em estudos de viabilidade de três novas franquias e refiz estudos anteriores com dados atuais e validados. Após a apresentação das melhorias, a gestão solicitou seu uso para reavaliar os estudos de toda a rede de 102 franquias. O modelo passou a oferecer uma base mais organizada, atualizada e confiável para Franquias, Financeiro e gestores envolvidos nas decisões de expansão.",
+    dekraDescription: "Revisei o modelo de viabilidade econômico-financeira utilizado na expansão de franquias, identificando dados desatualizados e inconsistências nos cálculos.",
     skillsEyebrow: "Habilidades",
     skillsTitle: ["Conhecimento", "que se transforma", "em solução."],
-    skillsIntro:
-      "Cada habilidade está ligada a projetos, produtos ou desafios reais. Os níveis mostram como utilizo cada uma hoje, não uma porcentagem abstrata.",
+    skillsIntro: "Frontend é minha especialidade principal. Ferramentas relacionadas e conhecimentos complementares apoiam integrações, decisões de produto e colaboração.",
     skillsEvidence: "Evidência",
     skillGroups: [
       {
-        title: "Frontend",
-        skills: [
+        "title": "Frontend",
+        "skills": [
           {
-            name: "React + TypeScript",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Portfólio 2.0 e interfaces componentizadas.",
+            "name": "React + TypeScript",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "Portfólio 2.0 e TaskFlow: componentes reutilizáveis e interfaces tipadas."
           },
           {
-            name: "Next.js",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Aplicações web na nexso, Agência Aurora, StepZone e PetCare.",
+            "name": "JavaScript",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "Torcida Brasil, listas de tarefas e interações no navegador."
           },
           {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Torcida Brasil, To-do List e interações no navegador.",
-          },
-          {
-            name: "HTML + CSS",
-            level: 3,
-            levelLabel: "Prática",
-            evidence:
-              "Layouts responsivos, acessibilidade e identidade visual.",
-          },
-        ],
+            "name": "HTML + CSS",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "Layouts responsivos, marcação semântica e estados de interação."
+          }
+        ]
       },
       {
-        title: "Backend & Dados",
-        skills: [
+        "title": "Ferramentas relacionadas",
+        "skills": [
           {
-            name: "Node.js + APIs",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Backend, APIs REST, Express e integrações em soluções da nexso.",
+            "name": "Next.js",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "Projetos de estudo Agência Aurora, StepZone e PetCare."
           },
           {
-            name: "PostgreSQL + SQL",
-            level: 2,
-            levelLabel: "Projetos",
-            evidence: "Projetos do curso com modelagem relacional, consultas SQL e operações CRUD.",
+            "name": "Tailwind CSS",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "StepZone: estilos responsivos com classes utilitárias."
           },
           {
-            name: "MongoDB",
-            level: 2,
-            levelLabel: "Projetos",
-            evidence:
-              "Projetos do curso com banco de dados documental e operações de persistência utilizando Mongoose.",
+            "name": "APIs REST",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "Interfaces React conectadas a serviços na Nexso."
           },
           {
-            name: "Python",
-            level: 3,
-            levelLabel: "Prática",
-            evidence: "Automações e experimentações aplicadas à nexso.",
-          },
-        ],
+            "name": "Git + GitHub",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "Controle de versão, branches e publicação dos projetos."
+          }
+        ]
       },
       {
-        title: "Ferramentas & Diferenciais",
-        skills: [
+        "title": "Conhecimentos complementares",
+        "skills": [
           {
-            name: "Integração de IA",
-            level: 3,
-            levelLabel: "Prática",
-            evidence:
-              "IA integrada ao desenvolvimento, automações e agentes inteligentes.",
+            "name": "Node.js + SQL",
+            "level": 2,
+            "levelLabel": "Complementar",
+            "evidence": "Conhecimentos complementares para integração com serviços; estudos de SQL, PostgreSQL e MongoDB."
           },
           {
-            name: "Azure DevOps",
-            level: 3,
-            levelLabel: "Prática",
-            evidence:
-              "Organização do ciclo de desenvolvimento com backlogs, épicos, features, histórias e critérios de aceitação.",
+            "name": "Integração de IA",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "Atendimento por IA na Nexso ainda em desenvolvimento; programação assistida por IA."
           },
           {
-            name: "Git + GitHub",
-            level: 3,
-            levelLabel: "Prática",
-            evidence:
-              "Versionamento, branches e publicação contínua dos projetos.",
+            "name": "UX + Descoberta de produto",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "Requisitos, usabilidade e decisões de produto na Nexso."
           },
           {
-            name: "UX + Product Discovery",
-            level: 4,
-            levelLabel: "Profissional",
-            evidence:
-              "Discovery, personas, requisitos e decisões de experiência na nexso.",
+            "name": "Azure DevOps",
+            "level": 3,
+            "levelLabel": "Prática",
+            "evidence": "Organização de funcionalidades, histórias de usuário e acompanhamento de entregas."
           },
-        ],
-      },
+          {
+            "name": "Python",
+            "level": 2,
+            "levelLabel": "Complementar",
+            "evidence": "Automações e experimentações já realizadas; conhecimento complementar ao frontend."
+          }
+        ]
+      }
     ],
+    nexsoHighlights: [
+      "Contribuí para o módulo omnichannel concluído, reunindo canais de comunicação em uma interface de atendimento.",
+      "Desenvolvo componentes reutilizáveis com React, JavaScript e APIs REST; participo de decisões de arquitetura frontend, UX e descoberta de produto.",
+      "Organizo funcionalidades e histórias de usuário no Azure DevOps e contribuo para o atendimento por IA, ainda em desenvolvimento."
+    ],
+    eipgHighlights: [
+      "Defini fluxos e desenvolvi um sistema de gestão em Google Sheets, centralizando informações e automatizando controles entre professores, direção e financeiro.",
+      "Estruturei o programa para mais de 200 alunos ativos e liderei mais de 25 profissionais, participando da contratação de professores e organização das equipes.",
+      "Melhorei a comunicação e reduzi trabalho manual; gerenciei recursos digitais e formação de professores do Programa de Inglês com a International School."
+    ],
+    dekraHighlights: [
+      "Mapeei planilhas interligadas e trabalhei com o Financeiro para validar premissas, corrigir fórmulas e reorganizar o modelo analítico.",
+      "Apliquei o modelo revisado aos estudos de três novas franquias e atualizei estudos anteriores com dados conferidos.",
+      "Após a apresentação das melhorias, a gestão solicitou seu uso na reavaliação dos estudos da rede de 102 franquias, apoiando decisões com informações mais consistentes."
+    ],
+    navigationLabel: "Navegação principal",
+    languageLabel: "Seletor de idiomas",
+    expertiseLabel: "Áreas de atuação",
   },
   it: {
-    nexsoTags: ["React + JavaScript", "TypeScript + API", "Azure DevOps + SaaS", "IA + UX"],
+    nexsoTags: [
+      "React + JavaScript",
+      "API REST",
+      "Azure DevOps + SaaS",
+      "UX + Analisi di prodotto"
+    ],
     eipgTags: ["Google Sheets", "Operazioni", "Automazione", "Leadership"],
     dekraTags: ["Microsoft Excel", "Analisi dei dati", "Analisi di fattibilità", "Usabilità"],
 
@@ -749,17 +776,28 @@ const translations = {
     navContact: "Contatti",
     openMenu: "Apri menu",
     closeMenu: "Chiudi menu",
-    heroKicker: "Sviluppatore React",
+    heroKicker: "Frontend Developer",
     heroName: "Guilherme Ferreira",
-    heroTitle: ["React • Node.js • Next.js • Integrazione AI • UX", "Creo prodotti digitali con SaaS, IA e UX."],
-    heroDescription: ["Sviluppo applicazioni web con React, Node.js e Next.js,","integrando l’IA nelle soluzioni e nel processo di sviluppo.","SaaS, UX e visione di prodotto guidano ciò che costruisco."],
+    heroTitle: [
+      "React • Next.js • Node.js • Integrazione IA • UX",
+      "Interfacce pensate per esigenze reali."
+    ],
+    heroDescription: [
+      "Sviluppo interfacce responsive con React e Next.js,",
+      "collegando API, componenti riutilizzabili e interazioni chiare.",
+      "Qualità del codice, UX e visione di prodotto guidano il mio lavoro."
+    ],
     viewProjects: "Vedi progetti",
     contactMe: "Parliamo",
     aboutEyebrow: "Chi sono",
-    aboutTitle: "Sviluppo React con visione di prodotto.",
-    aboutLead: "Sono uno sviluppatore React e realizzo applicazioni web moderne con React, Next.js, TypeScript e JavaScript.",
-    aboutText: ["In nexso realizzo interfacce frontend per soluzioni SaaS, con competenze complementari in Node.js, API REST, Python e Azure DevOps.", "Integro l’IA nelle soluzioni e utilizzo strumenti di sviluppo assistito dall’IA per esplorare alternative e accelerare l’implementazione.", "UX e Product Discovery mi aiutano a comprendere gli utenti, definire requisiti chiari e prendere decisioni di implementazione più consapevoli."],
-    metricYears: "anni alla guida di progetti e nel miglioramento dei processi",
+    aboutTitle: "Sviluppo frontend con visione di prodotto.",
+    aboutLead: "Sono un Frontend Developer specializzato in React e sviluppo interfacce web con Next.js, JavaScript e TypeScript.",
+    aboutText: [
+      "Traduco i requisiti in interfacce responsive, componenti riutilizzabili e integrazioni con API. UX e analisi delle esigenze di prodotto guidano le mie scelte; le conoscenze complementari di Node.js e SQL facilitano la collaborazione con i team backend.",
+      "In Nexso ho contribuito al modulo omnicanale completato e partecipo allo sviluppo dell’assistenza basata sull’IA, ancora in corso.",
+      "Il mio percorso nella gestione didattica, nelle automazioni con Google Sheets e nell’analisi di fattibilità rafforza la mia capacità di organizzare processi, comprendere esigenze e risolvere problemi."
+    ],
+    metricYears: "anni tra analisi dei processi, coordinamento didattico e tecnologia",
     metricStudents:
       "studenti in una struttura accademica organizzata e ampliata",
     metricFranchises: "sedi in franchising incluse nel riesame di fattibilità richiesto",
@@ -772,116 +810,125 @@ const translations = {
     experienceIntro:
       "Il mio percorso collega tecnologia, educazione e operazioni. Ogni fase ha rafforzato il mio modo di analizzare i problemi, strutturare i processi e trasformare la complessità in soluzioni pratiche.",
     nexsoPeriod: "2025 - Presente",
-    nexsoRole: "Sviluppatore React",
-    nexsoDescription:
-      "Le conversazioni distribuite tra WhatsApp, email e social network rendono difficile seguire le richieste dei clienti. In nexso contribuisco a una piattaforma SaaS omnicanale che riunisce questi canali in un’unica interfaccia per i team di assistenza, comunicazione e relazione con i clienti. Mi concentro sullo sviluppo e sull’evoluzione di interfacce frontend, funzionalità, componenti e integrazioni con API usando React e JavaScript. Contribuisco alle riunioni di ingegneria e architettura e definisco e seguo funzionalità, user story, requisiti e consegne tecniche in Azure DevOps. Stiamo sviluppando agenti di IA integrati nella piattaforma per supportare l’assistenza nello stesso ambiente. Contribuisco inoltre all’analisi delle esigenze e alla progettazione di un nuovo sistema, traducendo le necessità aziendali in decisioni di implementazione. Finora il mio contributo ha aiutato a centralizzare la comunicazione e ridurre la frammentazione dell’assistenza, affiancando lo sviluppo di nuovi sistemi e l’integrazione dell’IA.",
+    nexsoRole: "Frontend Developer",
+    nexsoDescription: "Contribuisco allo sviluppo di soluzioni SaaS, traducendo i requisiti aziendali in interfacce React e integrazioni con API.",
     eipgPeriod: "gen. 2017 – dic. 2024",
     eipgRole: "Coordinatore Accademico | Tecnologia e Automazione dei Processi",
-    eipgDescription:
-      "Il programma di attività extrascolastiche doveva essere creato da zero, senza una struttura per studenti, docenti, informazioni didattiche e procedure amministrative. Ho pianificato l’operazione, definito processi e responsabilità e sviluppato e mantenuto un sistema gestionale in Google Sheets per centralizzare le informazioni, automatizzare i controlli e collegare i dati utilizzati da docenti, coordinamento, direzione e amministrazione finanziaria. Ho contribuito alla selezione dei docenti, all’organizzazione dei team e al miglioramento delle procedure attraverso incontri regolari con direzione, amministrazione finanziaria, docenti e studenti. Il programma è cresciuto fino a oltre 200 studenti attivi e più di 25 professionisti sotto la mia guida, servendo personale, studenti e famiglie. Ho inoltre gestito la tecnologia del Programma di Inglese in collaborazione con International School, comprese piattaforme, risorse digitali, formazione dei docenti e riunioni in inglese. Processi e automazioni hanno sostenuto la crescita, ridotto il lavoro manuale e migliorato l’accesso alle informazioni e la comunicazione tra le aree.",
+    eipgDescription: "Ho creato da zero il programma di attività extrascolastiche, coordinando operazioni didattiche, tecnologia educativa e processi.",
     dekraPeriod: "2011 - 2013",
     dekraRole: "Analista dei Processi Aziendali e della Fattibilità Economica",
-    dekraDescription:
-      "Ho individuato dati obsoleti sul parco veicoli e sui comuni, incongruenze nei calcoli e problemi strutturali nel modello DEKRA per gli studi di fattibilità delle nuove sedi in franchising. Ho studiato autonomamente la logica dei fogli di calcolo collegati, delle formule e delle basi dati, lavorando con il team finanziario per validare ipotesi e calcoli. Ho corretto dati e formule, riorganizzato i fogli e riprogettato la presentazione delle informazioni per rendere il modello più chiaro e funzionale. Ho utilizzato inizialmente il modello rivisto per gli studi di fattibilità di tre nuove sedi e aggiornato gli studi precedenti con dati attuali e validati. Dopo la presentazione delle migliorie, la direzione ne ha richiesto l’utilizzo per riesaminare gli studi dell’intera rete di 102 sedi in franchising. Il modello ha fornito al team Franchising, al team finanziario e ai responsabili dell’espansione una base più organizzata, aggiornata e affidabile.",
+    dekraDescription: "Ho rivisto il modello di fattibilità economico-finanziaria per l’espansione delle sedi in franchising, individuando dati obsoleti e incongruenze nei calcoli.",
     skillsEyebrow: "Competenze",
     skillsTitle: ["Conoscenze", "che si trasformano", "in soluzioni."],
-    skillsIntro:
-      "Ogni competenza è collegata a progetti, prodotti o sfide reali. I livelli mostrano come la utilizzo oggi, non una percentuale astratta.",
+    skillsIntro: "Il frontend è la mia specializzazione principale. Strumenti correlati e conoscenze complementari supportano integrazioni, decisioni di prodotto e collaborazione.",
     skillsEvidence: "Evidenza",
     skillGroups: [
       {
-        title: "Frontend",
-        skills: [
+        "title": "Frontend",
+        "skills": [
           {
-            name: "React + TypeScript",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Portfolio 2.0 e interfacce basate su componenti.",
+            "name": "React + TypeScript",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "Portfolio 2.0 e TaskFlow: componenti riutilizzabili e interfacce tipizzate."
           },
           {
-            name: "Next.js",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Applicazioni web in nexso, Agência Aurora, StepZone e PetCare.",
+            "name": "JavaScript",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "Torcida Brasil, liste di attività e interazioni nel browser."
           },
           {
-            name: "JavaScript",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Torcida Brasil, To-do List e interazioni nel browser.",
-          },
-          {
-            name: "HTML + CSS",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Layout responsive, accessibilità e identità visiva.",
-          },
-        ],
+            "name": "HTML + CSS",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "Layout responsive, markup semantico e stati di interazione."
+          }
+        ]
       },
       {
-        title: "Backend e dati",
-        skills: [
+        "title": "Strumenti correlati",
+        "skills": [
           {
-            name: "Node.js + API",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence:
-              "Backend, API REST, Express e integrazioni nelle soluzioni di nexso.",
+            "name": "Next.js",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "Progetti di studio Agência Aurora, StepZone e PetCare."
           },
           {
-            name: "PostgreSQL + SQL",
-            level: 2,
-            levelLabel: "Progetti",
-            evidence: "Progetti del corso con modellazione relazionale, query SQL e operazioni CRUD.",
+            "name": "Tailwind CSS",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "StepZone: stili responsive con classi di utilità."
           },
           {
-            name: "MongoDB",
-            level: 2,
-            levelLabel: "Progetti",
-            evidence:
-              "Progetti del corso con database documentale e operazioni di persistenza tramite Mongoose.",
+            "name": "API REST",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "Interfacce React collegate ai servizi in Nexso."
           },
           {
-            name: "Python",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence: "Automazioni e sperimentazioni applicate in nexso.",
-          },
-        ],
+            "name": "Git + GitHub",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "Controllo di versione, branch e pubblicazione dei progetti."
+          }
+        ]
       },
       {
-        title: "Strumenti e competenze distintive",
-        skills: [
+        "title": "Conoscenze complementari",
+        "skills": [
           {
-            name: "Integrazione IA",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence:
-              "IA integrata nello sviluppo, nelle automazioni e negli agenti intelligenti.",
+            "name": "Node.js + SQL",
+            "level": 2,
+            "levelLabel": "Complementare",
+            "evidence": "Conoscenze complementari per integrare servizi; studio di SQL, PostgreSQL e MongoDB."
           },
           {
-            name: "Azure DevOps",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence:
-              "Organizzazione del ciclo di sviluppo con backlog, epic, feature, user story e criteri di accettazione.",
+            "name": "Integrazione IA",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "Assistenza basata sull’IA in Nexso ancora in sviluppo; programmazione assistita dall’IA."
           },
           {
-            name: "Git + GitHub",
-            level: 3,
-            levelLabel: "Pratica",
-            evidence:
-              "Controllo di versione, branch e pubblicazione continua dei progetti.",
+            "name": "UX + Analisi di prodotto",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "Requisiti, usabilità e decisioni di prodotto in Nexso."
           },
           {
-            name: "UX + Product Discovery",
-            level: 4,
-            levelLabel: "Professionale",
-            evidence: "Discovery, personas, requisiti e decisioni UX in nexso.",
+            "name": "Azure DevOps",
+            "level": 3,
+            "levelLabel": "Pratica",
+            "evidence": "Pianificazione delle funzionalità, storie utente e monitoraggio delle consegne."
           },
-        ],
-      },
+          {
+            "name": "Python",
+            "level": 2,
+            "levelLabel": "Complementare",
+            "evidence": "Automazioni e sperimentazioni già svolte; conoscenza complementare al frontend."
+          }
+        ]
+      }
     ],
+    nexsoHighlights: [
+      "Ho contribuito al modulo omnicanale completato, riunendo i canali di comunicazione in un’unica interfaccia per l’assistenza clienti.",
+      "Sviluppo componenti riutilizzabili con React, JavaScript e API REST e contribuisco alle decisioni di architettura frontend, UX e analisi delle esigenze di prodotto.",
+      "Organizzo funzionalità e storie utente in Azure DevOps e contribuisco all’assistenza basata sull’IA, ancora in fase di sviluppo."
+    ],
+    eipgHighlights: [
+      "Ho definito i flussi e sviluppato un sistema gestionale in Google Sheets, centralizzando informazioni e automatizzando controlli tra docenti, direzione e amministrazione finanziaria.",
+      "Ho strutturato il programma per oltre 200 studenti attivi e guidato più di 25 professionisti, contribuendo alla selezione dei docenti e all’organizzazione dei team.",
+      "Ho migliorato la comunicazione e ridotto il lavoro manuale; ho gestito risorse digitali e formazione dei docenti del Programma di Inglese con International School."
+    ],
+    dekraHighlights: [
+      "Ho analizzato i fogli di calcolo collegati e collaborato con il team finanziario per validare ipotesi, correggere formule e riorganizzare il modello analitico.",
+      "Ho applicato il modello rivisto agli studi di tre nuove sedi e aggiornato gli studi precedenti con dati verificati.",
+      "Dopo la presentazione delle migliorie, la direzione ne ha richiesto l’uso per riesaminare gli studi della rete di 102 sedi, supportando le decisioni con informazioni più coerenti."
+    ],
+    navigationLabel: "Navigazione principale",
+    languageLabel: "Selettore della lingua",
+    expertiseLabel: "Aree di competenza",
   },
 } as const;
 
@@ -981,9 +1028,9 @@ function App() {
 
   useEffect(() => {
     localStorage.setItem("portfolio-language", language);
-    document.documentElement.lang = language;
+    document.documentElement.lang = language === "pt" ? "pt-BR" : language;
     const title = `${copy.heroName} | ${copy.heroKicker}`;
-    const description = `${copy.heroKicker} | ${copy.heroTitle[0]} — TypeScript, JavaScript, Python, APIs, Azure DevOps, SaaS.`;
+    const description = `${copy.heroKicker} | ${copy.heroTitle[0]} — ${copy.aboutLead}`;
     document.title = title;
     for (const selector of ['meta[name="title"]', 'meta[property="og:title"]', 'meta[name="twitter:title"]']) {
       document.querySelector(selector)?.setAttribute("content", title);
@@ -1076,7 +1123,7 @@ function App() {
           </button>
 
           <div className={`header-content ${menuOpen ? "is-open" : ""}`}>
-            <nav className="main-nav" aria-label="Main navigation">
+            <nav className="main-nav" aria-label={copy.navigationLabel}>
               {navItems.map(([section, label]) => (
                 <a
                   key={section}
@@ -1088,7 +1135,7 @@ function App() {
               ))}
             </nav>
 
-            <div className="language-switcher" aria-label="Language selector">
+            <div className="language-switcher" aria-label={copy.languageLabel}>
               {(["en", "pt", "it"] as Language[]).map((item) => (
                 <button
                   key={item}
@@ -1138,10 +1185,10 @@ function App() {
                 </a>
               </div>
 
-              <div className="hero-tags" aria-label="Areas of expertise">
+              <div className="hero-tags" aria-label={copy.expertiseLabel}>
                 <span>React</span>
-                <span>Node.js</span>
                 <span>Next.js</span>
+                <span>Node.js</span>
                 <span>{copy.heroTitle[0].split(" • ")[3]}</span>
                 <span>UX</span>
               </div>
@@ -1229,6 +1276,9 @@ function App() {
 
                 <div className="experience-details">
                   <p>{copy.nexsoDescription}</p>
+                  <ul className="experience-highlights">
+                    {copy.nexsoHighlights.map((item) => <li key={item}>{item}</li>)}
+                  </ul>
                   <div className="experience-tags">
                     {copy.nexsoTags.map((tag) => <span key={tag}>{tag}</span>)}
                   </div>
@@ -1246,6 +1296,9 @@ function App() {
 
                 <div className="experience-details">
                   <p>{copy.eipgDescription}</p>
+                  <ul className="experience-highlights">
+                    {copy.eipgHighlights.map((item) => <li key={item}>{item}</li>)}
+                  </ul>
                   <div className="experience-tags">
                     {copy.eipgTags.map((tag) => <span key={tag}>{tag}</span>)}
                   </div>
@@ -1263,6 +1316,9 @@ function App() {
 
                 <div className="experience-details">
                   <p>{copy.dekraDescription}</p>
+                  <ul className="experience-highlights">
+                    {copy.dekraHighlights.map((item) => <li key={item}>{item}</li>)}
+                  </ul>
                   <div className="experience-tags">
                     {copy.dekraTags.map((tag) => <span key={tag}>{tag}</span>)}
                   </div>

@@ -1469,6 +1469,20 @@ button {
   line-height: 1.75;
 }
 
+
+.experience-highlights {
+  max-width: 650px;
+  margin: 12px 0 0;
+  padding-left: 1.15rem;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.75;
+}
+
+.experience-highlights li + li {
+  margin-top: 8px;
+}
+
 .experience-tags {
   display: flex;
   flex-wrap: wrap;

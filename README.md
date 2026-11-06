@@ -1,119 +1,56 @@
-# Portfolio 2.0
+# Portfólio 2.0 — Guilherme Ferreira
 
-[English](#english) | [Português](#portugues)
+**Frontend Developer | React | Next.js | Node.js | AI Integration | UX**
 
-[Live Demo](https://fsgui89.github.io/portfolio-guilherme-ferreira/) · [Repository](https://github.com/fsgui89/portfolio-guilherme-ferreira)
+[Live portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/) · [LinkedIn](https://www.linkedin.com/in/guilhermefsdev/) · [GitHub](https://github.com/fsgui89)
 
-<a id="english"></a>
+[English](#english) · [Português](#português) · [Italiano](#italiano)
 
 ## English
 
-A multilingual developer portfolio presenting Guilherme Ferreira's work, technical skills and professional experience.
-
-### Overview
-
-Built to help visitors explore projects, inspect source code and find relevant professional information in English, Portuguese or Italian. The application presents Guilherme Ferreira as a React Developer, with product thinking and UX supporting the way the work is organized.
-
-### Tech Stack
-
-React • TypeScript • Vite • CSS
+A responsive frontend portfolio built with **React 19, TypeScript, Vite and CSS**, presenting professional experience, skills, projects and certificates in English, Brazilian Portuguese and Italian. The professional focus is frontend development specializing in React, supported by UX and product thinking.
 
 ### Features
 
-- English, Portuguese and Italian interfaces, with the selected language saved in localStorage.
-- Eight project cards with previews, technology lists, live demos and repository links.
-- Experience and skills sections, including evidence attached to individual skills.
-- Six certificates shown initially, an option to view all, and a certificate viewer with previous/next controls.
-- Responsive navigation, mobile menu, contact links and a back-to-top link.
+- Three complete language versions; language preference persists in `localStorage` and updates document language, title and social metadata.
+- Eight project cards with previews, actual technology lists, live demonstrations and source links. Study projects are identified as such.
+- Concise professional experience and skill evidence, with Node.js and data knowledge presented as complementary.
+- Six certificates initially, expandable selection and an image viewer with Escape/arrow-key controls and focus restoration.
+- Responsive desktop/mobile navigation, contact links, back-to-top navigation and reduced-motion CSS.
 
-### Technical Highlights
-
-- Typed project data and translation objects drive the interface from src/App.tsx.
-- React state controls language selection, mobile navigation and certificate visibility.
-- The certificate viewer supports Escape and arrow keys, focuses its close button and restores the trigger's focus when closed.
-- CSS media queries adapt the layout; Vite's base path and import.meta.env.BASE_URL support GitHub Pages asset URLs.
-
-### Getting Started
-
-Prerequisites: Git, Node.js 22.12 or later compatible with the dependencies, and npm.
-
-```bash
-git clone https://github.com/fsgui89/portfolio-guilherme-ferreira.git
-cd portfolio-guilherme-ferreira
-npm ci
-npm run dev
-```
-
-Open [http://localhost:5173/portfolio-guilherme-ferreira/](http://localhost:5173/portfolio-guilherme-ferreira/) (or the port reported by Vite).
-
-Available commands:
-
-```bash
-npm run build
-npm run lint
-npm run preview
-```
-
-The build produces `dist/`; `preview` serves that build locally. The existing workflow publishes `dist/` to GitHub Pages.
-
-### Project Structure
-
-- `src/App.tsx`: sections, translations, project data and certificate viewer.
-- `src/index.css` and `src/App.css`: presentation styles.
-- `public/images/`: profile, project previews and certificates.
-- `vite.config.ts`: build configuration and repository base path.
-
-### Implementation Scope
-
-The portfolio itself is a frontend application. Node.js, Python, databases and AI mentioned in the professional content describe the author's wider work and skills; they are not backend services or AI features implemented in this repository.
-
-### Preview
-
-Existing project preview maintained in the portfolio repository.
-
-![Portfolio 2.0 preview](https://raw.githubusercontent.com/fsgui89/portfolio-guilherme-ferreira/main/public/images/projects/portfolio-2.0.webp)
-
-### Author
-
-**Guilherme Ferreira**  
-React Developer
-
-[GitHub](https://github.com/fsgui89) · [LinkedIn](https://linkedin.com/in/guilhermefsdev) · [Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/)
-
----
-
-<a id="portugues"></a>
+This repository implements the portfolio frontend. Next.js, Tailwind CSS, Node.js, databases and AI mentioned in the content describe other projects or complementary knowledge; they are not frameworks or backend services used by this portfolio.
 
 ## Português
 
-Portfólio multilíngue que apresenta os projetos, as habilidades técnicas e a experiência profissional de Guilherme Ferreira.
-
-### Visão geral
-
-Desenvolvido para facilitar a exploração dos projetos, o acesso ao código e a consulta de informações profissionais em inglês, português ou italiano. A aplicação apresenta Guilherme Ferreira como React Developer, com visão de produto e UX orientando a organização do conteúdo.
-
-### Tecnologias
-
-React • TypeScript • Vite • CSS
+Portfólio frontend responsivo desenvolvido com **React 19, TypeScript, Vite e CSS**, com experiência profissional, habilidades, projetos e certificados em inglês, português brasileiro e italiano. O posicionamento é Frontend Developer especializado em React, com UX e visão de produto.
 
 ### Funcionalidades
 
-- Interface em inglês, português e italiano, com preferência de idioma salva no localStorage.
-- Oito cards de projetos com prévias, tecnologias, demonstrações e links dos repositórios.
-- Seções de experiência e habilidades, com evidências associadas às competências.
-- Seis certificados na seleção inicial, opção de ver todos e visualizador com navegação anterior/próximo.
-- Navegação responsiva, menu para telas menores, links de contato e retorno ao topo.
+- Três versões completas, com idioma persistido no `localStorage` e atualização do idioma do documento, título e metadados sociais.
+- Oito projetos com prévias, tecnologias utilizadas, demonstrações e código-fonte. Projetos de estudo são identificados.
+- Experiências concisas e evidências de competências; Node.js e conhecimentos de dados aparecem como complementares.
+- Seis certificados na seleção inicial, expansão da lista e visualizador com Escape, setas e retorno do foco ao botão de origem.
+- Navegação responsiva para desktop e mobile, contatos, retorno ao topo e CSS que respeita a preferência por menos animações.
 
-### Destaques técnicos
+Este repositório implementa o frontend do portfólio. Next.js, Tailwind CSS, Node.js, bancos de dados e IA citados nos textos representam outros projetos ou conhecimentos complementares; não são frameworks ou serviços de backend utilizados neste portfólio.
 
-- Dados tipados dos projetos e objetos de tradução alimentam a interface em src/App.tsx.
-- Estados do React controlam idioma, menu e exibição dos certificados.
-- O visualizador aceita Escape e setas, direciona o foco para o botão de fechar e devolve o foco ao elemento de origem ao fechar.
-- Media queries adaptam o layout; o base path do Vite e import.meta.env.BASE_URL ajustam os caminhos de assets para o GitHub Pages.
+## Italiano
 
-### Como executar
+Portfolio frontend responsive realizzato con **React 19, TypeScript, Vite e CSS**, con esperienze professionali, competenze, progetti e certificati in inglese, portoghese brasiliano e italiano. Il profilo professionale è Frontend Developer specializzato in React, con attenzione alla UX e al prodotto.
 
-Pré-requisitos: Git, Node.js 22.12 ou superior compatível com as dependências, e npm.
+### Funzionalità
+
+- Tre versioni linguistiche complete, con preferenza salvata in `localStorage` e aggiornamento della lingua del documento, del titolo e dei metadati social.
+- Otto progetti con anteprime, tecnologie utilizzate, demo e codice sorgente. I progetti di studio sono indicati esplicitamente.
+- Esperienze concise e competenze documentate; Node.js e le conoscenze sui dati sono complementari.
+- Sei certificati iniziali, elenco espandibile e visualizzatore con Escape, frecce e ripristino del focus.
+- Navigazione responsive per desktop e dispositivi mobili, contatti, ritorno all’inizio e rispetto della preferenza per animazioni ridotte.
+
+Questo repository implementa il frontend del portfolio. Next.js, Tailwind CSS, Node.js, database e IA citati nei testi riguardano altri progetti o conoscenze complementari; non sono framework o servizi backend utilizzati da questo portfolio.
+
+## Local development / Execução local / Avvio locale
+
+Use a current Node.js LTS version compatible with the locked dependencies (Node.js 22.12+ or 24 LTS) and npm.
 
 ```bash
 git clone https://github.com/fsgui89/portfolio-guilherme-ferreira.git
@@ -122,37 +59,30 @@ npm ci
 npm run dev
 ```
 
-Abra [http://localhost:5173/portfolio-guilherme-ferreira/](http://localhost:5173/portfolio-guilherme-ferreira/) (ou a porta indicada pelo Vite).
+Open the local URL printed by Vite, normally `http://localhost:5173/portfolio-guilherme-ferreira/`.
 
-Comandos disponíveis:
+| Command | Purpose |
+| --- | --- |
+| `npm run dev` | Development server with live updates |
+| `npm run build` | TypeScript checks and production build in `dist/` |
+| `npm run lint` | ESLint checks |
+| `npm run preview` | Serve the production build locally |
 
-```bash
-npm run build
-npm run lint
-npm run preview
-```
+## Structure
 
-O build gera `dist/`; `preview` serve o build localmente. O workflow existente publica `dist/` no GitHub Pages.
+- `src/App.tsx`: typed project data, PT/EN/IT translations, sections, navigation and certificate viewer.
+- `src/index.css`: responsive presentation, animations and component styles.
+- `src/main.tsx`: React entry point and stylesheet import.
+- `public/images/`: original profile photo, project previews and certificate images.
+- `public/icons.svg` and `public/favicon.svg`: visual assets.
+- `index.html`: default document and social metadata.
+- `vite.config.ts`: React plugin and `/portfolio-guilherme-ferreira/` base path.
+- `.github/workflows/deploy.yml`: existing GitHub Pages publication workflow.
 
-### Estrutura do projeto
+## Publication
 
-- `src/App.tsx`: seções, traduções, dados de projetos e visualizador de certificados.
-- `src/index.css` e `src/App.css`: estilos da interface.
-- `public/images/`: perfil, prévias dos projetos e certificados.
-- `vite.config.ts`: configuração de build e caminho base do repositório.
+A push to `main` runs the existing GitHub Actions workflow: `npm ci`, TypeScript/Vite build, artifact upload and GitHub Pages deployment. Preserve the Vite base path when publishing at the repository URL.
 
-### Escopo da implementação
+**Guilherme Ferreira — Frontend Developer, specializing in React.**
 
-O portfólio é uma aplicação frontend. Node.js, Python, bancos de dados e IA citados no conteúdo profissional representam outras atuações e habilidades do autor; não são serviços de backend ou recursos de IA implementados neste repositório.
-
-### Prévia
-
-A imagem existente na seção Preview acima é mantida no repositório do portfólio. A versão interativa está no link Live Demo no início deste README.
-
-### Autor
-
-**Guilherme Ferreira**  
-React Developer
-
-[GitHub](https://github.com/fsgui89) · [LinkedIn](https://linkedin.com/in/guilhermefsdev) · [Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/)
-
+[Portfolio](https://fsgui89.github.io/portfolio-guilherme-ferreira/) · [LinkedIn](https://www.linkedin.com/in/guilhermefsdev/) · [GitHub](https://github.com/fsgui89)
